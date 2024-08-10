@@ -3,6 +3,8 @@ title: "Complete outline"
 author: "Jonah Spector"
 ---
 
+# Complete Outline
+
 * Cobalt Saber (prequel, pre-interface 2040s): Follows the story of Aleks
   Bosak, Rafael's grandfather, during the war.
     * Chapter: Jordan Hayes (first interfaced person, 2048)

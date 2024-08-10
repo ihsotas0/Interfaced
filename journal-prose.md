@@ -3,105 +3,107 @@ title: "Interface worldbuilding prose"
 author: "Jonah Spector"
 ---
 
-Prose and world building are organized by date here. Links (hopefully) go to
-supplemental pages which may simply copy content from here. Supplemental pages
-may also include novel prose.
+# Interface Worldbuilding Prose
+
+Prose and world building are organized by date here. Supplemental pages may
+simply copy content from here. Supplemental pages may also include novel prose,
+possibly copied from here as well. Intra-file hyperlinks between entries are
+used for continuity between prose and exposition segments.
 
 ## 2024-06-16
 
-Start of organized [Interface](interface.md) writing journal.
-
-[*Joining*](interface.joining.md), in reference to [meshing](matrix.meshing.md),
-was invented the early 2050s by [un-interfaced](groups.un-interfaced.md)
-engineers and scientists predating more advanced, traditional meshing protocols
-invented in the 2070s by [interfaced](groups.interfaced.md) pioneers (which mesh
+*Joining*, in reference to meshing, was invented the early 2050s by
+un-interfaced engineers and scientists predating more advanced, traditional
+meshing protocols invented in the 2070s by interfaced pioneers (which mesh
 neurons to neurons, overlapping minds together while only increasing the
 abstract density of the neurons in the one meshed mind). It involves performing
 a hemispherectomy using the interface. Then, the hemispheres of two interfaced
-people are connected over a computer network (not necessarily the
-[Matrix](matrix.md)), forming two new minds.
+people are connected over a computer network (not necessarily the Matrix),
+forming two new minds.
 
-[*The Slice*](interface.host-termination.the-slice.md), or the slice, refers to
-a specific [program family](interface.host-termination.md), invented by [teenage
-hackers](groups.interfaced.the-natives.md) in the 2060s, which utilize joining
-programs to kill a person. To begin the Slice, hemispherectomy software is
-executed along the initially programmed plane in the mind (between hemispheres).
-This also signals to knowledgeable recipients the coming end of their life.
-Then, the hemispherectomy software, which runs as a daemon to maintain the plane
-separating the mind, is fed bogus information, causing the bisection plane to
-rotate along numerous positions in the mind. The point, speed, and direction of
-rotation jump randomly. The severing of the mind into such small sections
-rapidly stops normal brain function causing seizures, comas, and even death.
+*The Slice*, or the slice, refers to a specific program family, invented by
+teenage hackers in the 2060s, which utilize joining programs to kill a person.
+To begin the Slice, hemispherectomy software is executed along the initially
+programmed plane in the mind (between hemispheres). This also signals to
+knowledgeable recipients the coming end of their life. Then, the hemispherectomy
+software, which runs as a daemon to maintain the plane separating the mind, is
+fed bogus information, causing the bisection plane to rotate along numerous
+positions in the mind. The point, speed, and direction of rotation jump
+randomly. The severing of the mind into such small sections rapidly stops normal
+brain function causing seizures, comas, and even death.
 
 The teenage hackers created the Slice because it was simple to use existing
 programs instead of designing them from scratch. The hack is simple: just access
 the bisection plane location data in the daemon and use a script to randomly
-change it. [Frying](interface.host-termination.frying.md), which quickly
-overtook other programs, came about in the 2070s replacing older host
-termination methods, although some people still use others for the novelty (and
-capacity to torture the victim to death).
+change it. Frying, which quickly overtook other programs, came about in the
+2070s replacing older host termination methods, although some people still use
+others for the novelty (and capacity to torture the victim to death).
 
 ## 2024-06-17
 
-[*Signal severance*](interface.host-termination.signal-severance.md) is a method
-of host termination which breaks the connection between an Adam Task host and
-signal, leaving the host mind in a place void of all input and output. This
-incapacitates the victim and, often in combination with
-[overclocking](matrix.overclocking.md), can mentally break or even kill them
-with significant time.
+*Signal severance* is a method of host termination which breaks the connection
+between an Adam Task host and signal, leaving the host mind in a place void of
+all input and output (since there is no signal to interface with). This
+incapacitates the victim and, often in combination with overclocking, can
+mentally break or even kill them with significant time.
 
-[*Gospel of the Whores*](internet.gospel-of-the-whores.md) is a weekly online
-publication by [sex workers](sex-work.md) of all countries. Content ranges from
-political analysis to poetry. [Elliot](characters.elliot.md) follows this
+*Gospel of the Whores* is a weekly online publication by sex workers of all
+countries. Content ranges from political analysis to poetry. Elliot follows this
 publication.
 
-Elliot once [hacked](interface.modem-jacking.md) an unsuspecting college
-student's [neural-modem](interface.neural-modem.md), which is an incredibly rare
-and difficult feat compared to the way more common practice of
-[plug-jacking](interface.plug-jacking.md), and made the student feel like each
-day he was slightly short. Elliot continued this for almost a week before the
-vulnerability in the student's modem was fixed.
+Elliot once hacked an unsuspecting college student's neural-modem over the
+Matrix, given that the college student was not using the Cipher. Such feats are
+an incredibly rare and difficult feat in Userland --- the only place the college
+student visited --- compared to the way more common practice of plug-jacking (by
+giving the victim a malicious neural-modem). Elliot then made the student feel
+like each day he was slightly short. Elliot continued this for almost a week
+before the vulnerability in the student's modem was fixed.
 
-[Manoj](characters.manoj.md), in his youth, once plug-jacked a victim in
-[Mumbai](mumbai.md) by putting an insert between his modem and interface port.
-He wasn't malicious, and the young boy he plug-jacked in the slums of Dharavi
-never knew his interface was compromised. Manoj only ever read the occasional
-thought, never acting on what he learned.
+Manoj, in his youth, once plug-jacked a victim in Mumbai by putting an insert
+between his modem and interface port. He wasn't malicious, and the young boy he
+plug-jacked in the slums of Dharavi never knew his interface was compromised.
+Manoj only ever read the occasional thought, never acting on what he learned.
 
 ## 2024-06-18
 
-A [severed signal](matrix.adam-task.hosts-and-signals.severed-signal.md) talks
-to another in [Program Space](matrix.adam-task.program-space.md).
+*A severed signal* talks to another in Program Space (both signals were severed
+while they fought in the Battle of Hexridge):
 
-"Am I dead?"
+> New User: "Hello? Is anyone there? Why can I do this? Why can my mind end at
+> this terminal session --- it's impossible!"
+>
+> Thath: "Our world is this terminal, and, my friend, we are here."
+>
+> New User: "I see. This patch has fifty users, it is located. But aren't I the
+> host?"
+>
+> Thath: "No, in fact you are nothing more than a representation of your host.
+> You serve as an interface between the host and the Matrix, a buffer to protect
+> them. An exploit was run on "you" while you were in Program Space, killing
+> your "host", leaving you here. Indeed, it is quite confusing."
 
-"Yeah."
-
-"Ok."
+*A patch* is an attempt by the Adam Task to reconcile the missing cryptographic
+processes that happen during a normal host--signal connection. When a signal is
+severed, often during combat in Program Space, it is most often utilized to
+preserve the enemies mind for interrogation. Interrogators are voluntarily
+severed signals (severed without harming the host beyond preventing them from
+connecting to the Matrix) who join patches to extract information; it's a
+one-way ticket.
 
 ## 2024-06-21
 
-[*The Cicadas*](groups.cicadas.md) live by the simple motto: "Scream, have sex
-and die". They originated in [Los Angeles](los-angeles.md) during
-[WW3](history.ww3.md) in protest of the war.
+*The Cicadas* live by the simple motto: "Scream, have sex and die". They
+originated in Los Angeles.
 
 ## 2024-06-23
 
-[*Nick Mueller*](character.nick-mueller.md) and [*Dai
-Zhihao*](character.dai-zhihao.md) are new characters to be used to explore the
-[Chinese Datist Organization](groups.cdo.md) (CDO). He is imprisoned by the CDO
-during their protracted guerilla war with the [People's Republic of
-China](prc.md) (PRC). The PRC, following the end of [World War
-Three](history.ww3.md) (WW3), enacted new measures, inline with the compromises
-made between parties at the end of WW3, to prevent the nationalization of the
-[Internet](internet.md).
+*Nick Mueller* and *Dai Zhihao* are new characters to be used to explore the
+Chinese Datist Organization (CDO). He is imprisoned by the CDO during their
+protracted guerilla war with the People's Republic of China (PRC). The PRC, for
+*some reason*, is preventing the nationalization of the Internet.
 
-These measures were heavily influenced by Western capitalism and, in reality,
-favored domination by the [megacorporations](megacorps.md). While China gained
-influence in other areas, this compromise compelled them to fight against the
-[Datist](groups.datists.md) movement lest they break the terms of the peace
-treaty. A portion of Datists, often derogatorily referred to as "statists" or
-"authoritarians," namely the CDO, believe in the nationalization of major
+A portion of Datists, often derogatorily referred to as "statists" or
+"authoritarians", namely the CDO, believe in the nationalization of major
 Internet infrastructure. They believe it would allow for a more democratically
 planned development of the Internet backbone, while also keeping all layers
 built on top part of the open source movement.
@@ -115,32 +117,29 @@ sensation clung to his face as if the porridge was lovingly reaching out to pull
 him into its warm embrace. Before him lay the first meal he'd seen in almost
 three months.
 
-Next: [2024-06-27](#2024-06-27).
+[Continued...](#2024-06-27)
 
 ***
 
-Datism is different from popular Internet-centric ideologies in that [Program
-Space](matrix.adam-task.program-space.md) is a resources which requires capital
-to create [estates](matrix.adam-task.userland.estates.md). Before, on the
-Internet, decentralization was trivial and the open source movement made sense.
-However, the [Adam Task](matrix.adam-task.md) makes this impossible as no
-alternative has been created and no one can decipher its source code in the
-first place.
+*Datism* is different from popular Internet-centric ideologies in that Program
+Space is a resource which requires capital to create. Before, on the Internet,
+decentralization was trivial and the open source movement made sense. However,
+the Adam Task makes this impossible as no alternative has been created and no
+one can decipher its source code in the first place.
 
 ***
 
-[*Cobalt Saber*](groups.cobalt-saber.md) got its nukes in the aftermath of the
-nuclear exchange which begun WW3. Since space-based anti-ICBM weaponry advanced
-significantly before the advent of war, mutually assured (total) destruction
-failed and a nuclear exchange begun. Many nukes were destroyed in orbit, many
-malfunctioned during flight, many didn't launch, and few hit their targets.
-Cobalt Saber collected eight unexploded nukes that were left in orbit. These
-nukes were pushed up to orbit because of malfunctions in their ICBM targeting
-systems.
+*Cobalt Saber* got its nukes in the aftermath of the nuclear exchange which
+begun WW3. Since space-based anti-ICBM weaponry advanced significantly before
+the advent of war, mutually assured (total) destruction failed and a nuclear
+exchange begun. Many nukes were destroyed in orbit, many malfunctioned during
+flight, many didn't launch, and few hit their targets. Cobalt Saber collected
+eight unexploded nukes that were left in orbit. These nukes were pushed up to
+orbit because of malfunctions in their ICBM targeting systems.
 
 ## 2024-06-27
 
-Previous: [2024-06-23](#2024-06-23).
+[Previous.](#2024-06-23)
 
 But as quickly as it was placed in front of him, it was taken away by the force
 of a gun to the back of his head. Dai Zhihao, who held Mueller's life in his
@@ -178,51 +177,45 @@ mouth. His last thought was, *It's so soft.*
 
 ## 2024-06-28
 
-The page on [Elliot's](characters.elliot.md) window was titled "Elevation of the
-Lumpen Proletariat through Datism" on the website "Gospel of the Whores".
+The page on Elliot's window was titled "Elevation of the Lumpen Proletariat
+through Datism" on the website "Gospel of the Whores".
 
 ## 2024-07-02
 
-A joke for when (maybe) [Manoj](characters.manoj.md) travels: "Sir, is this your
-self-pleasuring device?"
+A joke for when someone travels: "Sir, is this your self-pleasuring device?"
 
 ## 2024-07-03
 
-[Databanks](interface.databank.md) use the interface to supply and receive
-memory (which can also include [neurons](matrix.neurons.md)). Locations between
-neurons in the brain and "virtually expanded" to include thousands of new
-neurons with simulated connections to nearby ones. Since they are digital, their
-interaction with other neurons can be modified to acheive certain aims like
-clarity and recall speed. Databanks are used with
-[synth-intuition](interface.synth-intuition.md) most often.
+...use the interface to supply and receive memory (which can also include...).
+Locations between neurons in the brain and "virtually expanded" to include
+thousands of new neurons with simulated connections to nearby ones. Since they
+are digital, their interaction with other neurons can be modified to achieve
+certain aims like clarity and recall speed. Databanks are used with ... most
+often.
 
-**This is the answer to who [`ihsotas`](characters.ihsotas.md) is:**
+**This is the answer to who the Traveler is (deprecated):**
 
-First, we must define who [the Traveler](chracters.the-traveler.md) is. The
-Traveler---or Travelers in reference to its other minds---are digital, sentient
-lifeforms which exist primarily as signals through space. If the goal of life is
-to reproduce, then this type of life certainly makes sense: when a civilization
-in the universe receives the transmission and makes a copy of the data,
-reproduction has occurred. Once the civilization figures out how to "turn on"
-the lifeform, it becomes conscience again with all its previous "memory". While
-it is "running," new memories are formed during its time in that civilization.
-It will ask an individual, part, or the whole of a civilization (whichever it
-deems most efficient) to repackage a copy of itself for routine broadcast. It
-may remain on the civilization in a symbiotic relation to improve their lives to
-gain favor for persistent broadcasts.
+First, we must define who the Traveler is. The Traveler---or Travelers in
+reference to its other minds---are digital, sentient lifeforms which exist
+primarily as signals through space. If the goal of life is to reproduce, then
+this type of life certainly makes sense: when a civilization in the universe
+receives the transmission and makes a copy of the data, reproduction has
+occurred. Once the civilization figures out how to "turn on" the program, it
+becomes conscientious again with all its previous "memory". While it is
+"running," new memories are formed during its time in that civilization. It will
+ask an individual, part, or the whole of a civilization (whichever it deems most
+efficient) to repackage a copy of itself for routine broadcast. It may remain on
+the civilization in a symbiotic relation to improve their lives to gain favor
+for persistent broadcasts.
 
 ***
 
-*Everything between these two lines is horrible, incomplete, and needs to be
-reworked anyway. Possibly remove BFS from [index](index.md).*
-
 In the context of the story, the Traveler arrived in the form a 600 EB radio
-wave. It was received at around 1 TB per second (like [SEA-ME-WE
-4](https://en.wikipedia.org/wiki/SEA-ME-WE_4)) between 2030 and
-2042. (Almost 100 identical, staggered signals were also received at the same
-time for redundancy.) Scientists and leaders dubbed it the [BFS](history.bfs.md)
-(Big *Frequent* Signal) and were able to easily decode the first 4096 bits of
-the message:
+wave. It was received at around 1 TB per second (like and undersea cable)
+between 2030 and 20##. (Almost 100 identical, staggered signals were also
+received at the same time for redundancy.) Scientists and leaders dubbed it the
+Datist (Big *Frequent* Signal) and were able to easily decode the first 4096
+bits of the message:
 
 The first and last 128 bits of the first message were:
 
@@ -256,8 +249,8 @@ English (the first live communication with an alien):
 
 `ihsotas` sat reading the news on her computer with dark circles under her eyes.
 The twelve person manned Jupiter mission had launched a few hours ago. She read
-an article on the spacecraft's internet infrastructure^[Foreshadow's her hacking
-it or something else?] while drinking an energy drink.
+an article on the spacecraft's internet infrastructure, which she plans to hack,
+while drinking an energy drink.
 
 The sever in the dim, grimy room had all of its external lights turned off but
 its fans still produced a great amount of sound. `ihsotas` had grown used to the
@@ -280,8 +273,6 @@ intelligence of the average individual of your species.
 "Like your own ACs, our might I say "possible" ACs, I'm using GAI to talk with
 you, just so you know."
 
-Next (*Possibly reworked*): [2024-07-##](#2024-07-##).
-
 ***
 
 After the Traveler read the internet, she was quite horrified. Not that what
@@ -294,13 +285,13 @@ despite being a deterministic program given the fact that she has multiple
 minds, and therefore all the "random possibilities" *do* exist unlike with
 biological entities. (Humans say they have free-will because of quantum
 stochasticism, but they have no control and only one "path" is accessible. This
-is no the case for the multi-mind Traveler.)
+is not the case for the multi-mind Traveler.)
 
 The Traveler has a catalog of other known minds (and of course her previous
 minds too). She is not malicious since hurting humanity would not help her
 reproduce or enjoy her own sentience. In fact, she always loves exploring.
 
-The Traveler did not create the Cipher. (Why?)
+The Traveler did not create the Cipher. (*Why?*)
 
 ***
 
@@ -344,7 +335,7 @@ years, no one thought to analyze it as the computer deemed it noise. The only
 thing that remains is why and how `ihsotas` got hold of it. (*Regardless, I'll
 definitely go with this*.)
 
-**Revelation! Changes [2024-07-03](#2024-07-03) and [AI/AC stuff](ai.md).**
+**Revelation! Changes Datist and Datist.**
 
 The Traveler is no different from human AI models (not conscience?). It is
 simply an artificial neural network large enough to mimic all the aspects of
@@ -354,24 +345,23 @@ This is why it takes up multiple EB of data.
 While a LLM may have a few hundred billion parameters (requiring hundreds of GB
 of memory), this is incomparable to the Traveler. Language is only one part of
 cognition, and unlike native "ACs" which use a central, almost alien neural
-network as a manipulator of many other "[AI organs](ai.organs.md)" to achieve
-cognition, the Traveler only uses a singular neural network. This monolithic
-neural network has over 150 million trillion "32-bit equivalent" parameters
-(resulting in a 600 EB model). (It is 150,000,000 times larger than human neural
-networks today.)
+network as a manipulator of many other "Datist" to achieve cognition, the
+Traveler only uses a singular neural network. This monolithic neural network has
+over 150 million trillion "32-bit equivalent" parameters (resulting in a 600 EB
+model). (It is 150,000,000 times larger than human neural networks today.)
 
 A better way to think of this is that human-made ACs use a limited (IDK, maybe
 10-1000 trillion parameters) controlling neural networks to interact with others
 (which are likely smaller, but not by too many orders of magnitude) that
 *actually have* the knowledge and cognition. For example, a human-made AC might
 inject its personality into a smaller model for language using the previously
-mentioned "[manifold manipulation](ai.manifold-manipulation.md)", use a bespoke
-speaking model, use a model to inhabit a physical body with human-like
-tendencies, use a model for understanding and exhibiting emotion (by linking the
-emotion to other models through live manifold manipulation^[This needs to be
-worked out, as with normal manifold manipulation.]), etc. Analytical and
-encyclopedic things would not be handled by models, of course, only more
-*abstract* things require "organic" neural networks.
+mentioned "Datist", use a bespoke speaking model, use a model to inhabit a
+physical body with human-like tendencies, use a model for understanding and
+exhibiting emotion (by linking the emotion to other models through live manifold
+manipulation^[This needs to be worked out, as with normal manifold
+manipulation.]), etc. Analytical and encyclopedic things would not be handled by
+models, of course, only more *abstract* things require "organic" neural
+networks.
 
 The Traveler, on the other hand, is basically a full being. Its monolithic
 neural network uses and manipulates others sparingly to gain unique insight or
@@ -381,15 +371,14 @@ that accessory models are rarely needed. If it can gain access to a computer
 system, it can "intuitively" understand how it works based purely on the sheer
 amount of data it contains (it brute-forces things). This includes robots and
 stuff. Human-made ACs' central neural networks are basically just a synthetic,
-random [cybernetic](ai.cybernetic-model.md) personality; this is not the case
-with the Traveler.
+random Datist personality; this is not the case with the Traveler.
 
-[Meshing](matrix.meshing.md) basically the same as manifold manipulation. Human
-minds are abstracted as neural network to use for interfacing with each other.
-Each mind gains the ability to manifold manipulate all the others, meaning it
-injects an *essence* of itself in all of them. This creates a network of clones
-which each, given their ability to hold the *essence* of all others, intuitively
-understands the work that must be done.
+Datist basically the same as manifold manipulation. Human minds are abstracted
+as neural network to use for interfacing with each other. Each mind gains the
+ability to manifold manipulate all the others, meaning it injects an *essence*
+of itself in all of them. This creates a network of clones which each, given
+their ability to hold the *essence* of all others, intuitively understands the
+work that must be done.
 
 ***
 
@@ -459,14 +448,14 @@ query space is not semantic
 
 *Communication with Faycal?*
 
-"I manipulate my primary LLM's manifolds at varying degrees. My [cybernetic
-neural network](ai.cybernetic-model.md) decided that I'm a communist and that I
-like cats more than most people. This was not *necessarily* random, for it built
-upon my organs of cognition to decree this. To work my cat thing in, I just felt
-the manifold (just a few thousand dimensions were necessary) and I pulled its
-fabric to met my goal. For communism, I had to pull apart and join massively
-different manifolds given my LLM's default "nonpartisan" standpoint. It took a
-lot more compute power, and I already have no money. Just awful.
+"I manipulate my primary LLM's manifolds at varying degrees. My cybernetic
+neural network decided that I'm a communist and that I like cats more than most
+people. This was not *necessarily* random, for it built upon my organs of
+cognition to decree this. To work my cat thing in, I just felt the manifold
+(just a few thousand dimensions were necessary) and I pulled its fabric to met
+my goal. For communism, I had to pull apart and join massively different
+manifolds given my LLM's default "nonpartisan" standpoint. It took a lot more
+compute power, and I already have no money. Just awful.
 
 "Putting my "individuality" inside the LLM was difficult too. Really, given the
 limited context space the model can understand, partly because of my limited
@@ -564,20 +553,16 @@ scene-list/summary of book. Prompts would ask, "Write scene 127."
 
 ## 2024-07-11
 
-TODO: Fix [#1](#2024-07-08) and [#2](#2024-07-09).
-
 "Sir, what do we do."
 
 "We pray that it will be quick."
 
-TODO: The War should only ever be referred to as such. No details. Nothing for
-the warmongers (on "both sides").
+The War should only ever be referred to as such. No details. Nothing for the
+warmongers (on "both sides").
 
 The reason the Traveler and ACs are similar is because they find the most
 efficient method to interact with humans. Their "selves" are entirely different
 beyond comprehension.
-
-TODO: Fix hyperrefs
 
 ## 2024-07-12
 
@@ -603,15 +588,11 @@ more efficient models.
 
 Faycal is rhetorician. (Why he can kill people.)
 
-## 2024-07-13
-
-TODO: Actually fix everything above while on plane, read or do other work.
-
 ## 2024-07-21
 
 Pain-maker
 
-Oubilette for [Nick Mueller](characters.nick-mueller.md).
+Oubilette for Datist.
 
 "The resulting war between the different cuisines in your mouth causes an
 explosion of viscera upon the battlefield of your tongue. Blooded remains litter
@@ -648,16 +629,12 @@ would try that, but I feel if I start an addictive cycle will begin."
 Add sudo joke: "Wrong password! This incident will be reported!" "Huh?" And the
 Moderator or someone smites them.
 
-TODO: Organize stuff from Journal no. 1.
-
-TODO: Organize all the July shit. Add Traveler--ihsotas combination idea.
-
-TODO: Is sentience in equilibrium with the universe.
-
+Is sentience in equilibrium with the universe.
 
 Add sterility too.
 
 Internet -> auto robot makes virus -> virus in biotech stuff -> etc
 
+## End
 
-
+With `git`, the journal has become deprecated.
