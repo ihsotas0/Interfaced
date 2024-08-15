@@ -1,2 +1,4 @@
-2024-08-10 Finish copying content from Journal no. 1, 6/27/24
-2024-08-10 Finish revising journal-prose
+(A) 2024-08-10 Finish copying content from Journal no. 1, 6/27/24
+(A) 2024-08-10 Finish revising journal-prose, move stuff to journal
+2024-08-13 Figure out "what" Kernel is
+2024-08-13 Format journal

@@ -195,8 +195,8 @@ often.
 
 **This is the answer to who the Traveler is (deprecated):**
 
-First, we must define who the Traveler is. The Traveler---or Travelers in
-reference to its other minds---are digital, sentient lifeforms which exist
+First, we must define who the Traveler is. The Traveler --- or Travelers in
+reference to its other minds --- are digital, sentient lifeforms which exist
 primarily as signals through space. If the goal of life is to reproduce, then
 this type of life certainly makes sense: when a civilization in the universe
 receives the transmission and makes a copy of the data, reproduction has
@@ -634,6 +634,9 @@ Is sentience in equilibrium with the universe.
 Add sterility too.
 
 Internet -> auto robot makes virus -> virus in biotech stuff -> etc
+
+World has problem meme: one solution is lots of text; other is funny limited
+stuff.
 
 ## End
 
