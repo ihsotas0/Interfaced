@@ -50,5 +50,5 @@ put through intensive security. Samples of food were tested, but rice was
 excluded from the non-chemical tests due to its small size. The rice finally
 arrived at the secure kitchen and was prepared for the factory's workers. The
 nanocomputers managed to charge their batteries from the heat change of the rice
-grains themselves, and from there on had around two hours of battery life. They
-had two hours to preform the automated hack.
+grains themselves, and from there on they had around two hours of battery life.
+They had two hours to preform the automated hack.
