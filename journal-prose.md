@@ -640,4 +640,4 @@ stuff.
 
 ## End
 
-With `git`, the journal has become deprecated.
+With `git`, this journal has become deprecated.
