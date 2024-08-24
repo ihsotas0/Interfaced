@@ -66,7 +66,7 @@ times.
 Sects have formed within Pickerism as to how the Picker is sentient without
 having their own Picker. Some believe the quantum events driving the Picker is
 determined by another, lesser Picker (the Late-Diers). Others believe that the
-sentient of a Picker transcends the need for their own Picker. Prior to the
+sentience of a Picker transcends the need for their own Picker. Prior to the
 emergence of sentience, the Pickers were simply the first future sentient beings
 who died, transported back in time. This, alongside the Transcendentals, leads
 to ritual suicide.
@@ -74,6 +74,6 @@ to ritual suicide.
 Kill self to become Picker in era of sentience instead of heat death. Therefore
 suicide is holy.
 
-A man who spent thousands of years h-clocked reading political theory and
+A man, *Yogi*, who spent thousands of years h-clocked reading political theory and
 related literature, including current events, came to this simply conclusion:
 "Kill whitey."
