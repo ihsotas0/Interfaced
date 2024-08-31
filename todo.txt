@@ -5,3 +5,4 @@
 2024-08-13 Format journal
 2024-08-21 Make "Traveler" spelling consistent
 2024-08-27 Publish to personal website
+2024-08-28 Fix number of galaxies estimate in all content
