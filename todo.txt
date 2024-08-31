@@ -3,8 +3,8 @@
 (A) 2024-08-27 Create style guide, unify prose style
 2024-08-13 Figure out "what" Kernel is
 2024-08-13 Format journal
-x 2024-08-31 2024-08-31 Fix GitHub repo issues
-x 2024-08-31 2024-08-31 Fix GitHub repo issues 2
 2024-08-21 Make "Traveler" spelling consistent
 2024-08-27 Publish to personal website
 2024-08-28 Fix number of galaxies estimate in all content
+x 2024-08-31 2024-08-31 Fix GitHub repo issues
+x 2024-08-31 2024-08-31 Fix GitHub repo issues 2
