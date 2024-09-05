@@ -6,6 +6,9 @@
 2024-08-21 Make "Traveler" spelling consistent
 2024-08-27 Publish to personal website
 2024-08-28 Fix number of galaxies estimate in all content
+2024-09-04 What is the "Enshitification" (make fun of lib answers to crumbling internet)
+2024-09-04 What is the "Outside"
+2024-09-05 Interface and genderism/Gender Wars ideological relationship
 x 2024-08-31 2024-08-31 Fix GitHub repo issues
 x 2024-08-31 2024-08-31 Fix GitHub repo issues 2
 x 2024-08-31 2024-09-01 Fix GitHub repo issues 3
