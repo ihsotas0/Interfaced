@@ -9,6 +9,9 @@
 2024-09-04 What is the "Enshitification" (make fun of lib answers to crumbling internet)
 2024-09-04 What is the "Outside"
 2024-09-05 Interface and genderism/Gender Wars ideological relationship
+2024-09-11 Copy ideas Apollo and latency ideas from SMS
+2024-09-11 Fix licensing (for website as well)
+2024-09-11 GDAT and GDAST tests
 x 2024-08-31 2024-08-31 Fix GitHub repo issues
 x 2024-08-31 2024-08-31 Fix GitHub repo issues 2
 x 2024-08-31 2024-09-01 Fix GitHub repo issues 3
