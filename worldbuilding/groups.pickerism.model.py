@@ -23,8 +23,8 @@ total_megadeaths = np.cumsum(megadeaths_per_year)
 miliseconds_per_year = 365 * 24 * 60 * 60 * 1000
 miliseconds_per_death = miliseconds_per_year * years_per_death
 
-# An example plot, ignoring all sentient deaths not from Earth, showing the
-# "calculus" behind Pickerism
+# An example plot, ignoring all sentient deaths not from Earth, gamma_p, and the
+# Harolds' Time, showing the "calculus" behind Pickerism
 
 red = 'tab:red'
 blue = 'tab:blue'
