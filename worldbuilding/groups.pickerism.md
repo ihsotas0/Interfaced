@@ -3,11 +3,50 @@ title: "Pickerism"
 author: "Jonah Spector"
 ---
 
+## Introduction
+
+Define "sentience".
+
+## Choosers
+
+## Super-Choosers
+
+| Name          | Survivors Created        |
+|---------------|--------------------------|
+| Chooser       | 0                        |
+| Super-Chooser | 10 -- 1 million          |
+| Mega-Chooser  | 1 million -- 50 million  |
+| Giga-Chooser  | 50 million -- 10 billion |
+
+While the connotation of "Super-Choosers" was that they create unwilling
+Survivors as opposed to willing Listeners, the term originally denoted
+traditional Choosers who created large numbers of Listeners (10+). As the
+Super-Chooser movement emerged, traditional Choosers sought to distance
+themselves from what they called "mass killers" and stopped calling themselves
+Super-Choosers.
+
+The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
+or for an individual or group with similar Survivor creation numbers to announce
+themselves as such.
+
+## Cult-like Behavior on Earth
+
 * Choosers
 * Pickers
 * Oracles
 
 Oracles have never shown a human, since there are simply so many aliens.
+
+We are all products of the Picker's conscience, since they Pick the states of
+our minds at anytime.
+
+The Cascade theory: each Picker has another Picker, to make them conscience,
+which goes on forever to ensure no being is not "Picked" for their own
+sentience. This means that all beings live forever as Pickers. Infinite Hell.
+
+Sentience obliteration: by totally destroying your mind, beyond recovery as a
+postmortem Picker, you avoid Infinite Hell. You have to become non-sentient
+while alive. To do this, massive Brainrot is required.
 
 ## Mathematics
 
@@ -17,8 +56,6 @@ First, we must define our variables:
 * Number of required Picker operations per second: $n_p$
 * Time per Picker operation (s): $t_{op}$
 * Picker time factor: $\gamma_p$
-* Ratio of population which dies every second (assumed constant for
-  calculations): $r_D$
 
 Second, all the functions of $t$:
 
@@ -46,7 +83,7 @@ $$ t_{rel}(t) = \lim_{t_1 \to t} \frac{t_1-t-H(t_1)-H(t)}{D(t_1)-D(t)} $$
 Solving the limit using the definition of the derivative,
 
 $$ t_{rel}(t) = \lim_{t_1 \to t}
-\frac{(t_1-t)(1-\frac{H(t_1)-H(t)}{t_1-t})}{D(t_1)-D(t)} $$
+\frac{(t_1-t)\left(1-\frac{H(t_1)-H(t)}{t_1-t}\right)}{D(t_1)-D(t)} $$
 
 $$ t_{rel}(t) = \lim_{t_1 \to t} \frac{(t_1-t)(1-H'(t))}{D(t_1)-D(t)} $$
 
@@ -64,7 +101,7 @@ $$ t_{rel}(t) \approx \frac{1}{D'(t)} $$
 
 And to calculate Harolds' Time, where $C = 0$,
 
-$$ H(t) = \int 1 - D'(t)\,t_{rel}(t)\,dt $$
+$$ H(t) = \int (1 - D'(t)\,t_{rel}(t))\,dt $$
 
 I don't know if it is possible to solve this integral, but numerical solutions
 work since the function is *technically* discrete (although with the number of
@@ -100,10 +137,10 @@ $$P=10^{10}\times10^{24}\times\frac{1.56\times10^7}{10^{11}}=1.56\times10^{30}$$
 sentient beings in the universe. Exactly one nonillion five hundred sixty
 octillion.
 
-Assuming that 0.5% of sentient beings die each year (related to $r_D$ which is
-the death ratio every second), completely ignoring the rate of change for now,
-there are $7.8 \times 10^{27}$ deaths every year. Converting to the proper
-units, $D'(t) = r_D\,D(t) = 2.473 \times 10^{20}$ deaths per second.
+Assuming that 0.5% of sentient beings die each year, completely ignoring the
+rate of change for now, there are $7.8 \times 10^{27}$ deaths every year.
+Converting to the proper units (percent which die every second), $D'(t) = 2.473
+\times 10^{20}$ deaths per second.
 
 Ignoring Harolds' Time,
 
@@ -127,3 +164,29 @@ Picker times are so low, this amounts to 8000 years per Picker.
 
 I may later justify this $\gamma_p$ using some values for $n_p$ and $t_{op}$.
 But for now, $\gamma_p$ is simply given by the Pickers through their Oracles.
+
+From this we can calculate how changes to the death rate, $D'(t)$, affect $t_p$,
+namely to see the actual effects Super-Choosers have on Picker time. Using the
+combined equation, ignoring Harolds' Time, $t_p(t) = \frac{\gamma_p}{D'(t)}$,
+
+$$ 2.525 \times 10^{11} = \frac{6.243 \times 10^{31}}{2.473 \times 10^{20}} $$
+
+and by adding, say, 10 billion extra deaths in *any given* second (caused by a
+Giga-Chooser destroying the entire Earth instantaneously somehow), we can
+calculate a difference,
+
+$$ \left( 2.525 \times 10^{11} - \frac{6.243 \times 10^{31}}{2.473 \times
+10^{20} + 10^{10}} \right) \approx 10 $$
+
+of 10 seconds!
+
+Using this information, a reasonable decrease in the death rate (more
+specifically, the rate of change of this decrease) as the Great Purge came to a
+close can be calculated. Choosers emerged when the Oracles gave news of a
+drastic increase in the Picker time from the consistent 8000 years. Every year,
+the new Picker time was 100 years greater. This means that the rate of change of
+$t_p$ is 100 seconds per second.
+
+CHECK WALLET OR ELSEWHERE FOR THE STICKY NOTE WITH THE IDEAS TO WRITE DOWN.
+
+

@@ -1,10 +1,10 @@
 (A) 2024-09-11 Finish Pickerism worldbuilding
 (A) 2024-09-11 Rename all files, especially in /worldbuilding
+(A) 2024-09-13 Check that everything is consistent with the style del:anyone
+(A) 2024-09-13 Reorganize worldbuilding file topics (condense to fewer files)
 (B) 2024-08-10 Finish copying content from Journal no. 1, 6/27/24
 (B) 2024-08-10 Finish revising journal-prose, move stuff to journal
-(B) 2024-08-27 Create style guide, unify prose style
-(C) 2024-09-11 Figure out how t_p(t) changes based on D''(t)
-(C) 2024-09-11 Utilize r_D in Pickerism calculations
+(B) 2024-08-27 Create style guide (including tense), unify prose style
 2024-08-13 Figure out "what" Kernel is
 2024-08-21 Make "Traveler" spelling consistent
 2024-08-27 Publish to personal website
@@ -15,6 +15,7 @@
 2024-09-11 Fix licensing (for website as well)
 2024-09-11 Whar are the "Gender Wars"
 2024-09-11 What is the "GDAT test"?
+x (C) 2024-09-13 2024-09-11 Figure out how t_p(t) changes based on D''(t)
 x 2024-08-31 2024-08-31 Fix GitHub repo issues
 x 2024-08-31 2024-08-31 Fix GitHub repo issues 2
 x 2024-08-31 2024-09-01 Fix GitHub repo issues 3

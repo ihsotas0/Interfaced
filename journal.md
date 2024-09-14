@@ -77,3 +77,16 @@ suicide is holy.
 A man, *Yogi*, who spent thousands of years h-clocked reading political theory and
 related literature, including current events, came to this simply conclusion:
 "Kill whitey."
+
+## 2024-09-14
+
+The Cybernetic Model is a manifold which is the nearly perfect approximation
+function for creating other accurate manifolds for certain cases. It perfectly
+tunes other models, but, at the same time, it's manifold --- which is already
+perfect --- is expanded to include a unique "Person" which arises from the
+entropy of the stochastic combination of all the other models of the artificial
+consciousness (AC).
+
+Unified Theory of Intelligence is ***DIFFERENT*** from Unified Theory of
+Everything --- (Pickerism???)
+
