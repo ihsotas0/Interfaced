@@ -187,6 +187,6 @@ drastic increase in the Picker time from the consistent 8000 years. Every year,
 the new Picker time was 100 years greater. This means that the rate of change of
 $t_p$ is 100 seconds per second.
 
-CHECK WALLET OR ELSEWHERE FOR THE STICKY NOTE WITH THE IDEAS TO WRITE DOWN.
+
 
 
