@@ -184,12 +184,12 @@ $$ 2.525 \times 10^{11} - \left(\frac{6.243 \times 10^{31}}{2.473 \times 10^{20}
 
 of 10 seconds!
 
-Using this information, a reasonable decrease in the death rate (more
-specifically, the rate of change of this decrease) as the Great Purge came to a
-close can be calculated. Choosers emerged when the Oracles gave news of a
-drastic increase in the Picker time from the consistent 8000 years. Every year,
-the new Picker time was 100 years greater. This means that the rate of change of
-$t_p$ is 100 seconds per second. So, to calculate $D''(t)$,
+Now a reasonable decrease in the death rate (more specifically, the rate of
+change of this decrease) as the Great Purge came to a close can be calculated.
+Choosers emerged when the Oracles gave news of a drastic increase in the Picker
+time from the consistent 8000 years. Every year, the new Picker time was 100
+years greater. This means that the rate of change of $t_p$ is 100 seconds per
+second. So, to calculate $D''(t)$,
 
 $$ t_p(t) = \gamma_p D'(t)^{-1} $$
 
@@ -208,10 +208,7 @@ second. The Milky Way has 15,600,000 inhabited worlds as mentioned before; at 10
 worlds per second, it would take around 18 days to purge the galaxy. Since there
 are 31,536,000 seconds in a year, the Great Purge went from purging 315,360,000
 worlds (20 galaxies, using the Milky Way as reference, which is far from the
-average but fine for reference) a second to 0 in a year.
-
-Since it takes 18 days to purge a galaxy, galaxies were in the process of being
-purged at the beginning of the decline of the Great Purge. During the high of
+average but fine for reference) a second to 0 in a year. During the height of
 the Great Purge, which lasted millenia, 630,720,000,000 galaxies were purged
 yearly. Becuase of this, it will take 1000 years for the Great Purge to fully
 end (since the fight is "ongoing").
