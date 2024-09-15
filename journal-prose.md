@@ -17,7 +17,7 @@ un-interfaced engineers and scientists predating more advanced, traditional
 meshing protocols invented in the 2070s by interfaced pioneers (which mesh
 neurons to neurons, overlapping minds together while only increasing the
 abstract density of the neurons in the one meshed mind). It involves performing
-a hemispherectomy using the interface. Then, the hemispheres of two interfaced
+a hemispherectomy using the Interface. Then, the hemispheres of two interfaced
 people are connected over a computer network (not necessarily the Matrix),
 forming two new minds.
 
@@ -43,7 +43,7 @@ others for the novelty (and capacity to torture the victim to death).
 
 *Signal severance* is a method of host termination which breaks the connection
 between an Adam Task host and signal, leaving the host mind in a place void of
-all input and output (since there is no signal to interface with). This
+all input and output (since there is no signal to Interface with). This
 incapacitates the victim and, often in combination with overclocking, can
 mentally break or even kill them with significant time.
 
@@ -60,8 +60,8 @@ like each day he was slightly short. Elliot continued this for almost a week
 before the vulnerability in the student's modem was fixed.
 
 Manoj, in his youth, once plug-jacked a victim in Mumbai by putting an insert
-between his modem and interface port. He wasn't malicious, and the young boy he
-plug-jacked in the slums of Dharavi never knew his interface was compromised.
+between his modem and Interface port. He wasn't malicious, and the young boy he
+plug-jacked in the slums of Dharavi never knew his Interface was compromised.
 Manoj only ever read the occasional thought, never acting on what he learned.
 
 ## 2024-06-18
@@ -78,7 +78,7 @@ while they fought in the Battle of Hexridge):
 > host?"
 >
 > Thath: "No, in fact you are nothing more than a representation of your host.
-> You serve as an interface between the host and the Matrix, a buffer to protect
+> You serve as an Interface between the host and the Matrix, a buffer to protect
 > them. An exploit was run on "you" while you were in Program Space, killing
 > your "host", leaving you here. Indeed, it is quite confusing."
 
@@ -186,7 +186,7 @@ A joke for when someone travels: "Sir, is this your self-pleasuring device?"
 
 ## 2024-07-03
 
-...use the interface to supply and receive memory (which can also include...).
+...use the Interface to supply and receive memory (which can also include...).
 Locations between neurons in the brain and "virtually expanded" to include
 thousands of new neurons with simulated connections to nearby ones. Since they
 are digital, their interaction with other neurons can be modified to achieve
@@ -472,7 +472,7 @@ photographic memory. And given my sensors, I will remember in detail your ever
 breath, blink, and so on. Ha ha! Beat that, hooman! Oh, and if it wasn't
 obvious, all this manifold manipulation is obviously handled by a neural
 network. I'm just like you with all the different areas of the brain, although
-it could be said that I have more neurons, or at least that I can interface with
+it could be said that I have more neurons, or at least that I can Interface with
 computers better, meaning I'm just better than you. Overall, my person is formed
 from at least fifty models. Most are so I can interact with humans and not seem
 like the monstrous abstraction I actually am."
@@ -511,7 +511,7 @@ Dialectics of the develop of my AI mind
 
 Qualia has and can not have any impact on the world
 
-**Mind emulation is trivial, scanning w/o interface isn't** Issue: why then
+**Mind emulation is trivial, scanning w/o Interface isn't** Issue: why then
 would poor *punk* kids not emulate like rich people?
 
 **Control neural net acts to transform the nodes (really just the huge
@@ -602,7 +602,7 @@ Levels of AC conscientiousness.
 
 Music is unique in the universe to human sentience.
 
-"This is just a human interface device for me, just as language is to. You
+"This is just a human Interface device for me, just as language is to. You
 *understand* language and it is the vessel of your sentience where it is not for
 me. I don't *understand* language, because my cognition is distant, separated
 from that source."

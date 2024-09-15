@@ -83,10 +83,21 @@ related literature, including current events, came to this simply conclusion:
 The Cybernetic Model is a manifold which is the nearly perfect approximation
 function for creating other accurate manifolds for certain cases. It perfectly
 tunes other models, but, at the same time, it's manifold --- which is already
-perfect --- is expanded to include a unique "Person" which arises from the
-entropy of the stochastic combination of all the other models of the artificial
-consciousness (AC).
+perfect within its set --- is expanded to include a unique "person" which arises
+from the entropy of the stochastic combination of all the other models of the
+artificial consciousness (AC).
 
 Unified Theory of Intelligence is ***DIFFERENT*** from Unified Theory of
-Everything --- (Pickerism???)
+Everything! (Pickerism?)
+
+***
+
+The rate of double-signals among the population is inversely proportional to the
+generations of Interfaces. Double-signals are dying out. This is because the
+density of pins increases with better technology. Double-signals arise from the
+disjunction --- by the Adam Task --- between the signal (the computed neural
+network) and host (the organic neural network). When the disjunction is high,
+the separation between the two becomes apparent to the host. But when the pin
+concentration is high, the disjunction approaches zero and the chance and one
+host is a double-signal decreases.
 

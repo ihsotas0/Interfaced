@@ -7,6 +7,10 @@ author: "Jonah Spector"
 
 Define "sentience".
 
+## The Picker
+
+AI Pickers?
+
 ## Choosers
 
 ## Super-Choosers
