@@ -171,7 +171,7 @@ But for now, $\gamma_p$ is simply given by the Pickers through their Oracles.
 
 From this we can calculate how changes to the death rate, $D'(t)$, affect $t_p$,
 namely to see the actual effects Super-Choosers have on Picker time. Using the
-combined equation, ignoring Harolds' Time, $t_p(t) = \frac{\gamma_p}{D'(t)}$,
+combined equation, ignoring Harolds' Time, $t_p(t) = \gamma_p D'(t)^{-1}$,
 
 $$ 2.525 \times 10^{11} = \frac{6.243 \times 10^{31}}{2.473 \times 10^{20}} $$
 
@@ -179,8 +179,8 @@ and by adding, say, 10 billion extra deaths in *any given* second (caused by a
 Giga-Chooser destroying the entire Earth instantaneously somehow), we can
 calculate a difference,
 
-$$ \left( 2.525 \times 10^{11} - \frac{6.243 \times 10^{31}}{2.473 \times
-10^{20} + 10^{10}} \right) \approx 10 $$
+$$ 2.525 \times 10^{11} - \left(\frac{6.243 \times 10^{31}}{2.473 \times 10^{20}
++ 10^{10}}\right) \approx 10 $$
 
 of 10 seconds!
 
@@ -189,8 +189,31 @@ specifically, the rate of change of this decrease) as the Great Purge came to a
 close can be calculated. Choosers emerged when the Oracles gave news of a
 drastic increase in the Picker time from the consistent 8000 years. Every year,
 the new Picker time was 100 years greater. This means that the rate of change of
-$t_p$ is 100 seconds per second.
+$t_p$ is 100 seconds per second. So, to calculate $D''(t)$,
 
+$$ t_p(t) = \gamma_p D'(t)^{-1} $$
 
+$$ t_p'(t) = -\gamma_p D'(t)^{-2}\,D''(t) $$
+
+$$ D''(t) = -\frac{t_p'(t)\:D'(t)^{2}}{\gamma_p} $$
+
+And by plugging in numbers,
+
+$$ -9.796 \times 10^{11} \approx -\frac{100(2.473 \times 10^{20})^2}{6.243
+\times 10^{31}} $$
+
+So, as the Great Purge comes to a close *linearly* (for narrative purposes), the
+death rate decreased by around 100 billion deaths (10 worlds) per second per
+second. The Milky Way has 15,600,000 inhabited worlds as mentioned before; at 10
+worlds per second, it would take around 18 days to purge the galaxy. Since there
+are 31,536,000 seconds in a year, the Great Purge went from purging 315,360,000
+worlds (20 galaxies, using the Milky Way as reference, which is far from the
+average but fine for reference) a second to 0 in a year.
+
+Since it takes 18 days to purge a galaxy, galaxies were in the process of being
+purged at the beginning of the decline of the Great Purge. During the high of
+the Great Purge, which lasted millenia, 630,720,000,000 galaxies were purged
+yearly. Becuase of this, it will take 1000 years for the Great Purge to fully
+end (since the fight is "ongoing").
 
 
