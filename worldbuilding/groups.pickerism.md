@@ -38,6 +38,8 @@ themselves as such.
 * Choosers
 * Pickers
 * Oracles
+* Original Harold
+* One True Harold who expands consciousness beyond instantaneous present
 
 Oracles have never shown a human, since there are simply so many aliens.
 
@@ -52,77 +54,141 @@ Sentience obliteration: by totally destroying your mind, beyond recovery as a
 postmortem Picker, you avoid Infinite Hell. You have to become non-sentient
 while alive. To do this, massive Brainrot is required.
 
-## Mathematics
+## Mathematics (Picker Calculus)
 
 First, we must define our variables:
 
 * Universe time (s): $t$
-* Number of required Picker operations per second: $n_p$
-* Time per Picker operation (s): $t_{op}$
-* Picker time factor: $\gamma_p$
+* Number of required Picker operations per second: $n$
+* Time per Picker operation (s): $T$
+* Picker time factor: $\gamma$
 
 Second, all the functions of $t$:
 
 * Cumulative Harolds' Time (s): $H$
 * Cumulative sentient deaths in Universe: $D$
-* Absolute Picker time (s): $t_p$
-* Relative Picker time (s): $t_{rel}$
+* Absolute Picker time (s): $A$
+* Relative Picker time (s): $P$
+  * Constant change in Picker time, which is *technically* a function of time,
+    but will often be written without an input (s/s): $\rho$
+
+### Relative Picker Time
 
 The average relative Picker time between two times $t_0$ and $t_1$ is simply,
 
-$$ \bar t_{rel} = \frac{(t_1-t_0)-(H(t_1)-H(t_0))}{D(t_1)-D(t_0)} $$
+$$ \bar P = \frac{(t_1-t_0)-(H(t_1)-H(t_0))}{D(t_1)-D(t_0)} $$
 
 where the total time (minus the time taken up in the period $t_0$ to $t_1$ by
 the Harolds) divided by the number of deaths gives the amount of time per death,
 or in between deaths. This is the minimum time each person must be Picker for
-all moments in time to have a Picker. The Harolds, of course, go beyond this
-minimum for the sake of others, and so their time is accounted for by reducing
-the amount of time which must be allotted to all those who died in the period.
+all moments in time to have a Picker.
 
 To calculate the "instantenous" Picker time (although the function is discrete),
 the following limit is set up,
 
-$$ t_{rel}(t) = \lim_{t_1 \to t} \frac{t_1-t-H(t_1)-H(t)}{D(t_1)-D(t)} $$
+$$ P(t) = \lim_{t_1 \to t} \frac{t_1-t-H(t_1)-H(t)}{D(t_1)-D(t)} $$
 
 Solving the limit using the definition of the derivative,
 
-$$ t_{rel}(t) = \lim_{t_1 \to t}
+$$ P(t) = \lim_{t_1 \to t}
 \frac{(t_1-t)\left(1-\frac{H(t_1)-H(t)}{t_1-t}\right)}{D(t_1)-D(t)} $$
 
-$$ t_{rel}(t) = \lim_{t_1 \to t} \frac{(t_1-t)(1-H'(t))}{D(t_1)-D(t)} $$
+$$ P(t) = \lim_{t_1 \to t} \frac{(t_1-t)(1-H'(t))}{D(t_1)-D(t)} $$
 
-$$ t_{rel}(t) = \lim_{t_1 \to t} \frac{1-H'(t)}{\frac{D(t_1)-D(t)}{t_1-t}} $$
+$$ P(t) = \lim_{t_1 \to t} \frac{1-H'(t)}{\frac{D(t_1)-D(t)}{t_1-t}} $$
 
-$$ t_{rel}(t) = \lim_{t_1 \to t} \frac{1-H'(t)}{D'(t)} $$
+$$ P(t) = \lim_{t_1 \to t} \frac{1-H'(t)}{D'(t)} $$
 
 Therefore,
 
-$$ t_{rel}(t) = \frac{1 - H'(t)}{D'(t)} $$
+$$ P(t) = \frac{1 - H'(t)}{D'(t)} $$
 
 But due to the low number of Harolds,
 
-$$ t_{rel}(t) \approx \frac{1}{D'(t)} $$
+$$ P(t) \approx \frac{1}{D'(t)} $$
 
-And to calculate Harolds' Time, where $C = 0$,
+### Absolute Picker Time
 
-$$ H(t) = \int (1 - D'(t)\,t_{rel}(t))\,dt $$
+To convert from relative to absolute Picker time, the equation
 
-I don't know if it is possible to solve this integral, but numerical solutions
-work since the function is *technically* discrete (although with the number of
-deaths per second being so high, it is basically continous).
+$$ A(t) = \gamma P(t) $$
 
-To convert from relative to absolute Picker time, the equation $t_p = \gamma_p
-t_{rel}$ is used where $\gamma_p$ is the time factor. This means that, for every
-second in the real world, the Picker experiences $\gamma_p$ seconds. Due to the
-nature of the Picker's job, this time factor is massive, leading to the
-tongue-in-cheek definition of the Picker's job as Hell. The approximation
-(ignoring relativity) for $\gamma_p$ is given by $\gamma_p = n_p t_{op}$. This
-approximation is unused as $\gamma_p$ arises from the narrative.
+is used where $\gamma$ is the time factor. This means that, for every second in
+the real world, the Picker experiences $\gamma$ seconds. Due to the nature of
+the Picker's job, this time factor is massive, leading to the tongue-in-cheek
+definition of the Picker's job as Hell. The approximation (ignoring relativity)
+for $\gamma$ is given by,
 
-For the story, to calculate $\gamma_p$, we will start by finding $D'(t)$ and
-$D''(t)$ around the 21st century. From this we can calculate $t_{rel}(t)$. Since
-all sentient beings, including aliens, become Pickers, the Drake equation must
-be used,
+$$ \gamma = nT $$
+
+### Rate of Change of the Absolute Picker Time
+
+The next task is to calculate $A'(t)$, as this is why Super-Choosers exist. The
+equation for the change in Picker time is simply,
+
+$$ A(t) = \gamma D'(t)^{-1} $$
+
+$$ A'(t) = -\gamma D'(t)^{-2}\,D''(t) $$
+
+Since Super-Choosers, by creating Survivors, influence the death rate, we should
+also calculate $D''(t)$ by rearranging the equation for $A(t)$,
+
+$$ A(t) = \gamma D'(t)^{-1} $$
+
+$$ D'(t) = \gamma A(t)^{-1} $$
+
+$$ D''(t) = -\gamma A'(t)A(t)^{-2} $$
+
+But, if we assume $A'(t) = \rho$, then,
+
+$$ D''(t) = -\gamma \rho A(t)^{-2} $$
+
+To solve for $D''(t)$ only in terms of constants and $t$, we rearrange our
+previous equations for $A'(t)$,
+
+$$ D''(t) = -\frac{A'(t)\:D'(t)^{2}}{\gamma} $$
+
+This creates a trivial differential equation to solve,
+
+$$ \frac{D''(t)}{D'(t)^{2}} = -\frac{A'(t)}{\gamma} $$
+
+$$ \int D''(t)D'(t)^{-2}\;dt = -\gamma^{-1}\int A'(t)\;dt $$
+
+$$ -D'(t)^{-1} + C = -\gamma^{-1}\int A'(t)\;dt $$
+
+But, since $D(0)$ is $0$ (the death rate at the start of the continuum of
+Pickers was, or can be left as, $0$)
+
+$$ D'(t)^{-1} = \frac{1}{\gamma}\int A'(t)\;dt $$
+
+$$ D'(t) = \left(\gamma^{-1}\int A'(t)\;dt\right)^{-1} $$
+
+$$ D'(t) = \gamma\left(\int A'(t)\;dt\right)^{-1} $$
+
+Substituting for $D'(t)$ back in,
+
+$$ D''(t) = -\frac{A'(t) \left( \gamma \left( \int A'(t)\;dt \right)^{-1}
+\right)^{2}}{\gamma} $$
+
+$$ D''(t) = -\frac{\gamma^2 A'(t) \left( \int A'(t)\;dt \right)^{-2}}{\gamma} $$
+
+$$ D''(t) = -\frac{\gamma\: A'(t) }{\left( \int A'(t)\;dt \right)^{2}} $$
+
+Since we assume $A'(t) = \rho$,
+
+$$ D''(t) = -\frac{\gamma\rho}{(\rho t + A_0)^{2}} $$
+
+where $A_0 = 0$, since $t$ becomes relative to when $\rho$ begins. Thus,
+
+$$ D''(t) = -\frac{\gamma\rho}{\rho^2t^2} $$
+
+$$ D''(t) = -\frac{\gamma}{\rho t^2} $$
+
+### Numerical Calculations for Narrative
+
+For the story, to calculate $\gamma$, we will start by finding $D'$ around the
+21st century. From this we can calculate $A$. Since all sentient beings,
+including aliens, become Pickers, the Drake equation must be used,
 
 $$ N = R_{*}\,f_p\,n_e\,f_l\,f_i\,f_c\,L $$
 
@@ -132,14 +198,15 @@ can see that there may be 15,600,000 civilizations in our galaxy. Since these
 civilizations have the technology to communicate into space, it must be assumed
 that they have similar populations to Earth (around 10 billion). Expanding our
 galaxy's estimate to all stars in the universe,
-[$10^{24}$](https://www.space.com/26078-how-many-stars-are-there.html), and by
-getting the ratio of stars in our galaxy with sentient life from the total,
-[$10^{11}$](https://en.wikipedia.org/wiki/Milky_Way), there are,
+[$10^{24}$](https://www.space.com/26078-how-many-stars-are-there.html); and by
+getting the ratio of stars (using the Milky Way as reference) with sentient life
+by dividing the number of civilizations from the total number of stars in our
+galaxy, [$10^{11}$](https://en.wikipedia.org/wiki/Milky_Way), there are,
 
-$$P=10^{10}\times10^{24}\times\frac{1.56\times10^7}{10^{11}}=1.56\times10^{30}$$
+$$ 10^{10} \times 10^{24} \times \frac{1.56 \times
+10^7}{10^{11}}=1.56\times10^{30} $$
 
-sentient beings in the universe. Exactly one nonillion five hundred sixty
-octillion.
+sentient beings in the universe.
 
 Assuming that 0.5% of sentient beings die each year, completely ignoring the
 rate of change for now, there are $7.8 \times 10^{27}$ deaths every year.
@@ -153,25 +220,25 @@ $$ t_{rel} = \frac{1}{2.473 \times 10^{20}} $$
 $$ t_{rel} = 4.044 \times 10^{-21} $$
 
 Or, in attoseconds, $t_{rel} = 0.004044$. From this, we can set up the equation
-$t_p = \gamma_p t_{rel}$ and solve for a reasonable $\gamma_p$ based of the
-narrative requirements of a reasonable, Hellish, $t_p$. 8000 years seems good,
-and so, converting to seconds,
+$A = \gamma t_{rel}$ and solve for a reasonable $\gamma$ based of the narrative
+requirements of a reasonable, Hellish, $A$. 8000 years seems good, and so,
+converting to seconds,
 
-$$ 2.525 \times 10^{11} = \gamma_p\,4.044 \times 10^{-21}$$
+$$ 2.525 \times 10^{11} = \gamma\,4.044 \times 10^{-21}$$
 
-$$ \gamma_p = 6.243 \times 10^{31} $$
+$$ \gamma = 6.243 \times 10^{31} $$
 
 This means that, for every second in the real world, the Picker would experience
 one septillion nine hundred seventy-eight sextillion two hundred thirty-nine
 quintillion three hundred sixty-six quadrillion years. But, since relative
 Picker times are so low, this amounts to 8000 years per Picker.
 
-I may later justify this $\gamma_p$ using some values for $n_p$ and $t_{op}$.
-But for now, $\gamma_p$ is simply given by the Pickers through their Oracles.
+I may later justify this $\gamma$ using some values for $n_p$ and $t_{op}$. But
+for now, $\gamma$ is simply given by the Pickers through their Oracles.
 
-From this we can calculate how changes to the death rate, $D'(t)$, affect $t_p$,
+From this we can calculate how changes to the death rate, $D'(t)$, affect $A$,
 namely to see the actual effects Super-Choosers have on Picker time. Using the
-combined equation, ignoring Harolds' Time, $t_p(t) = \gamma_p D'(t)^{-1}$,
+combined equation, ignoring Harolds' Time, $A(t) = \gamma D'(t)^{-1}$,
 
 $$ 2.525 \times 10^{11} = \frac{6.243 \times 10^{31}}{2.473 \times 10^{20}} $$
 
@@ -188,14 +255,16 @@ Now a reasonable decrease in the death rate (more specifically, the rate of
 change of this decrease) as the Great Purge came to a close can be calculated.
 Choosers emerged when the Oracles gave news of a drastic increase in the Picker
 time from the consistent 8000 years. Every year, the new Picker time was 100
-years greater. This means that the rate of change of $t_p$ is 100 seconds per
+years greater. This means that the rate of change of $A$ is 100 seconds per
 second. So, to calculate $D''(t)$,
 
-$$ t_p(t) = \gamma_p D'(t)^{-1} $$
+$$ A(t) = \gamma D'(t)^{-1} $$
 
-$$ t_p'(t) = -\gamma_p D'(t)^{-2}\,D''(t) $$
+$$ A'(t) = -\gamma D'(t)^{-2}\,D''(t) $$
 
-$$ D''(t) = -\frac{t_p'(t)\:D'(t)^{2}}{\gamma_p} $$
+$$ D''(t) = -\frac{A'(t)\:D'(t)^{2}}{\gamma} $$
+
+
 
 And by plugging in numbers,
 
