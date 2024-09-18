@@ -174,7 +174,7 @@ $$ -D'(t)^{-1} + C_1 = -\frac{a}{\gamma}t + C_2 $$
 
 $$ D'(t)^{-1} + C_3 = \frac{a}{\gamma}t \quad , \quad C_3=C_2-C_1 $$
 
-$$ D'(t) + C_4 = \frac{\gamma}{at} \quad , \quad C_4=f(C_3)$$
+$$ D'(t) + C_4 = \frac{\gamma}{at} \quad , \quad C_3 D'(t) $$
 
 Conceptualizing what the constant of integration here may be is difficult. It
 can be reasoned that the constant $C_4$ is the initial death rate at $t=0$, but
