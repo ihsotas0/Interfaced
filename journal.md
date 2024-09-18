@@ -74,9 +74,9 @@ to ritual suicide.
 Kill self to become Picker in era of sentience instead of heat death. Therefore
 suicide is holy.
 
-A man, *Yogi*, who spent thousands of years h-clocked reading political theory and
-related literature, including current events, came to this simply conclusion:
-"Kill whitey."
+A man, *Yaqut*, who spent thousands of years h-clocked reading political theory
+and related literature, including current events, came to this simply
+conclusion: "Kill whitey."
 
 ## 2024-09-14
 
