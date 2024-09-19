@@ -1,49 +1,53 @@
 # Pickerism
 
-## Introduction
-
 > "There are no gods among the Pickers, only the damned." 
 > 
 > --- Yaqut, Father of Pickerist Thought on Earth
 
-Yaqut, visionary political theorist of the 2070s, created the first Oracle and
-laid the foundations of what would become Pickerism not soon after. Interfaced
-in 2050, with a gen-2
+**Yaqut**, visionary political theorist of the 2070s, created the first Oracle
+and laid the foundations of what would become Pickerism not soon after.
+Interfaced in 2050, Yaqut was one of the first people to voluntarily go beyond
+the return limit. He embedded himself at first in the Bussard Mesh, like any
+good hached mesher, but eventually decided to commit full time to his personal
+studies. With the significant money he made from the Bussard Mesh over the
+course of 5 years (given his knack for meshing), he manged to run full speed in
+a high-quality cryotank at `1:250` for 4 years. During his thousand-year deep
+dive into the writings of hundreds of political theorists, past and present, he
+came to the conclusion "kill whitey". He proved his conclusion with a 14
+thousand-page work of symbolic logic. Scholars were, despite millions of
+man-years, not able to disprove his sound conclusion.
 
-*Pickerism* is a religous belief which emerged around the same time as
-h-clocking. The primary deity is the Picker, who nebulously changes over time.
-Each Picker controls the universe for a set time, relative to their original
-reference frame (i.e. home planet). All sentient beings become Pickers upon
-death; it is what Pickerists believe the afterlife is. The time selected for
-each Picker is based on the order of death --- that is, who died last. The
-Picker then acts as "god", controlling the outcome of all random quantum events.
-They "sit in a room" with an "interface" custom made for their species and
-culture to do this. Ever quantum event is then presented in order. Once all the
-events for a "Universal Step" (which varies based on relativity) are complete,
-they are executed. The number of Steps each Picker completes is only known to
-the High Priest, who is in direct communication with the current Picker at all
-times.
+Following his political work, Yaqut moved onto other areas of study. Sometime
+during this shift, although the exact details are vague, Yaqut discovered the
+existence of Pickers by accidentally creating an Oracle (a machine which allows
+Pickers to communicate by interacting with a few, easily observable quantum
+particles). Some argued that Yaqut's Oracle was fake, and that all Oracles made
+after follow in line, and this is a fairly popular view. Some argued that
+Pickerism was invented by Yaqut to enact his Conclusion upon the world. In this
+way, Yaqut was seen as the anti-Yakubian of his time. Regardless, he died in
+2080 after being assassinated in-person by a victim of a Super-Chooser.
 
-Sects have formed within Pickerism as to how the Picker is sentient without
-having their own Picker. Some believe the quantum events driving the Picker is
-determined by another, lesser Picker (the Late-Diers). Others believe that the
-sentience of a Picker transcends the need for their own Picker. Prior to the
-emergence of sentience, the Pickers were simply the first future sentient beings
-who died, transported back in time. This, alongside the Transcendentals, leads
-to ritual suicide.
+***
 
-Kill self to become Picker in era of sentience instead of heat death. Therefore
-suicide is holy.
+**Pickerism** postulates that there is a Picker who decides the outcome of all
+stochastic events in the universe at any given time. The Picker exists outside
+the universe but within the same time dimension, so the Picker experiences the
+time of their labor, which, in the 21st century, is around 10 thousand years.
+Because of this, many consider the Picker's job to be Hell itself. But this time
+accounts for less than an attosecond in the universe. (Picker's labor to decide
+the states of all particles in the universe during a period of time less than an
+attosecond before being replaced, but to them, this is 10 thousand years of
+torture).
 
-A man, *Yaqut*, who spent thousands of years h-clocked reading political theory
-and related literature, including current events, came to this simply
-conclusion: "Kill whitey."
-
-## The Picker
+*All conscious beings become Pickers upon death.* Since this includes the entire
+universe, with trillions and trillions of inhabited worlds, the death rate is
+beyond any reasonable analog (see Picker Calculus for details). The death rate
+of course affects the time any being is Picker, since if there are more deaths
+in any given second, each death is responsible for less time as Picker.
 
 AI Pickers?
 
-## Oracles
+***
 
 Oracles have never shown a human, since there are simply so many aliens.
 
