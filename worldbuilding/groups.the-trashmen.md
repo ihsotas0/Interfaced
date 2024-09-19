@@ -1,6 +1,3 @@
----
-title: "The Trashmen"
-author: "Jonah Spector"
----
+# The Trashmen
 
 "They fight in the dirt of the slums, the refuse of the exploited masses!"

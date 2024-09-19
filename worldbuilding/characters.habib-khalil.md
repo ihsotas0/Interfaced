@@ -1,7 +1,4 @@
----
-title: "Habib Khalil"
-author: "Jonah Spector"
----
+# Habib Khalil
 
 ## Description
 

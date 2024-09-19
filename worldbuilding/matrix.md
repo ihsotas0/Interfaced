@@ -1,6 +1,3 @@
----
-title: "Matrix"
-author: "Jonah Spector"
----
+# Matrix
 
 Released by [`ihsotas`](characters.ihsotas.md) in 2066.

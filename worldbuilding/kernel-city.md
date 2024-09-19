@@ -1,8 +1,3 @@
----
-title: "Kernel City"
-author: "Jonah Spector"
----
-
 # Kernel City
 
 Kernel City is the "kernel" between all nations of Earth, situated in the Sinai

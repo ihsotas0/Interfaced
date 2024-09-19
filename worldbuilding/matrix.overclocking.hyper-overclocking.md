@@ -1,7 +1,4 @@
----
-title: "Hyper-overclocking"
-author: "Jonah Spector"
----
+# Hyper-overclocking
 
 Also called haching (pronounced with a "sh" sound), hyper-overclocking
 involves [overclocking](matrix.overclocking.md) beyond the subjective

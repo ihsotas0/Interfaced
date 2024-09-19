@@ -1,13 +1,43 @@
----
-title: "Pickerism"
-author: "Jonah Spector"
----
+# Pickerism
 
 ## Introduction
 
 > "There are no gods among the Pickers, only the damned." 
 > 
 > --- Yaqut, Father of Pickerist Thought on Earth
+
+Yaqut, visionary political theorist of the 2070s, created the first Oracle and
+laid the foundations of what would become Pickerism not soon after. Interfaced
+in 2050, with a gen-2
+
+*Pickerism* is a religous belief which emerged around the same time as
+h-clocking. The primary deity is the Picker, who nebulously changes over time.
+Each Picker controls the universe for a set time, relative to their original
+reference frame (i.e. home planet). All sentient beings become Pickers upon
+death; it is what Pickerists believe the afterlife is. The time selected for
+each Picker is based on the order of death --- that is, who died last. The
+Picker then acts as "god", controlling the outcome of all random quantum events.
+They "sit in a room" with an "interface" custom made for their species and
+culture to do this. Ever quantum event is then presented in order. Once all the
+events for a "Universal Step" (which varies based on relativity) are complete,
+they are executed. The number of Steps each Picker completes is only known to
+the High Priest, who is in direct communication with the current Picker at all
+times.
+
+Sects have formed within Pickerism as to how the Picker is sentient without
+having their own Picker. Some believe the quantum events driving the Picker is
+determined by another, lesser Picker (the Late-Diers). Others believe that the
+sentience of a Picker transcends the need for their own Picker. Prior to the
+emergence of sentience, the Pickers were simply the first future sentient beings
+who died, transported back in time. This, alongside the Transcendentals, leads
+to ritual suicide.
+
+Kill self to become Picker in era of sentience instead of heat death. Therefore
+suicide is holy.
+
+A man, *Yaqut*, who spent thousands of years h-clocked reading political theory
+and related literature, including current events, came to this simply
+conclusion: "Kill whitey."
 
 ## The Picker
 
@@ -135,10 +165,10 @@ $$ \gamma = nT $$
 where $n$ is the number of required Picker operations per second and $T$ is the
 time per Picker operation.
 
-### Rate of Change of the Absolute Picker Time
+### Rate of Change of the Absolute Picker Time and Death Rate
 
 The next task is to calculate $A'(t)$, as this is why Super-Choosers exist. The
-equation for the change in Picker time is simply,
+equation for the change in Picker time is simply (ignoring the Harolds),
 
 $$ A(t) = \gamma D'(t)^{-1} $$
 
@@ -168,18 +198,30 @@ This creates a trivial differential equation to solve,
 
 $$ \frac{D''(t)}{D'(t)^{2}} = -\frac{a}{\gamma} $$
 
-$$ \int D''(t)D'(t)^{-2}\;dt = \int-\frac{a}{\gamma}\;dt $$
+$$ \int_0^{t} D''(t)D'(t)^{-2}\;dt = \int_0^{t} -\frac{a}{\gamma}\;dt $$
 
-$$ -D'(t)^{-1} + C_1 = -\frac{a}{\gamma}t + C_2 $$
+$$ -D'(t)^{-1} - \left(-D'(0)^{-1}\right) = -\frac{a}{\gamma}t -
+\left(-\frac{a}{\gamma}(0)\right) $$
 
-$$ D'(t)^{-1} + C_3 = \frac{a}{\gamma}t \quad , \quad C_3=C_2-C_1 $$
+$$ -D'(t)^{-1} + D'(0)^{-1} = -\frac{a}{\gamma}t $$
 
-$$ D'(t) + C_4 = \frac{\gamma}{at} \quad , \quad C_3 D'(t) $$
+$$ D'(t)^{-1} - D'(0)^{-1} = \frac{a}{\gamma}t $$
 
-Conceptualizing what the constant of integration here may be is difficult. It
-can be reasoned that the constant $C_4$ is the initial death rate at $t=0$, but
-this would imply that $C_4=\infin$ because the first death happened
-instantenously ($1$ death  per $1/\infin$ second).
+$$ D'(t) = \left(\frac{a}{\gamma}t + D'(0)^{-1}\right)^{-1} $$
+
+And substituting,
+
+$$ D''(t) = -\frac{a}{\gamma} \left(\left(\frac{a}{\gamma}t +
+D'(0)^{-1}\right)^{-1}\right)^{2} $$
+
+$$ D''(t) = -\frac{a}{\gamma}\left(\frac{a}{\gamma}t + D'(0)^{-1}\right)^{-2} $$
+
+$$ D''(t) = -\frac{a}{\gamma}\left(\frac{a}{\gamma}t + D'(0)^{-1}\right)^{-2} $$
+
+Skipping the simplification,
+
+$$ D''(t) = \left(\frac{at}{\gamma} + \frac{2t}{D'(0)} +
+\frac{\gamma}{aD'(0)^2}\right)^{-1} $$
 
 ### Numerical Calculations for Gamma
 
@@ -187,9 +229,9 @@ instantenously ($1$ death  per $1/\infin$ second).
 can have some fun.)
 
 For the story, to calculate $\gamma$, we will start by finding a $D'$ around the
-21st century (prior to the close of the Ancient War). From this we can calculate
-$A$. Since all sentient beings, including aliens, become Pickers, the Drake
-equation must be used,
+21st century, $t=0$, (prior to the close of the Ancient War). From this we can
+calculate $A$. Since all sentient beings, including aliens, become Pickers, the
+Drake equation must be used,
 
 $$ N = R_{*}\,f_p\,n_e\,f_l\,f_i\,f_c\,L $$
 

@@ -1,6 +1,3 @@
----
-title: "DRM"
-author: "Jonah Spector"
----
+# Digital Reuse Mediators
 
-DRM stands for "digital reuse mediators".
+

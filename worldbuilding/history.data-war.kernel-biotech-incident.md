@@ -1,8 +1,3 @@
----
-title: "Kernel Biotech Incident"
-author: "Jonah Spector"
----
-
 # Kernel Biotech Incident Prose (The Rice Hack)
 
 From the depths of his greasy basement, Dylan executed the wrapper program

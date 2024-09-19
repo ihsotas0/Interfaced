@@ -1,6 +1,3 @@
----
-title: "The Data War"
-author: "Jonah Spector"
----
+# Data War
 
 Obviously criticize and parody Ukraine inter-capitalist war.
