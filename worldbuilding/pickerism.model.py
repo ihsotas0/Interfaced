@@ -3,6 +3,11 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Preliminary population model
+
+
+
+'''
 # Calculations in pickerism.md
 
 gamma = 7.798 * 10**30 # Picker time factor
@@ -52,3 +57,4 @@ ax2.plot(t, picker_time_years, color=blue)
 
 fig.tight_layout()
 plt.show()
+'''

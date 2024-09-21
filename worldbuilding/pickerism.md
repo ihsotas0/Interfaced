@@ -4,18 +4,26 @@
 > 
 > --- Yaqut, Father of Pickerist Thought on Earth
 
-**Yaqut**, visionary political theorist of the 2070s, created the first Oracle
-and laid the foundations of what would become Pickerism not soon after.
-Interfaced in 2048 by his rich family, Yaqut was one of the first people to
-voluntarily go beyond the return limit. He embedded himself at first in the
-Bussard Mesh, like any good hached mesher, but eventually decided to commit full
-time to his personal studies. With the significant money he made from the
-Bussard Mesh over the course of 5 years (given his knack for meshing), he manged
-to run full speed in a high-quality cryotank at `1:250` for 4 years. During his
-thousand-year deep dive into the writings of hundreds of political theorists,
-past and present, he came to the conclusion "kill whitey". He proved his
-conclusion with a 14 thousand-page work of symbolic logic. Scholars were,
-despite millions of man-years, not able to disprove his sound conclusion.
+Yaqut, visionary political theorist of the 2070s, created the first Oracle and
+laid the foundations of what would become Pickerism not soon after. Interfaced
+in 2048 by his rich family, Yaqut was one of the first people to voluntarily go
+beyond the return limit at 18 years old. He embedded himself full-time at first
+in the newly founded Bussard Mesh (`1:700`), like any good hached mesher, but
+eventually decided to commit part-time to his personal studies.
+
+With the significant money he made while embedded in the Bussard Mesh over the
+course of 4 years (given his knack for meshing), he rented an expensive cryotank
+capable of `1:2000` haching. (In this case he spent `700` in the Bussard Mesh
+and `1300` on his personal studies.) Yaqut avoided being drafted during the Data
+War since he was hached, since hached people were no more effective than
+non-hached people in Program Space. The Bussard Mesh was his "service" during
+the war.
+
+His personal studies lasted thousands of years. He made a deep dive into the
+writings of hundreds of political theorists, past and present, and came to the
+Conclusion "kill whitey". He proved his Conclusion with a 14 thousand-page work
+of symbolic logic. Scholars were, despite millions of man-years, not able to
+disprove his sound Conclusion.
 
 Following his political work, Yaqut moved onto other areas of study. Sometime
 during this shift, although the exact details are vague, Yaqut discovered the
@@ -25,22 +33,23 @@ particles). Some argued that Yaqut's Oracle was fake, and that all Oracles made
 after follow in line, and this is a fairly popular view. Some argued that
 Pickerism was invented by Yaqut to enact his Conclusion upon the world. In this
 way, Yaqut was seen as the anti-Yakubian of his time. Regardless, he died in
-2080 after being assassinated in-person by a victim of a Super-Chooser.
+2073 soon after publishing Pickerism when a Super-Chooser victim's relative
+killed him.
 
 ***
 
-**Pickerism** postulates that there is a Picker who decides the outcome of all
-stochastic events in the universe at any given time. The Picker exists outside
-the universe but within the same time dimension, so the Picker experiences the
+Pickerism postulates that there is a Picker who decides the outcome of all
+stochastic events in the Universe at any given time. The Picker exists outside
+the Universe but within the same time dimension, so the Picker experiences the
 time of their labor, which, in the 21st century, is around 10 thousand years.
 Because of this, many consider the Picker's job to be Hell itself. But this time
-accounts for less than an attosecond in the universe. (Picker's labor to decide
-the states of all particles in the universe during a period of time less than an
+accounts for less than an attosecond in the Universe. (Picker's labor to decide
+the states of all particles in the Universe during a period of time less than an
 attosecond before being replaced, but to them, this is 10 thousand years of
 torture).
 
 *All conscious beings become Pickers upon death.* Since this includes the entire
-universe, with trillions and trillions of inhabited worlds, the death rate is
+Universe, with trillions and trillions of inhabited worlds, the death rate is
 beyond any reasonable analog (see Picker Calculus for details). The death rate
 of course affects the time any being is Picker, since if there are more deaths
 in any given second, each death is responsible for less time as Picker.
@@ -59,7 +68,7 @@ The Cascade theory: each Picker has another Picker, to make them conscience,
 which goes on forever to ensure no being is not "Picked" for their own
 sentience. This means that all beings live forever as Pickers. Infinite Hell.
 But it can never be proven since the Picker, in there space outside the
-universe, has no access to an Oracle to determine there is another Picker above
+Universe, has no access to an Oracle to determine there is another Picker above
 them.
 
 ### Sentience Obliteration
@@ -81,7 +90,7 @@ our minds at anytime.
 
 Despite the fact that Cascade Theory is correct, the Transcendentalists became a
 war to maintain the Picker time. The Crops of sentient beings they fostered were
-mercilessly purged to ensure a stable death rate across the universe.
+mercilessly purged to ensure a stable death rate across the Universe.
 
 At the end of the War, world's started doing mass suicide.
 
@@ -140,20 +149,56 @@ themselves as such.
 |--------|-------------------------------|-------|
 | $N$    | Population of Universe        |       |
 | $K$    | Carrying capacity of Universe |       |
-| $b$    | Rate of births per individual |       |
-| $d$    | Rate of deaths per individual |       |
+| $b$    | Rate of births                |       |
+| $d$    | Rate of deaths                |       |
+| $r$    | Rate of natural increase      |       |
 
-From here on, $t=0$ is exactly 2070
+From here on, $t=0$ is exactly -5 Ma, the midpoint of the end of the
+Transcendentalists' War, between -20 Ma and 10 Ma.
 
 ### Preliminary Population Model
 
-Using a logistic equation to model the population of the universe is the first
+Using a logistic equation to model the population of the Universe is the first
 step to calculating Picker times and other things. A logistic equation will be
 used where,
 
-$$ N' = (b-d)N\left(1-\frac{N}{K}\right)$$
+$$ \frac{dN}{dt} = rN\left(1-\frac{N}{K}\right)$$
 
+$$ r = b - d $$
 
+The goal of the Transcendentalists' War was simply to increase the number of
+deaths per second, which was achieved by artificially increasing $b$ and $d$,
+or, more specifically, $bN$ and $dN$. The Transcendentalists took into account
+$K$, the carrying capacity of the entire Universe, when doing this.
+
+So first $K$ must be calculated. Using results from
+[Wikipedia](https://en.wikipedia.org/wiki/Drake_equation#Range_of_results), a
+high estimate (meaning a "maximum" possible value, or carrying capacity) of our
+galaxy is 15,600,000 civilizations. Since these civilizations have the
+technology to communicate into space, it must be assumed that they have similar
+technology to Earth, where the carrying capacity is around 10 billion.
+
+Expanding our galaxy's estimate to all stars in the Universe,
+[$10^{24}$](https://www.space.com/26078-how-many-stars-are-there.html); and
+calculating a Universal ratio of stars with civilizations (using the Milky Way,
+$mw$, as reference) by dividing the number of $mw$ civilizations from the total
+number of stars in our galaxy,
+[$10^{11}$](https://en.wikipedia.org/wiki/Milky_Way), $K$ can be calculated as,
+
+$$ K = \bar K_{world} \cdot n_{stars} \cdot
+\left(\frac{n_{civs}}{n_{stars}}\right)_{mw} $$
+
+$$ 1.560\times10^{30} = 10^{10} \times 10^{24} \times \frac{1.560 \times
+10^7}{10^{11}} $$
+
+Next, what would the rate of natural increase be (without the
+Transcendentalists' War)? On Earth, yearly,
+[$r\approx0.01$](https://ourworldindata.org/grapher/population-growth-rates) ---
+this will be used for the entire Universe. First, converting $r$ to seconds (the
+units that will be used in all equations),
+$r=0.01/60/60/24/365=3.171\times10^{10}$
+
+This gives everything necessary to do the rest of the calculations.
 
 ### Relative Picker Time
 
@@ -260,7 +305,7 @@ Stealing results from
 can see that there may be 15,600,000 civilizations in our galaxy. Since these
 civilizations have the technology to communicate into space, it must be assumed
 that they have similar populations to Earth (around 10 billion). Expanding our
-galaxy's estimate to all stars in the universe,
+galaxy's estimate to all stars in the Universe,
 [$10^{24}$](https://www.space.com/26078-how-many-stars-are-there.html); and by
 getting the ratio of stars (using the Milky Way, $mw$, as reference) with
 sentient life by dividing the number of civilizations from the total number of
@@ -273,7 +318,7 @@ $$ P = \bar P_{world} \cdot n_{stars} \cdot
 $$ 1.560\times10^{30} = 10^{10} \times 10^{24} \times \frac{1.560 \times
 10^7}{10^{11}} $$
 
-sentient beings in the universe.
+sentient beings in the Universe.
 
 Assuming that 0.05% of sentient beings die each year (around Earth's death
 rate), completely ignoring the rate of change for now, there are $7.8 \times
