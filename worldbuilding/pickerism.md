@@ -6,16 +6,16 @@
 
 **Yaqut**, visionary political theorist of the 2070s, created the first Oracle
 and laid the foundations of what would become Pickerism not soon after.
-Interfaced in 2050, Yaqut was one of the first people to voluntarily go beyond
-the return limit. He embedded himself at first in the Bussard Mesh, like any
-good hached mesher, but eventually decided to commit full time to his personal
-studies. With the significant money he made from the Bussard Mesh over the
-course of 5 years (given his knack for meshing), he manged to run full speed in
-a high-quality cryotank at `1:250` for 4 years. During his thousand-year deep
-dive into the writings of hundreds of political theorists, past and present, he
-came to the conclusion "kill whitey". He proved his conclusion with a 14
-thousand-page work of symbolic logic. Scholars were, despite millions of
-man-years, not able to disprove his sound conclusion.
+Interfaced in 2048 by his rich family, Yaqut was one of the first people to
+voluntarily go beyond the return limit. He embedded himself at first in the
+Bussard Mesh, like any good hached mesher, but eventually decided to commit full
+time to his personal studies. With the significant money he made from the
+Bussard Mesh over the course of 5 years (given his knack for meshing), he manged
+to run full speed in a high-quality cryotank at `1:250` for 4 years. During his
+thousand-year deep dive into the writings of hundreds of political theorists,
+past and present, he came to the conclusion "kill whitey". He proved his
+conclusion with a 14 thousand-page work of symbolic logic. Scholars were,
+despite millions of man-years, not able to disprove his sound conclusion.
 
 Following his political work, Yaqut moved onto other areas of study. Sometime
 during this shift, although the exact details are vague, Yaqut discovered the
@@ -47,7 +47,6 @@ in any given second, each death is responsible for less time as Picker.
 
 AI Pickers?
 
-***
 
 Oracles have never shown a human, since there are simply so many aliens.
 
@@ -59,6 +58,9 @@ Cascade Theory.
 The Cascade theory: each Picker has another Picker, to make them conscience,
 which goes on forever to ensure no being is not "Picked" for their own
 sentience. This means that all beings live forever as Pickers. Infinite Hell.
+But it can never be proven since the Picker, in there space outside the
+universe, has no access to an Oracle to determine there is another Picker above
+them.
 
 ### Sentience Obliteration
 
@@ -75,13 +77,28 @@ One True Harold who expands consciousness beyond instantaneous present
 We are all products of the Picker's conscience, since they Pick the states of
 our minds at anytime.
 
-## The Ancient War
+## The Transcendentalists' War
+
+Despite the fact that Cascade Theory is correct, the Transcendentalists became a
+war to maintain the Picker time. The Crops of sentient beings they fostered were
+mercilessly purged to ensure a stable death rate across the universe.
+
+At the end of the War, world's started doing mass suicide.
 
 ## Cult Behavior on Earth
 
+Changers create Helpers, Choosers create Listeners, and Super-Choosers create
+Survivors.
+
 ### Controllers
 
+### Changers
+
+Create Helpers
+
 ### Choosers
+
+Emerged during the end of the Transcendentalists' War (which took 1000 years).
 
 #### Super-Choosers
 
@@ -105,19 +122,38 @@ themselves as such.
 
 ## Mathematics (Picker Calculus)
 
-First, we must define our variables:
+**Picker model**
 
-* Universe time (s): $t$
-* Number of required Picker operations per second: $n$
-* Time per Picker operation (s): $T$
-* Picker time factor: $\gamma$
+| Symbol   | Label                        | Units |
+|----------|------------------------------|-------|
+| $t$      | Universe time                | s     |
+| $n$      | Picker operations per second | 1/s   |
+| $T$      | Time per Picker operation    | s     |
+| $\gamma$ | Time conversion factor       |       |
+| $H$      | Cumulative Harolds' Time     | s     |
+| $A$      | Absolute Picker time         | s     |
+| $R$      | Relative Picker time         | s     |
 
-Second, all the functions of $t$:
+**Population model**
 
-* Cumulative Harolds' Time (s): $H$
-* Cumulative sentient deaths in Universe: $D$
-* Absolute Picker time (s): $A$
-* Relative Picker time (s): $R$
+| Symbol | Label                         | Units |
+|--------|-------------------------------|-------|
+| $N$    | Population of Universe        |       |
+| $K$    | Carrying capacity of Universe |       |
+| $b$    | Rate of births per individual |       |
+| $d$    | Rate of deaths per individual |       |
+
+From here on, $t=0$ is exactly 2070
+
+### Preliminary Population Model
+
+Using a logistic equation to model the population of the universe is the first
+step to calculating Picker times and other things. A logistic equation will be
+used where,
+
+$$ N' = (b-d)N\left(1-\frac{N}{K}\right)$$
+
+
 
 ### Relative Picker Time
 
@@ -171,15 +207,15 @@ time per Picker operation.
 
 ### Rate of Change of the Absolute Picker Time and Death Rate
 
-The next task is to calculate $A'(t)$, as this is why Super-Choosers exist. The
-equation for the change in Picker time is simply (ignoring the Harolds),
+The next task is to calculate $A'(t)$, as this is why (Super-)Choosers exist.
+The equation for the change in Picker time is simply (ignoring the Harolds),
 
 $$ A(t) = \gamma D'(t)^{-1} $$
 
 $$ A'(t) = -\gamma D'(t)^{-2}\,D''(t) $$
 
-Since Super-Choosers, by creating Survivors, influence the death rate, we should
-also calculate $D''(t)$ by rearranging the equation for $A(t)$,
+Since Changers, in order to "reduce" the Picker time, influence the death rate,
+we should also calculate $D''(t)$ by rearranging the equation for $A(t)$,
 
 $$ A(t) = \gamma D'(t)^{-1} $$
 
@@ -191,53 +227,33 @@ But, if we assume $A'(t)$ is a constant $a$, then,
 
 $$ D''(t) = -\gamma \,a A(t)^{-2} $$
 
-To solve for $D''(t)$ only in terms of $a$ and $t$, we rearrange our previous
-equations for $A'(t)$,
+Then, using the accumulation of the rate of change,
 
-$$ D''(t) = -\frac{A'(t)\:D'(t)^{2}}{\gamma} $$
+$$ D''(t) = -\gamma \,a \left(\int A'(t)\,dt\right)^{-2} $$
 
-$$ D''(t) = -\frac{a\cdot D'(t)^{2}}{\gamma} $$
+$$ D''(t) = -\gamma \,a \left(\int a\,dt\right)^{-2} $$
 
-This creates a trivial differential equation to solve,
+$$ D''(t) = -\gamma \,a (at + C)^{-2} $$
 
-$$ \frac{D''(t)}{D'(t)^{2}} = -\frac{a}{\gamma} $$
+$C$ is simply the inital Picker time, which for ease of calculations can be the
+value of Picker time at *any choosen time*. So, the equation for the rate of
+change of the death rate is,
 
-$$ \int_0^{t} D''(t)D'(t)^{-2}\;dt = \int_0^{t} -\frac{a}{\gamma}\;dt $$
+$$ D''(t) = -\gamma \,\frac{a}{(at+A_0)^2} $$
 
-$$ -D'(t)^{-1} - \left(-D'(0)^{-1}\right) = -\frac{a}{\gamma}t -
-\left(-\frac{a}{\gamma}(0)\right) $$
+But if we assume $A'(t)$ is some function $f(t)$, then,
 
-$$ -D'(t)^{-1} + D'(0)^{-1} = -\frac{a}{\gamma}t $$
-
-$$ D'(t)^{-1} - D'(0)^{-1} = \frac{a}{\gamma}t $$
-
-$$ D'(t) = \left(\frac{a}{\gamma}t + D'(0)^{-1}\right)^{-1} $$
-
-And substituting,
-
-$$ D''(t) = -\frac{a}{\gamma} \left(\left(\frac{a}{\gamma}t +
-D'(0)^{-1}\right)^{-1}\right)^{2} $$
-
-$$ D''(t) = -\frac{a}{\gamma}\left(\frac{a}{\gamma}t + D'(0)^{-1}\right)^{-2} $$
-
-$$ D''(t) = -\frac{a}{\gamma}\left(\frac{a}{\gamma}t + D'(0)^{-1}\right)^{-2} $$
-
-Skipping the simplification,
-
-$$ D''(t) = \left(\frac{at}{\gamma} + \frac{2t}{D'(0)} +
-\frac{\gamma}{aD'(0)^2}\right)^{-1} $$
+$$ D''(t) = -\gamma \,\frac{f(t)}{(F(t)+A_0)^2} $$
 
 ### Numerical Calculations for Gamma
 
-(To the educated people reading this, suspend your disbelief for a minute so I
+(To the educated people reading this, suspend your disbelief for a minute, so I
 can have some fun.)
 
 For the story, to calculate $\gamma$, we will start by finding a $D'$ around the
-21st century, $t=0$, (prior to the close of the Ancient War). From this we can
-calculate $A$. Since all sentient beings, including aliens, become Pickers, the
-Drake equation must be used,
-
-$$ N = R_{*}\,f_p\,n_e\,f_l\,f_i\,f_c\,L $$
+21st century, $t=0$, (prior to the close of the Transcendentalists' War). From
+this we can calculate $A$. Since all sentient beings, including aliens, become
+Pickers, the population of the entire Universe must be calculated.
 
 Stealing results from
 [Wikipedia](https://en.wikipedia.org/wiki/Drake_equation#Range_of_results), we
@@ -246,12 +262,16 @@ civilizations have the technology to communicate into space, it must be assumed
 that they have similar populations to Earth (around 10 billion). Expanding our
 galaxy's estimate to all stars in the universe,
 [$10^{24}$](https://www.space.com/26078-how-many-stars-are-there.html); and by
-getting the ratio of stars (using the Milky Way as reference) with sentient life
-by dividing the number of civilizations from the total number of stars in our
-galaxy, [$10^{11}$](https://en.wikipedia.org/wiki/Milky_Way), there are,
+getting the ratio of stars (using the Milky Way, $mw$, as reference) with
+sentient life by dividing the number of civilizations from the total number of
+stars in our galaxy, [$10^{11}$](https://en.wikipedia.org/wiki/Milky_Way), there
+are,
 
-$$ 10^{10} \times 10^{24} \times \frac{1.560 \times
-10^7}{10^{11}}=1.560\times10^{30} $$
+$$ P = \bar P_{world} \cdot n_{stars} \cdot
+\left(\frac{n_{civs}}{n_{stars}}\right)_{mw} $$
+
+$$ 1.560\times10^{30} = 10^{10} \times 10^{24} \times \frac{1.560 \times
+10^7}{10^{11}} $$
 
 sentient beings in the universe.
 
@@ -268,61 +288,51 @@ $$ R = 4.044 \times 10^{-20} $$
 
 Or, in attoseconds, $R = 0.04044$. From this, we can set up the equation $A =
 \gamma R$ and solve for a reasonable $\gamma$ based of the narrative
-requirements of a reasonable Picker time. 10,000 years seems good, and so,
+requirements of a reasonable Picker time. 10,000 years is good, and so,
 converting to seconds,
 
-$$ 3.153 \times 10^{11}= \gamma\,4.044 \times 10^{-20}$$
+$$ 3.153 \times 10^{11} = \gamma\,4.044 \times 10^{-20}$$
 
 $$ \gamma = 7.798 \times 10^{30} $$
 
 I may later justify this $\gamma$ using some values for $n$ and $T$. But for
 now, $\gamma$ is simply *given* by the Pickers through their Oracles.
 
-### Numerical Calculations for the Ancient War
+### Numerical Calculations for Changers
 
-### Garbage
+To see the effect Changers have on the Picker time by adding, say, 10 billion
+extra deaths in *any given* second (caused by a Changer destroying the entire
+Earth instantaneously somehow), we can calculate a difference,
 
-From this we can calculate how changes to the death rate, $D'(t)$, affect $A$,
-namely to see the actual effects Super-Choosers have on Picker time. Using the
-combined equation, ignoring Harolds' Time, $A(t) = \gamma D'(t)^{-1}$,
+$$ A_1 - A_2 \approx \text{diff} $$
 
-$$ 2.525 \times 10^{11} = \frac{6.243 \times 10^{31}}{2.473 \times 10^{20}} $$
+where $A_1$ is what was calculated previously for the Picker time prior to the
+end of the Transcendentalists' War and $A_2$ is the *new* value for the Picker
+time based on the new death rate, which is just $D'_1$ plus the added deaths
+from a Changer killing billions, $D'_2$. Plugging in numbers,
 
-and by adding, say, 10 billion extra deaths in *any given* second (caused by a
-Giga-Chooser destroying the entire Earth instantaneously somehow), we can
-calculate a difference,
+$$ 3.153 \times 10^{11} - \left(7.798 \times 10^{30}\right)\left(\left(2.473
+\times 10^{19}\right) + 10^{10}\right)^{-1} \approx 127 \;\text{seconds}$$
 
-$$ 2.525 \times 10^{11} - \left(\frac{6.243 \times 10^{31}}{2.473 \times 10^{20}
-+ 10^{10}}\right) \approx 10 $$
-
-of 10 seconds!
+### Numerical Calculations for the Transcendentalists' War
 
 Now a reasonable decrease in the death rate (more specifically, the rate of
-change of this decrease) as the Great Purge came to a close can be calculated.
-Choosers emerged when the Oracles gave news of a drastic increase in the Picker
-time from the consistent 8000 years. Every year, the new Picker time was 100
-years greater. This means that the rate of change of $A$ is 100 seconds per
-second. So, to calculate $D''(t)$,
+change of this decrease) as the Transcendentalists' War came to a close can be
+calculated. Choosers emerged when the Oracles gave news of a drastic increase in
+the Picker time from the consistent 10,000 years. Every year, the new Picker
+time was 100 years greater. This means that the rate of change of $A$ is 100
+seconds per second. So, to calculate $D''(t)$,
 
-$$ A(t) = \gamma D'(t)^{-1} $$
+$$ D''(t) = -\gamma \,\frac{a}{(at+A_0)^2} $$
 
-$$ A'(t) = -\gamma D'(t)^{-2}\,D''(t) $$
+$$ D''(t) = \frac{-(7.798 \times 10^{30})100}{(100t+3.1536 \times 10^{11})^2} $$
 
-$$ D''(t) = -\frac{A'(t)\:D'(t)^{2}}{\gamma} $$
+At the very beginning of the end of the Transcendentalists' War, the change in
+the death was, then,
 
-And by plugging in numbers,
+$$ \frac{-(7.798 \times 10^{30})100}{(100(0)+3.1536 \times 10^{11})^2} = -7.841
+\;\text{billion}/s^{2} $$
 
-$$ -9.796 \times 10^{11} \approx -\frac{100(2.473 \times 10^{20})^2}{6.243
-\times 10^{31}} $$
-
-So, as the Great Purge comes to a close *linearly* (for narrative purposes), the
-death rate decreased by around 100 billion deaths (10 worlds) per second per
-second. The Milky Way has 15,600,000 inhabited worlds as mentioned before; at 10
-worlds per second, it would take around 18 days to purge the galaxy. Since there
-are 31,536,000 seconds in a year, the Great Purge went from purging 315,360,000
-worlds (20 galaxies, using the Milky Way as reference, which is far from the
-average but fine for reference) a second to 0 in a year. During the height of
-the Great Purge, which lasted millenia, 630,720,000,000 galaxies were purged
-yearly. Becuase of this, it will take 1000 years for the Great Purge to fully
-end (since the fight is "ongoing").
+So, as the Transcendentalists' War comes to a close, the death rate decreased by
+around 8 billion deaths (1 worlds) per second squared. Plotting this,
 

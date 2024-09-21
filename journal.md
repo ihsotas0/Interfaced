@@ -101,3 +101,16 @@ the separation between the two becomes apparent to the host. But when the pin
 concentration is high, the disjunction approaches zero and the chance and one
 host is a double-signal decreases.
 
+## 2024-09-21
+
+Hached signals' models are different from normal peoples' signal models: they
+operate at a different speed from the host. This is why, alongside the
+biomechanical reasons, return limits exist. If your signal is faster than your
+host, there is no hope for a successful reunification of host in signal. Hached
+people are practically severed signals.
+
+***
+
+Remember old idea about Aleks' sacrifice when he overclocks without cooling or
+Merc to save the day.
+

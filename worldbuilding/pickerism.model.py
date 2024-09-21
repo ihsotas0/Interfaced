@@ -3,45 +3,52 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Grabs death data
+# Calculations in pickerism.md
 
-data = []
+gamma = 7.798 * 10**30 # Picker time factor
+init_picker_time = 3.1536 * 10**11 # Absolute Picker time / death
+init_death_rate =  2.473 * 10**19 # Deaths / second
 
-with open('groups.pickerism.model.data.csv', newline='') as file:
-    reader = csv.reader(file)
-    for row in reader:
-        data.append([int(row[0]), int(row[1])])
+def d_picker_time(t): # Change in absolute Picker time / second
+    return 
 
-data = np.array(data)
-years = data[:,0]
-deaths_per_year = data[:,1]
-years_per_death = 1./deaths_per_year
 
-megadeaths_per_year = deaths_per_year/1000000
-total_megadeaths = np.cumsum(megadeaths_per_year)
+np.cumsum(d_picker_time(year_to_seconds*t))
 
-miliseconds_per_year = 365 * 24 * 60 * 60 * 1000
-miliseconds_per_death = miliseconds_per_year * years_per_death
+t = np.linspace(0,1000,1000) # Years
+year_to_seconds = 60*60*24*365
+billion = 1000000000
 
-# An example plot, ignoring all sentient deaths not from Earth, gamma_p, and the
-# Harolds' Time, showing the "calculus" behind Pickerism
+d_death_rate = -gamma*(d_picker_time/(
+    (xxx+init_picker_time)**2))
+
+init_death_rate_billions =  init_death_rate/billion
+d_death_rate_billions = d_death_rate/billion
+
+death_rate_billions = np.cumsum(d_death_rate_billions)+init_death_rate_billions
+
+picker_time_years = (d_picker_time*billion*sec_to_yr*t + init_picker_time)/billion*sec_to_yr
+
+# Plotting
 
 red = 'tab:red'
 blue = 'tab:blue'
 
-fig1, ax1 = plt.subplots()
-fig1.suptitle('Relative Picker Time vs Year (ignoring alien deaths)')
+fig, ax1 = plt.subplots()
+ax1.plot(t, d_death_rate_billions)
 
-ax1.set_xlabel('Year')
-ax1.set_ylabel('Total Megadeaths', color=red)
+fig.suptitle("End of the Transcendentalists' War")
+
+ax1.set_xlabel('Billions of Years')
+ax1.set_ylabel('Death Rate (billions/s)', color=red)
 ax1.tick_params(axis='y', labelcolor=red)
-ax1.plot(years, total_megadeaths, color=red)
+ax1.plot(t, death_rate_billions, color=red)
 
 ax2 = ax1.twinx()
 
-ax2.set_ylabel('Relative Picker time (ms)', color=blue)
+ax2.set_ylabel('Absolute Picker Time (years)', color=blue)
 ax2.tick_params(axis='y', labelcolor=blue)
-ax2.plot(years, miliseconds_per_death, color=blue)
+ax2.plot(t, picker_time_years, color=blue)
 
-fig1.tight_layout()
+fig.tight_layout()
 plt.show()
