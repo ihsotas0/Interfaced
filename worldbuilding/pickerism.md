@@ -153,22 +153,19 @@ themselves as such.
 | $d$    | Rate of deaths                |       |
 | $r$    | Rate of natural increase      |       |
 
-From here on, $t=0$ is exactly -5 Ma, the midpoint of the end of the
-Transcendentalists' War, between -20 Ma and 10 Ma.
-
 ### Preliminary Population Model
 
 Using a logistic equation to model the population of the Universe is the first
-step to calculating Picker times and other things. A logistic equation will be
-used where,
+step to calculating Picker times and other things. A logistic differential
+equation will be used where,
 
-$$ \frac{dN}{dt} = rN\left(1-\frac{N}{K}\right)$$
+$$ \frac{dP}{dt} = rP\left(1-\frac{P}{K}\right)$$
 
 $$ r = b - d $$
 
 The goal of the Transcendentalists' War was simply to increase the number of
 deaths per second, which was achieved by artificially increasing $b$ and $d$,
-or, more specifically, $bN$ and $dN$. The Transcendentalists took into account
+or, more specifically, $bP$ and $dP$. The Transcendentalists took into account
 $K$, the carrying capacity of the entire Universe, when doing this.
 
 So first $K$ must be calculated. Using results from
@@ -196,9 +193,33 @@ Transcendentalists' War)? On Earth, yearly,
 [$r\approx0.01$](https://ourworldindata.org/grapher/population-growth-rates) ---
 this will be used for the entire Universe. First, converting $r$ to seconds (the
 units that will be used in all equations),
-$r=0.01/60/60/24/365=3.171\times10^{10}$
+$r=0.01/60/60/24/365=3.171\times10^{-10}$.
 
-This gives everything necessary to do the rest of the calculations.
+From here on, $t=0$ is exactly -5000 Ma. The population, $P_0$, of the universe at
+this time is exactly 10 billion, or more specifically, the population of one
+civilized world.
+
+Leaving these values out for now, the logistic differential equation can be
+solved simply,
+
+$$ \frac{dP}{dt} = rP\left(1-\frac{P}{K}\right)$$
+
+$$ dP = rP\left(\frac{K-P}{K}\right)dt$$
+
+$$ \frac{dP}{P(K-P)} = \frac{r}{K}\;dt$$
+
+$$ \int\frac{dP}{P(K-P)} = \int\frac{r}{K}\;dt$$
+
+$$ \frac{1}{K}\int\left(\frac{1}{P}+\frac{1}{K-P}\right)dP = \int\frac{r}{K}\;dt$$
+
+$$ \frac{1}{K}\left(\ln{|P|}-\ln{|K-P|}\right) = \frac{r}{K}t + C$$
+
+$$ \ln{\left|\frac{P}{K-P}\right|} = rt + C_1 \qquad C_1=KC$$
+
+$$ \exp\left(\ln{\left|\frac{P}{K-P}\right|}\right) = \exp(rt + C_1) \qquad C_1=KC$$
+
+$$ \left|\frac{P}{K-P}\right| = C_2 e^{rt} \qquad C_2=e^{C_1}$$
+
 
 ### Relative Picker Time
 
