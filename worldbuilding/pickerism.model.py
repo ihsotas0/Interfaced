@@ -1,11 +1,52 @@
-import csv
 import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Preliminary population model
+# Constants
+year_to_seconds = 60*60*24*365
+billion = 1000000000
+million = 1000000
 
+## Preliminary population model ##
 
+# Unused because of exp() computational limit
+#def pop_model(P_init, K, r, t): # All inputs in seconds
+#    top = P_init*K*math.exp(r*t)
+#    bottom = (K-P_init) + P_init*math.exp(r*t)
+#    return top/bottom
+
+#v_pop_model = np.vectorize(pop_model, excluded=['P_init','K','r'])
+
+# Population vs Time (No War)
+r = 3.171 * 10**-10 # Rate of natural increase / sec
+r_ma = 0.25#r*million*year_to_seconds # ... / Ma
+
+pop_init = 10**10 # Initial population at t_init
+civ_pop_init = 5#pop_init/(billion*10) # ... num civilizations
+
+carry = 1.560*10**30 # Carrying capacity
+civ_carry = 100#carry/(billion*10) # ... num civilizations
+
+t_init = -5000 # Ma
+t_end = 100 # Ma
+
+t = np.arange(t_init,1,t_end)
+pop = np.array([civ_pop_init])
+
+for i in t:
+    diff = r_ma*pop[-1]*(1 - pop[-1]/civ_carry)
+    pop = np.append(pop,pop[-1]+diff)
+
+pop = pop[0:-1] # pop goes 1 over size(t)
+
+fig1, ax = plt.subplots()
+fig1.suptitle("Population Model (No War)")
+
+ax.plot(t,pop)
+ax.set_title("Population vs Time")
+ax.set_xlabel("Millions of Years")
+ax.set_ylabel("Number of Civilizations")
+plt.show()
 
 '''
 # Calculations in pickerism.md

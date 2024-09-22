@@ -195,31 +195,20 @@ this will be used for the entire Universe. First, converting $r$ to seconds (the
 units that will be used in all equations),
 $r=0.01/60/60/24/365=3.171\times10^{-10}$.
 
-From here on, $t=0$ is exactly -5000 Ma. The population, $P_0$, of the universe at
-this time is exactly 10 billion, or more specifically, the population of one
-civilized world.
+From here on, $t=0$ is exactly -5000 Ma. At $t=0$, the population, $P_0$, of the
+universe is *defined* as exactly 10 billion, or more specifically, the population
+of one civilized world. This is necessary for the equations, but really whatever
+value this is has no effect 5 billion years later on the population.
 
-Leaving these values out for now, the logistic differential equation can be
-solved simply,
+Leaving these values out for now, the solution to the logistic differential
+equation is,
 
-$$ \frac{dP}{dt} = rP\left(1-\frac{P}{K}\right)$$
+$$ P(t) = \frac{P_0 K e^{rt}}{(K-P_0)+P_0e^{rt}}$$
 
-$$ dP = rP\left(\frac{K-P}{K}\right)dt$$
+Using this equation and the values previously calculated, graphs of the Universe
+population model (ignoring the Trancedentalists' War for now) can be made,
 
-$$ \frac{dP}{P(K-P)} = \frac{r}{K}\;dt$$
-
-$$ \int\frac{dP}{P(K-P)} = \int\frac{r}{K}\;dt$$
-
-$$ \frac{1}{K}\int\left(\frac{1}{P}+\frac{1}{K-P}\right)dP = \int\frac{r}{K}\;dt$$
-
-$$ \frac{1}{K}\left(\ln{|P|}-\ln{|K-P|}\right) = \frac{r}{K}t + C$$
-
-$$ \ln{\left|\frac{P}{K-P}\right|} = rt + C_1 \qquad C_1=KC$$
-
-$$ \exp\left(\ln{\left|\frac{P}{K-P}\right|}\right) = \exp(rt + C_1) \qquad C_1=KC$$
-
-$$ \left|\frac{P}{K-P}\right| = C_2 e^{rt} \qquad C_2=e^{C_1}$$
-
+![Population Model (No War)](pickerism.model.pop-no-war.png)
 
 ### Relative Picker Time
 
