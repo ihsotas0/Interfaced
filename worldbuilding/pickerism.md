@@ -129,9 +129,9 @@ The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
 or for an individual or group with similar Survivor creation numbers to announce
 themselves as such.
 
-## Mathematics (Picker Calculus)
+## Mathematical Model (Picker Calculus)
 
-**Picker model**
+**Picker model:**
 
 | Symbol   | Label                        | Units |
 |----------|------------------------------|-------|
@@ -143,11 +143,11 @@ themselves as such.
 | $A$      | Absolute Picker time         | s     |
 | $R$      | Relative Picker time         | s     |
 
-**Population model**
+**Population model:**
 
 | Symbol | Label                         | Units |
 |--------|-------------------------------|-------|
-| $N$    | Population of Universe        |       |
+| $P$    | Population of Universe        |       |
 | $K$    | Carrying capacity of Universe |       |
 | $b$    | Rate of births                |       |
 | $d$    | Rate of deaths                |       |
@@ -155,25 +155,21 @@ themselves as such.
 
 ### Preliminary Population Model
 
-Using a logistic equation to model the population of the Universe is the first
-step to calculating Picker times and other things. A logistic differential
-equation will be used where,
+Modelling the population of the Universe is the first step to calculating Picker
+times and other things. The standard equation for population dynamics is this
+logistic differential equation,
 
-$$ \frac{dP}{dt} = rP\left(1-\frac{P}{K}\right)$$
+$$ \frac{dP}{dt} = rP\left(1-\frac{P}{K}\right) $$
 
 $$ r = b - d $$
 
-The goal of the Transcendentalists' War was simply to increase the number of
-deaths per second, which was achieved by artificially increasing $b$ and $d$,
-or, more specifically, $bP$ and $dP$. The Transcendentalists took into account
-$K$, the carrying capacity of the entire Universe, when doing this.
-
-So first $K$ must be calculated. Using results from
+First, $K$ must be calculated. Using results from
 [Wikipedia](https://en.wikipedia.org/wiki/Drake_equation#Range_of_results), a
 high estimate (meaning a "maximum" possible value, or carrying capacity) of our
 galaxy is 15,600,000 civilizations. Since these civilizations have the
 technology to communicate into space, it must be assumed that they have similar
-technology to Earth, where the carrying capacity is around 10 billion.
+technology to Earth, where the carrying capacity is around 10 billion
+($K_{civ}$).
 
 Expanding our galaxy's estimate to all stars in the Universe,
 [$10^{24}$](https://www.space.com/26078-how-many-stars-are-there.html); and
@@ -182,33 +178,74 @@ $mw$, as reference) by dividing the number of $mw$ civilizations from the total
 number of stars in our galaxy,
 [$10^{11}$](https://en.wikipedia.org/wiki/Milky_Way), $K$ can be calculated as,
 
-$$ K = \bar K_{world} \cdot n_{stars} \cdot
+$$ K = K_{civ} \cdot n_{stars} \cdot
 \left(\frac{n_{civs}}{n_{stars}}\right)_{mw} $$
 
-$$ 1.560\times10^{30} = 10^{10} \times 10^{24} \times \frac{1.560 \times
+$$ K = 1.560\times10^{30} = 10^{10} \times 10^{24} \times \frac{1.560 \times
 10^7}{10^{11}} $$
+
+From here on, $t=0$ is exactly -5000 Ma. At $t=0$, the population, $P_0$, of the
+universe is *defined* as exactly 10 billion, or more specifically, the
+population of one civilized world. This is necessary for the equations, but
+really whatever value this is has no effect 5 billion years later on the
+population.
+
+#### Rate of Natural Increase
 
 Next, what would the rate of natural increase be (without the
 Transcendentalists' War)? On Earth, yearly,
 [$r\approx0.01$](https://ourworldindata.org/grapher/population-growth-rates) ---
-this will be used for the entire Universe. First, converting $r$ to seconds (the
-units that will be used in all equations),
-$r=0.01/60/60/24/365=3.171\times10^{-10}$.
+this *can* be used for the entire Universe, but may not work properly.
+Converting $r$ to seconds (the units used in all equations),
+$r=0.01/60/60/24/365=3.171\times10^{-10}$. This will be referred to as $r_1$.
 
-From here on, $t=0$ is exactly -5000 Ma. At $t=0$, the population, $P_0$, of the
-universe is *defined* as exactly 10 billion, or more specifically, the population
-of one civilized world. This is necessary for the equations, but really whatever
-value this is has no effect 5 billion years later on the population.
+But this rate only applies to individual civilizations and doesn't apply to the
+universe, where the carrying capacity is different. Civilizations (units where
+$K=K_{civ}=10^{10}$) reach their sub-carrying capacities and stop filling up;
+they don't continue on into the universe at the same rate, since the energy
+requirements for that are much greater (and energy is used to multiply).
 
-Leaving these values out for now, the solution to the logistic differential
-equation is,
+If instead a value, $r_2$, is found for the rate of natural increase of
+civilizations in the universe, the equation will become more sensible. But this
+raises more questions, since civilizations arise independent of each other and
+not because of reproduction between each other. One possible equation is,
 
-$$ P(t) = \frac{P_0 K e^{rt}}{(K-P_0)+P_0e^{rt}}$$
+$$ \frac{dP_{civ}}{dt}=r_2\left(\frac{K}{K_{civ}}-\frac{P}{K_{civ}}\right) $$
 
-Using this equation and the values previously calculated, graphs of the Universe
-population model (ignoring the Trancedentalists' War for now) can be made,
+$$ \frac{dP_{civ}}{dt} = r_2 \left(\frac{K-P}{K_{civ}}\right) $$
+
+This seems to make sense. At any moment in time, the change in the number of
+civilizations is equal to the remaining possible planets were civilizations may
+emerge times the rate at which *any single planet* gains a civilization. At the
+time scales in question, the thousands of years it takes to develop civilization
+are ignored. Interstellar colonization is also ignored.
+
+A reasonable $r_2$ value must now be found. Our planet took millions of years to
+evolve humans (which "instantly" turned into a civilization). If, for the sake
+of argument, all planets ($K/K_{civ}$) --- ignoring the Transcendentalists ---
+*ought to* develop civilizations between -5000 Ma and 100 Ma, then the rate per
+Ma would be,
+
+$$ r_{2} = \frac{K/K_{civ}}{\Delta t} $$
+
+Plugging in numbers and converting to seconds,
+
+$$ c = \frac{10^9\;\text{yrs}}{1\;\text{Ma}} \cdot
+\frac{31536000\;\text{s}}{1\;\text{yrs}}$$
+
+$$ r_{2} = \frac{1.560\times10^{30}/10^{10}}{5100\;\text{Ma}\;\cdot c} $$
+
+$$ r_{2} = 0.969 $$
+
+Luckily, this value is comprehensible, unlike $r_1$. Each second, about 1
+civilization is born out of the remain
 
 ![Population Model (No War)](pickerism.model.pop-no-war.png)
+
+The goal of the Transcendentalists' War was simply to increase the number of
+deaths per second, which was achieved by artificially increasing $b$ and $d$,
+or, more specifically, $bP$ and $dP$. The Transcendentalists took into account
+$K$, the carrying capacity of the entire Universe, when doing this.
 
 ### Relative Picker Time
 

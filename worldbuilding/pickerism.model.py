@@ -9,43 +9,78 @@ million = 1000000
 
 ## Preliminary population model ##
 
-# Unused because of exp() computational limit
-#def pop_model(P_init, K, r, t): # All inputs in seconds
-#    top = P_init*K*math.exp(r*t)
-#    bottom = (K-P_init) + P_init*math.exp(r*t)
-#    return top/bottom
+def make_pop(r, pop_init, carry, t_init, t_end, iterator=1):
+    '''
+    Makes time/population data for a population model using logistic parameters.
+    '''
+    t = np.arange(t_init,t_end+1,iterator)
+    pop = np.array([pop_init])
+    d_pop = np.array([])
 
-#v_pop_model = np.vectorize(pop_model, excluded=['P_init','K','r'])
+    for i in t:
+        limiter = 1 - (pop[-1]/carry)
+        diff = pop[-1]*r*limiter
+        next_val = pop[-1]+diff
+        if next_val > carry: # Protects against going beyond carry
+            # This fills the rest before stopping for loop
+            fill = np.ones(np.size(t) - np.size(pop) + 1)*carry
+            pop = np.append(pop,fill)
+            d_fill = np.zeros(np.size(t) - np.size(pop) + 1)
+            d_pop = np.append(pop,d_fill)
+            d_pop = d_pop[0:-1] # Hack, I have no idea why this works
+            break
+        pop = np.append(pop,pop[-1]+diff)
+        d_pop = np.append(d_pop,diff)
+
+    pop = pop[0:-1] # pop goes 1 over size(t)
+    
+    return t, pop, d_pop
 
 # Population vs Time (No War)
-r = 3.171 * 10**-10 # Rate of natural increase / sec
-r_ma = 0.25#r*million*year_to_seconds # ... / Ma
 
 pop_init = 10**10 # Initial population at t_init
-civ_pop_init = 5#pop_init/(billion*10) # ... num civilizations
-
-carry = 1.560*10**30 # Carrying capacity
-civ_carry = 100#carry/(billion*10) # ... num civilizations
+carry = 1.560 * (10**30) # Carrying capacity
 
 t_init = -5000 # Ma
 t_end = 100 # Ma
 
-t = np.arange(t_init,1,t_end)
-pop = np.array([civ_pop_init])
+# For individual-based model
+r_1 = 3.171 * (10**-10) # Rate of natural increase / sec
+r_ma_1 = r_1*million*year_to_seconds # ... / Ma
 
-for i in t:
-    diff = r_ma*pop[-1]*(1 - pop[-1]/civ_carry)
-    pop = np.append(pop,pop[-1]+diff)
+# For civilizational unit-based model
+r_ma_2 = 0.02 # ... / Ma
+civ_pop_init = pop_init/(billion*10) # ... num civilizations
+civ_carry = carry/(billion*10) # ... num civilizations
 
-pop = pop[0:-1] # pop goes 1 over size(t)
+t, pop1, d_pop1 = make_pop(r_ma_1, pop_init, carry, t_init, t_end)
+t, pop2, d_pop2 = make_pop(r_ma_2, civ_pop_init, civ_carry, t_init, t_end)
 
-fig1, ax = plt.subplots()
+fig1, ((ax1, ax2),(ax3, ax4)) = plt.subplots(2, 2)
 fig1.suptitle("Population Model (No War)")
 
-ax.plot(t,pop)
-ax.set_title("Population vs Time")
-ax.set_xlabel("Millions of Years")
-ax.set_ylabel("Number of Civilizations")
+ax1.plot(t,pop1)
+ax1.set_title("Pop vs T (r1)")
+ax1.set_xlabel("Millions of Years")
+ax1.set_ylabel("Population")
+
+ax3.plot(t,d_pop1)
+ax3.set_title("Derivative (r1)")
+ax3.set_xlabel("Millions of Years")
+ax3.set_ylabel("Population / Ma")
+
+ax2.plot(t,pop2)
+ax2.set_title("Civ vs T (r2)")
+ax2.set_xlabel("Millions of Years")
+ax2.set_ylabel("Civilizations")
+
+ax4.plot(t,d_pop2)
+ax4.set_title("Derivative (r2)")
+ax4.set_xlabel("Millions of Years")
+ax4.set_ylabel("Civilizations / Ma")
+
+plt.tight_layout()
+fig1.savefig('pickerism.model.pop-no-war.png')
 plt.show()
 
 '''
