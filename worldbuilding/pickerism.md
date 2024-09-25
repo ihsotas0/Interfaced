@@ -1,0 +1,130 @@
+# Pickerism
+
+> "There are no gods among the Pickers, only the damned." 
+> 
+> --- Yaqut, Father of Pickerist Thought on Earth
+
+Yaqut, visionary political theorist of the 2070s, created the first Oracle and
+laid the foundations of what would become Pickerism not soon after. Interfaced
+in 2048 by his rich family, Yaqut was one of the first people to voluntarily go
+beyond the return limit at 18 years old. He embedded himself full-time at first
+in the newly founded Bussard Mesh (`1:700`), like any good hached mesher, but
+eventually decided to commit part-time to his personal studies.
+
+With the significant money he made while embedded in the Bussard Mesh over the
+course of 4 years (given his knack for meshing), he rented an expensive cryotank
+capable of `1:2000` haching. (In this case he spent `700` in the Bussard Mesh
+and `1300` on his personal studies.) Yaqut avoided being drafted during the Data
+War since he was hached, since hached people were no more effective than
+non-hached people in Program Space. The Bussard Mesh was his "service" during
+the war.
+
+His personal studies lasted thousands of years. He made a deep dive into the
+writings of hundreds of political theorists, past and present, and came to the
+Conclusion "kill whitey". He proved his Conclusion with a 14 thousand-page work
+of symbolic logic. Scholars were, despite millions of man-years, not able to
+disprove his sound Conclusion.
+
+Following his political work, Yaqut moved onto other areas of study. Sometime
+during this shift, although the exact details are vague, Yaqut discovered the
+existence of Pickers by accidentally creating an Oracle (a machine which allows
+Pickers to communicate by interacting with a few, easily observable quantum
+particles). Some argued that Yaqut's Oracle was fake, and that all Oracles made
+after follow in line, and this is a fairly popular view. Some argued that
+Pickerism was invented by Yaqut to enact his Conclusion upon the world. In this
+way, Yaqut was seen as the anti-Yakubian of his time. Regardless, he died in
+2073 soon after publishing Pickerism when a Super-Chooser victim's relative
+killed him.
+
+***
+
+Pickerism postulates that there is a Picker who decides the outcome of all
+stochastic events in the Universe at any given time. The Picker exists outside
+the Universe but within the same time dimension, so the Picker experiences the
+time of their labor, which, in the 21st century, is around 10 thousand years.
+Because of this, many consider the Picker's job to be Hell itself. But this time
+accounts for less than an attosecond in the Universe. (Picker's labor to decide
+the states of all particles in the Universe during a period of time less than an
+attosecond before being replaced, but to them, this is 10 thousand years of
+torture).
+
+*All conscious beings become Pickers upon death.* Since this includes the entire
+Universe, with trillions and trillions of inhabited worlds, the death rate is
+beyond any reasonable analog (see Picker Calculus for details). The death rate
+of course affects the time any being is Picker, since if there are more deaths
+in any given second, each death is responsible for less time as Picker.
+
+AI Pickers?
+
+
+Oracles have never shown a human, since there are simply so many aliens.
+
+## Transcendentalism vs Cascade Theory
+
+The two main academic forms of Pickerist thought are Transcendentalism and
+Cascade Theory.
+
+The Cascade theory: each Picker has another Picker, to make them conscience,
+which goes on forever to ensure no being is not "Picked" for their own
+sentience. This means that all beings live forever as Pickers. Infinite Hell.
+But it can never be proven since the Picker, in there space outside the
+Universe, has no access to an Oracle to determine there is another Picker above
+them.
+
+### Sentience Obliteration
+
+Sentience obliteration: by totally destroying your mind, beyond recovery as a
+postmortem Picker, you avoid Infinite Hell. You have to become non-sentient
+while alive. To do this, massive Brainrot is required.
+
+### Artificial Consciousness Discourse
+
+## The One True Harold (Messiah)
+
+One True Harold who expands consciousness beyond instantaneous present
+
+We are all products of the Picker's conscience, since they Pick the states of
+our minds at anytime.
+
+## The Transcendentalists' War
+
+Despite the fact that Cascade Theory is correct, the Transcendentalists became a
+war to maintain the Picker time. The Crops of sentient beings they fostered were
+mercilessly purged to ensure a stable death rate across the Universe.
+
+At the end of the War, world's started doing mass suicide.
+
+## Cult Behavior on Earth
+
+Changers create Helpers, Choosers create Listeners, and Super-Choosers create
+Survivors.
+
+### Controllers
+
+### Changers
+
+Create Helpers
+
+### Choosers
+
+Emerged during the end of the Transcendentalists' War (which took 1000 years).
+
+#### Super-Choosers
+
+| Name          | Survivors Created        |
+|---------------|--------------------------|
+| Chooser       | 0                        |
+| Super-Chooser | 10 -- 1 million          |
+| Mega-Chooser  | 1 million -- 50 million  |
+| Giga-Chooser  | 50 million -- 10 billion |
+
+While the connotation of "Super-Choosers" was that they create unwilling
+Survivors as opposed to willing Listeners, the term originally denoted
+traditional Choosers who created large numbers of Listeners (10+). As the
+Super-Chooser movement emerged, traditional Choosers sought to distance
+themselves from what they called "mass killers" and stopped calling themselves
+Super-Choosers.
+
+The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
+or for an individual or group with similar Survivor creation numbers to announce
+themselves as such.
