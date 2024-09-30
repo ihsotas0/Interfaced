@@ -42,22 +42,32 @@ assassinated him.
 
 Pickerism postulates that there is a Picker who decides the outcome of all
 stochastic events in the Universe at any given time. The Picker exists outside
-the Universe but within the same time dimension, so the Picker experiences the
-time of their labor, which, in the 21st century, is around 10 thousand years.
-Because of this, many consider the Picker's job to be Hell itself. But this time
-accounts for less than an attosecond in the Universe. (Picker's labor to decide
-the states of all particles in the Universe during a period of time less than an
-attosecond before being replaced, but to them, this is 10 thousand years of
-torture).
+the Universe but still experiences the time of their labor, which, in the 21st
+century, is around one thousand years. Because of this, many consider the
+Picker's job to be Hell itself.
+
+But this time accounts for less than an attosecond in the Universe. (Picker's
+labor to decide the states of all particles in the Universe during a period of
+time less than an attosecond before being replaced, but to them, this is one
+thousand years of torture). The Picker time is so small that, in the time it
+takes a photon to cross a hydrogen atom, over a hundred Pickers control the
+Universe.
 
 *All conscious beings become Pickers upon death.* Since this includes the entire
 Universe, with trillions and trillions of inhabited worlds, the death rate is
 beyond any reasonable analog (see Picker Calculus for details). The death rate
-of course affects the time any being is Picker, since if there are more deaths
-in any given second, each death is responsible for less time as Picker.
+is what determines the Picker time. The minimum time Pickers must exist for is
+exactly the time between deaths, since the next person to die becomes Picker.
+Thus. a high death rate leads to a low Picker time and a low death rate to a
+high one.
 
-AI Pickers?
+Some Pickers, however, go beyond the minimum Picker time for the sake of others
+(or to control the Universe substantially).
 
+Whether AI/AC beings become Pickers is a debate equal to whether or not they are
+sentient. Many people confirm there position on AI based on the communications
+from Oracles. (The Oracles say that there are AI Pickers, but there is no way to
+prove this.)
 
 Oracles have never shown a human, since there are simply so many aliens.
 

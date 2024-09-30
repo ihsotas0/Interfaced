@@ -15,5 +15,3 @@ clock-speed. For every unit time, there brain's capacity, much like
 double-signals, is split between the mesh and some other activity. This is a
 very difficult thing to do, and must Meshers instead clock to match existing
 meshes, do work, and then leave and change clock-speed for other things.
-
-
