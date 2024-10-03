@@ -12,11 +12,12 @@ was created by a massive, multi-petabyte model. The payload was complete within
 seconds, since all the components were already compiled.
 
 Then, a few hundred thousand dust-sized nanocomputers --- which had embedded
-operating systems to run the payload --- were flashed with the payload,
-disconnected from their tiny wires, and tossed on a tray. Dylan set up an old 3D
-printer to move the nano computers from the tray, with a magnet, to a silicon
-coating liquid, into the rice grains (after being held for a second to dry),
-along a makeshift conveyer, and into a paper bag. Thus concluded months of work.
+operating systems to run the payload --- were flashed with the payload. Like
+pollen from a tree, he brushed the computers from their mounts on the
+branch-like wires. Dylan set up an old 3D printer to move the nano computers
+from the tray, with a magnet, to a silicon coating liquid, into the rice grains
+(after being held for a second to dry), along a makeshift conveyer, and into a
+paper bag. Thus concluded months of work.
 
 Finally, Dylan anonymously shipped the rice along with other food under the
 guise of a "care package" to his accomplice, Rashid al-Haddad, in Kernel. The
@@ -40,8 +41,8 @@ even if the "rice" has discovered, he would be unidentifiable.
 
 The truck took the nanocomputers to the Kernel Biotech factory in the middle of
 nowhere. The journey took a few hours, but the truck only carried dry goods.
-More workers unloaded the truck into a unsecure area. From there, the goods were
-put through intensive security. Samples of food were tested, but rice was
+More workers unloaded the truck into an unsecure area. From there, the goods
+were put through intensive security. Samples of food were tested, but rice was
 excluded from the non-chemical tests due to its small size. The rice finally
 arrived at the secure kitchen and was prepared for the factory's workers. The
 nanocomputers managed to charge their batteries from the heat change of the rice

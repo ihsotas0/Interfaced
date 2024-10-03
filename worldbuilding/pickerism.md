@@ -83,6 +83,9 @@ But it can never be proven since the Picker, in there space outside the
 Universe, has no access to an Oracle to determine there is another Picker above
 them.
 
+Cascade Theorists act just like Transcendentalists, trying to get people to do
+lobotomycore as soon as possible to avoid the chance of dying while sentient.
+
 ### Sentience Obliteration
 
 Sentience obliteration: by totally destroying your mind, beyond recovery as a
@@ -99,6 +102,9 @@ We are all products of the Picker's conscience, since they Pick the states of
 our minds at anytime.
 
 ## The Transcendentalists' War
+
+Only evidence is the decrease in death rate and extrapolation of infinitesimal
+variations in the data.
 
 Despite the fact that Cascade Theory is correct, the Transcendentalists became a
 war to maintain the Picker time. The Crops of sentient beings they fostered were
@@ -140,3 +146,12 @@ Super-Choosers.
 The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
 or for an individual or group with similar Survivor creation numbers to announce
 themselves as such.
+
+## Picker's Calculus
+
+<!-- This is only for the Hugo version of Interface -->
+
+Here is an embedded PDF of the Picker's Calculus:
+
+{{< pdfReader "pickerism.model.pdf" >}}
+

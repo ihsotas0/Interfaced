@@ -6,13 +6,12 @@
 (B) 2024-09-16 Make all text American English with a standard style del:anyone
 (B) 2024-10-02 Spell and grammar check all prose del:anyone
 2024-08-13 What is "Kernel"?
-2024-08-21 Make "Traveler" spelling consistent
+2024-08-21 Make "Traveler" spelling consistent del:anyone
 2024-08-27 Publish to personal website
 2024-09-04 What is the "Enshitification"? (make fun of lib answers to crumbling internet)
 2024-09-04 What is the "Outside"?
 2024-09-05 What is the ideological relationship between the Interface and (anti-)genderism
 2024-09-11 Copy Apollo and latency ideas from SMS
-2024-09-11 Fix licensing (for website as well)
 2024-09-11 What are the "Gender Wars"?
 2024-09-11 What is the "GDAT test"?
 x (B) 2024-09-27 2024-09-15 Complete Pickerism mathematics

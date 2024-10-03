@@ -56,7 +56,7 @@ reference frame (i.e. home planet). All sentient beings become Pickers upon
 death; it is what Pickerists believe the afterlife is. The time selected for
 each Picker is based on the order of death --- that is, who died last. The
 Picker then acts as "god", controlling the outcome of all random quantum events.
-They "sit in a room" with an "interface" custom made for their species and
+They "sit in a room" with an "interface" custom-made for their species and
 culture to do this. Ever quantum event is then presented in order. Once all the
 events for a "Universal Step" (which varies based on relativity) are complete,
 they are executed. The number of Steps each Picker completes is only known to
@@ -113,4 +113,13 @@ people are practically severed signals.
 
 Remember old idea about Aleks' sacrifice when he overclocks without cooling or
 Merc to save the day.
+
+## 2024-10-01
+
+Pickerism is introduced when a Changer intends to exploit a vulnerability in the
+Cipher to kill millions and "save his soul." Or a Chooser hands a "KILL
+YOURSELF! NOW!" pamphlet to a main character in a fun scene. Or both, or
+something else.
+
+
 
