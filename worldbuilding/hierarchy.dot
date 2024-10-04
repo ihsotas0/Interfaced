@@ -1,0 +1,82 @@
+graph {
+    ai
+    characters
+    groups
+    history
+    hyper_churches
+    interface -- combat
+    interface -- databank
+    interface -- encryption
+    interface -- hibernation
+    host_termination -- frying
+    host_termination -- lobotomycore
+    interface -- host_termination
+    host_termination -- signal_severance
+    host_termination -- the_slice
+    interface -- implants
+    interface -- installation_procedure
+    interface -- joining
+    interface -- learning
+    interface -- machine_control
+    interface
+    interface -- medicine
+    interface -- modem_jacking
+    interface -- neural_modem
+    interface -- synth_intuition
+    interface -- wireless_jack
+    interface -- wrist_jack
+    internet -- gospel_of_the_whores
+    internet -- matrix_compatibility
+    internet
+    locations
+    adam_task -- fee
+    hosts_and_signals -- doowee
+    hosts_and_signals -- double_and_mono_signals
+    adam_task -- hosts_and_signals
+    hosts_and_signals -- patches
+    hosts_and_signals -- severed_signal
+    matrix -- adam_task
+    adam_task -- netspace
+    program_space -- combat
+    program_space -- datastream_datafreight_dataforts
+    adam_task -- program_space
+    program_space -- quick_crypt
+    program_space -- the_border
+    adam_task -- the_discriminator
+    userland -- crypt_room
+    userland -- estates
+    adam_task -- userland
+    matrix -- age
+    matrix -- avatars
+    matrix -- free_hub
+    matrix -- gardia
+    matrix -- grandigi_hotel_and_casino
+    matrix -- her_den
+    matrix -- local_space
+    matrix
+    matrix -- meshing
+    meshing -- the_mesh
+    matrix -- neurons
+    overclocking -- cryobeds
+    overclocking -- cryotanks
+    overclocking -- hyper_overclocking
+    hyper_overclocking -- embeds_and_embeddation
+    hmeshing -- bussard_mesh
+    hyper_overclocking -- hmeshing
+    hyper_overclocking -- return_limit
+    matrix -- overclocking
+    overclocking -- merc
+    matrix -- overlay_net
+    programs -- drm
+    matrix -- programs
+    the_cipher -- avatars
+    the_cipher -- cipherists
+    matrix -- the_cipher
+    the_cipher -- plaintexters
+    the_cipher -- termination_rate
+    matrix -- voice_encryption
+    microweable
+    pickerism
+    pickerism -- model
+    sex_work
+}
