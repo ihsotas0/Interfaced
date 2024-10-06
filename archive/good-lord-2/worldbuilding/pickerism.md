@@ -146,12 +146,3 @@ Super-Choosers.
 The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
 or for an individual or group with similar Survivor creation numbers to announce
 themselves as such.
-
-## Picker's Calculus
-
-<!-- This is only for the Hugo version of Interface -->
-
-Here is an embedded PDF of the Picker's Calculus:
-
-{{< pdfReader "pickerism.model.pdf" >}}
-
