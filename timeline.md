@@ -10,8 +10,8 @@
 | 2024       |           | Interface begins development            |                          |
 | 2040       | May       | Jordan Hayes Interfaced                 | The first Interface      |
 | 2042       | July      | Yaqut Interfaced                        |                          |
-| 2043       |           | WWIII starts                            |                          |
-| 2046       |           | WWIII ends                              |                          |
+| 2043       |           | Gender Wars starts                            |                          |
+| 2046       |           | Gender Wars ends                              |                          |
 | 2046       |           | Elliot Interfaced                       |                          |
 | 2060       |           | Adam Task published                     |                          |
 | 2060       |           | Yaqut passes return limit               |                          |
