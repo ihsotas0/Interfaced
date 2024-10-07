@@ -1,4 +1,7 @@
-# Timeline
+---
+title: "Timeline"
+author: "Jonah Spector"
+---
 
 | Year       | Date      | Title                                   | Description              |
 |------------|-----------|-----------------------------------------|--------------------------|
