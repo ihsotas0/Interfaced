@@ -21,6 +21,3 @@ intelligence. Here is a snippet:
 > rapidly stops normal brain function causing seizures, comas, and even death.
 
 Feel free to help me write on GitHub: <https://github.com/ihsotas0/Interface>
-
-    
-

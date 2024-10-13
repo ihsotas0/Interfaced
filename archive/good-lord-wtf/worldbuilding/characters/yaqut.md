@@ -2,7 +2,7 @@
 
 Yaqut, visionary political theorist of the 2070s, created the first Oracle and
 laid the foundations of what would become Pickerism not soon after. Interfaced
-in 2048 by his rich family, Yaqut was one of the first people to voluntarily go
+in 2042 by his rich family, Yaqut was one of the first people to voluntarily go
 beyond the return limit at 18 years old. He embedded himself full-time at first
 in the newly founded Bussard Mesh (1:700), like any good hached mesher, but
 eventually decided to commit part-time to his personal studies by time-sharing,

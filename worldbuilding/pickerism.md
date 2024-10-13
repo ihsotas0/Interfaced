@@ -1,8 +1,246 @@
-```python
-from math import *
-import matplotlib.pyplot as plt
-import numpy as np
-```
+---
+title: "Pickerism"
+author: "Jonah Spector"
+date: 2024-10-10
+---
+
+# Pickerism
+
+> "There are no gods among the Pickers, only the damned." 
+> 
+> --- Yaqut, Father of Pickerism on Earth
+
+Yaqut, visionary political theorist of the 2070s, created the first Oracle and
+laid the foundations of what would become Pickerism not soon after. Interfaced
+in 2042 by his rich family, Yaqut was one of the first people to voluntarily go
+beyond the return limit at 18 years old. He embedded himself full-time at first
+in the newly founded Bussard Mesh (1:700), like any good hached mesher, but
+eventually decided to commit part-time to his personal studies by time-sharing,
+which he was uniquely capable of.
+
+With the significant money he made while embedded in the Bussard Mesh over the
+course of 10 years (given his knack for meshing), he rented an expensive
+cryotank capable of 1:2000 haching. (In this case he spent 700 in the Bussard
+Mesh and 1300 on his personal studies.) Yaqut avoided being drafted during the
+Data War since he was hached, since hached people were no more effective than
+non-hached people in Program Space. The Bussard Mesh, owned by the American
+government (although used productively for peaceful purposes), was his "service"
+during the war.
+
+His personal studies lasted thousands of years. He made a deep dive into the
+writings of hundreds of political theorists, past and present, and came to the
+Conclusion "kill whitey". He proved his Conclusion with a 14 thousand-page work
+of pure logic. Scholars were, despite millions of man-years, not able to
+disprove his sound Conclusion.
+
+Following his political work, Yaqut moved onto other areas of study. Sometime
+during this shift, although the exact details are vague, Yaqut discovered the
+existence of Pickers by accidentally creating an Oracle (a machine which allows
+Pickers to communicate by interacting with a few, easily observable quantum
+particles). Some argued that Yaqut's Oracle was fake, and that all Oracles made
+after follow in line, and this is a fairly popular view. Some argued that
+Pickerism was invented by Yaqut to enact his Conclusion upon the world. In this
+way, Yaqut was seen as the anti-Yakubian of his time. Regardless, he died in
+2073 soon after publishing Pickerism when a Super-Chooser victim's relative
+assassinated him.
+
+## Introduction
+
+Pickerism is the belief that there is a Picker who decides the outcome of all
+stochastic events in the Universe at any given time. This includes the state of
+particles when observed, quantum events, etc. It is also important to note that
+*all sentient beings become Pickers upon death.* The Picker exists outside the
+Universe but still experiences the time of their labor, but luckily there time
+as Picker of the Universe is finite, since soon another will die to replace
+them. Since all deaths are included, with trillions and trillions of inhabited
+worlds, the death rate is beyond any reasonable analog (see Picker Calculus for
+details). The death rate is what determines the Picker time---more simply, the
+time in between deaths. Because of this, there is a minimum time Pickers must
+exist, since until the next person to dies, there must be a Picker. Thus, a high
+death rate leads to a low Picker time and a low death rate to a high one.
+
+The Picker sits in a "room" and operates a "human-interface" as Yaqut described
+originally. This room is plain and unlit beyond the glow of a single screen. For
+human Pickers, the screen is connected to a keyboard and mouse, with a human
+like operating system for the Picker to interact with the universe by; but this
+only applies to humans, since aliens use other information systems. These aliens
+may even have to use pen and paper, stone tablets and such, if there culture
+hasn't advanced to faster information systems. But the majority, as given by the
+Oracles, use computer-like systems to do the labor of the Picker.
+
+Oracles are quantum computers that allow the Picker to communicate with
+humanity. They contain a large array of quantum particles observed and cloaked
+billions of times per second, producing gigabytes of binary information. Even
+with the sheer amount of data produced, a human Picker has never been proven to
+exist. Since humans make up such a small portion of the sentient beings in the
+Universe and the Oracles have a refresh around every nanosecond, no Oracle has
+shown a human Picker. A combination of overclocked meshes and AI extracts
+information from the Oracles' raw binary data.
+
+In the 21st century, each Picker controls the Universe for less than an
+attosecond. The Picker time is so small that, in the time it takes a photon to
+cross a hydrogen atom, over a hundred Pickers control the Universe. But
+gamma---the time conversion factor---dictates that this time is, for them, one
+thousand years of torture. This is the origin of the tongue-and-check
+description of the Picker's labor as Hell. Gamma is a measure of how many
+operations need to be done per unit time to "Step" the Universe forward, and how
+long each of these takes.
+
+Some Pickers, however, go beyond the minimum Picker time for the sake of others
+(or to control the Universe substantially, which alone is neigh impossible).
+These Pickers are called the Harolds. Since the minimum time is already one
+thousand years, Harolds are practically non-existent. This doesn't stop some
+from believing them to be the Reducers of the Picker Time. One last note:
+whether AI/AC beings become Pickers is a debate equal to whether or not they are
+sentient. Many people confirm there position on AI based on the communications
+from Oracles. (The Oracles say that there are alien AI Pickers, but there is no
+way to prove this, and regardless none have been human AIs.)
+
+## Transcendentalism vs Cascade Theory
+
+The two main academic forms of Pickerist thought are Transcendentalism and
+Cascade Theory. Both attempt to answer the fundamental contradiction of
+Pickerism: the negation of free-will. Since the Picker operates the minds of all
+beings, no-one has free will. But the contradiction arises when thinking about
+the Picker themselves. Are they free? The Cascade Theorists say no, and the
+Transcendentalists say yes. Regardless, free-will does not determine who from
+the Universe becomes the Picker---only the *capacity* for thought, or some other
+non-freewill defined sentience, does.
+
+The Cascade Theorists believe each Picker has another Picker. This arises from
+the definition of the Picker as the afterlife for all sentient beings. They say
+that, since by definition Pickerism negates any concept of freewill, the only
+solution to the paradox of how the Picker operates themselves is for there to be
+another Picker controlling them. If this Cascade of Pickers controlling the
+minds of each other goes to infinite, the paradox can be "ignored" (as they
+say). This infinite cascade "ensures" no being is *not* "Picked" for their own
+sentience. This means that all beings live forever as Pickers, since after
+Picking the Universe, you Pick the next Picker, and so on forever up. Infinite
+Hell. But it can never be proven since the Picker, in there space outside the
+Universe, has no access to an Oracle to determine there is another Picker above
+them.
+
+The Transcendentalists' simply believe the Picker transcends the need for
+another Picker. This does not imply any special admiration for the Picker, but
+it simply implies that the Picker time is finite, although still terrible. Their
+explanation is simple: if there wasn't a Picker, reality would still continue,
+since by definition, *the Universe existed before sentience*, and still
+continued. (Sentience is therefore not reliant on the Picker.) Beyond this they
+often try to use the lack of proof of higher Pickers, but they can't bypass the
+fact that there are no Oracles in Picker space to prove their belief that there
+aren't any higher Pickers.
+
+On Earth, there is little difference between their aims, but regardless, they
+are complete opposites in terms of their analysis of Pickerism. On Earth, both
+kill the innocent, and in the Universe, genocides are carried out by both,
+although the Transcendentalists' War is the primary example. Cascade Theorists
+act just like Transcendentalists, trying to get people to do obliterate their
+sentience as soon as possible to avoid the chance of dying while sentient.
+(Transcendentalists kill because the Picker time is progressively going up,
+given the decline of the Transcendentalists' War.)
+
+## Sentience Obliteration
+
+Cascade Theorists do have one solution to avoiding Infinite Hell: sentience
+obliteration. By totally destroying your mind, when you die, you won't be
+sentient, and therefore won't transform into a Picker. To become non-sentient
+while alive, massive Brainrot is required. Lobotomycore is a popular option to
+do this, and it is commonly available to Interfaced people. Un-Interfaced
+sentience obliteration is another task altogether, as no one has found a
+solution.
+
+Cascade Theorists on Earth are much less prone to cultish behavior than the
+Transcendentalists, but they will still sometimes attempt to obliterate the
+sentience of unwilling victims. Sentience obliteration is a lot harder than
+simply killing another person, which is the most likely explanation for this
+fact of life.
+
+## The One True Harold (Messiah)
+
+At any instant in time, there is exactly one Picker who Picks the minds of all.
+At any instant in time, you are also conscious. Thus, one explanation for the
+phenomena of instantaneous consciousness is that the Pickers who arise
+consciousness in people change almost instantaneously. Messiah belief among
+Pickerists is rare, due mainly to it no making any sense at all, but many
+believe that the One True Harold will come. This One True Harold will become
+Picker for the rest of eternity, sacrificing themselves upon the Alter of Gamma,
+to expand the consciousness of all beyond the instantaneous present.
+
+## The Transcendentalists' War
+
+Tens of millions of galaxies purged yearly, Crops of sentient beings fostered
+and mercilessly eradicated for one purpose: a stable, high death rate, and a
+resultant stable, small Picker time. The only evidence for the existence of this
+war is the increase in the Picker time, taken from the Oracles, and
+extrapolation of infinitesimal variations in the data. The Pickers communicating
+via Oracle state the time they've been Picker, and using statics, it can be
+extrapolated the increase in Picker time.
+
+More detail is provided here in the mathematics section.
+
+## Cultish Behavior on Earth
+
+Controllers create Comrades, Choosers create Listeners, Super-Choosers create
+Survivors, and Changers create Helpers.
+
+### Controllers
+
+Controllers believe that, be working with thousands of other sequential Pickers,
+they can enact non-random change on the world. Normally, the limited time each
+person is Picker and the absolute difference between alien's cares for what
+happens to the world causes the Picker's actions to appear random. But if a
+massive enough sequence of Pickers arises where each has the same goal, that
+second of Picking can actually do something. One Earth, this takes the form of
+massive group suicides. Thousands will band together with some goal like, "Kill
+this one dictator," and proceed to kill themselves en masse.
+
+In reality, the death rate (hundreds each attosecond) is so high that there is
+no feasible way to time the deaths and get a sequential Picker arrangement. But
+this fact doesn't stop the cultish behavior of the Controllers. Controllers
+create Comrades when they do mass suicides.
+
+### Choosers
+
+Choosers will choose you to be one of their Listeners. Since the Picker time is
+increasing, due to the decline of the Transcendentalists' War, killing yourself
+now will reduce your sentence as Picker. This is their logic, and so they will
+go around telling people, "Kill yourself! Now!" They are the most popular of the
+cultish elements within Pickerism, and are even more so since they disregard
+Cascade Theory altogether for no real reason.
+
+#### Super-Choosers
+
+Unlike Choosers, Super-Choosers create unwilling Listeners, or Survivors. They
+do this by taking away the choice to become a Listener and simply killing people
+at random. They are the school-shooters, Super-Choosers, or Pickerism.
+
+| Name          | Survivors Created        |
+|---------------|--------------------------|
+| Chooser       | 0                        |
+| Super-Chooser | 10 -- 1 million          |
+| Mega-Chooser  | 1 million -- 50 million  |
+| Giga-Chooser  | 50 million -- 10 billion |
+
+While the connotation of "Super-Choosers" was that they create unwilling
+Survivors as opposed to willing Listeners, the term originally denoted
+traditional Choosers who created large numbers of Listeners (10+). As the
+Super-Chooser movement emerged, traditional Choosers sought to distance
+themselves from what they called "mass killers" and stopped calling themselves
+Super-Choosers.
+
+The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
+or for an individual or group with similar Survivor creation numbers to announce
+themselves as such.
+
+### Changers
+
+Changers, on the other hand, only seek to avoid the torture of ever longer
+Picker times by *physically decreasing it*. They achieve this by killing many
+people, voluntarily or otherwise. They are exactly the same as Choosers and
+Super-Choosers, although much more rare and deranged, as is shown in the Python
+calculations later on.
+
+
 
 # Mathematical Model
 
@@ -91,6 +329,10 @@ has no effect 5 billion years later on the population.
 
 
 ```python
+from math import *
+import matplotlib.pyplot as plt
+import numpy as np
+
 init_pop = 10**10 # world
 init_time = -5000 # Ma
 end_time = 100 # Ma
@@ -308,7 +550,7 @@ fig1.tight_layout()
 
 
     
-![png](pickerism.model_files/pickerism.model_13_0.png)
+![png](pickerism_files/pickerism_13_0.png)
     
 
 
@@ -366,7 +608,7 @@ fig2.tight_layout()
 
 
     
-![png](pickerism.model_files/pickerism.model_15_0.png)
+![png](pickerism_files/pickerism_15_0.png)
     
 
 
@@ -437,7 +679,7 @@ print(f"A = {absolute_picker_time[-1]*(10**18)} attoseconds")
 
 
     
-![png](pickerism.model_files/pickerism.model_17_1.png)
+![png](pickerism_files/pickerism_17_1.png)
     
 
 
@@ -608,7 +850,7 @@ fig4.tight_layout()
 
 
     
-![png](pickerism.model_files/pickerism.model_19_1.png)
+![png](pickerism_files/pickerism_19_1.png)
     
 
 
@@ -629,7 +871,7 @@ attoseconds, close to half of the previously calculated value. The rate of
 change is 1.131e-10 attoseconds per year. Before this can be understood in terms
 of relative Picker time, this means nothing really. So, $\gamma$ must be found.
 
-## Numerical Calculations for Gamma
+## Calculations for Gamma
 
 Since $\mathcal{R} = \gamma\mathcal{A}$, the time conversion factor can be
 calculated based on a desired relative Picker time.
@@ -669,7 +911,7 @@ around 1200 years from the Picker time. A full human lifetime during the decline
 of the Transcendentalists' War would add practically nothing to the minimum
 relative Picker time.
 
-## Numerical Calculations for Changers
+## Calculations for Changers
 
 Here, a Changer killed 10 billion people in an instant. The Python speaks for itself.
 

@@ -121,5 +121,14 @@ Cipher to kill millions and "save his soul." Or a Chooser hands a "KILL
 YOURSELF! NOW!" pamphlet to a main character in a fun scene. Or both, or
 something else.
 
+## 2024-10-13
+
+*Manifold sculpting.* Artisans or other, specialized AI's --- more specifically,
+certain organs or theirs --- create artisan AI by physically manipulating the
+manifold of an AI. This means the craft the curving fitting themselves, avoiding
+computationally intensive loss function based optimization of the manifolds.
+They do this in 3D space in the Matrix, with thousands working on the
+intersections between all the 3D manifolds.
+
 
 
