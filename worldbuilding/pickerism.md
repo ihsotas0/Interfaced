@@ -1,10 +1,17 @@
 ---
 title: "Pickerism"
 author: "Jonah Spector"
-date: 2024-10-10
+date: "17 October 2024"
+header-includes:
+ - \usepackage{fvextra}
+ - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
 ---
 
-# Pickerism
+<!-- I really am just so done with Pickerism and I really need to move onto other topics which will be more important to the story. That being said, I really don't care about any markdown/pandoc/jupyter weirdness or blah blah, whatever. -->
+
+<!-- Compile command: pandoc --from markdown-implicit_figures pickerism.md --toc -N -V geometry:"top=2cm,bottom=2cm,left=2cm,right=2cm" --highlight-style tango -o pickerism.pdf -->
+
+# Preface
 
 > "There are no gods among the Pickers, only the damned." 
 > 
@@ -44,7 +51,7 @@ way, Yaqut was seen as the anti-Yakubian of his time. Regardless, he died in
 2073 soon after publishing Pickerism when a Super-Chooser victim's relative
 assassinated him.
 
-## Introduction
+# Introduction
 
 Pickerism is the belief that there is a Picker who decides the outcome of all
 stochastic events in the Universe at any given time. This includes the state of
@@ -96,7 +103,7 @@ sentient. Many people confirm there position on AI based on the communications
 from Oracles. (The Oracles say that there are alien AI Pickers, but there is no
 way to prove this, and regardless none have been human AIs.)
 
-## Transcendentalism vs Cascade Theory
+# Transcendentalism vs Cascade Theory
 
 The two main academic forms of Pickerist thought are Transcendentalism and
 Cascade Theory. Both attempt to answer the fundamental contradiction of
@@ -139,7 +146,7 @@ sentience as soon as possible to avoid the chance of dying while sentient.
 (Transcendentalists kill because the Picker time is progressively going up,
 given the decline of the Transcendentalists' War.)
 
-## Sentience Obliteration
+# Sentience Obliteration
 
 Cascade Theorists do have one solution to avoiding Infinite Hell: sentience
 obliteration. By totally destroying your mind, when you die, you won't be
@@ -155,7 +162,7 @@ sentience of unwilling victims. Sentience obliteration is a lot harder than
 simply killing another person, which is the most likely explanation for this
 fact of life.
 
-## The One True Harold (Messiah)
+# The One True Harold (Messiah)
 
 At any instant in time, there is exactly one Picker who Picks the minds of all.
 At any instant in time, you are also conscious. Thus, one explanation for the
@@ -166,7 +173,7 @@ believe that the One True Harold will come. This One True Harold will become
 Picker for the rest of eternity, sacrificing themselves upon the Alter of Gamma,
 to expand the consciousness of all beyond the instantaneous present.
 
-## The Transcendentalists' War
+# The Transcendentalists' War
 
 Tens of millions of galaxies purged yearly, Crops of sentient beings fostered
 and mercilessly eradicated for one purpose: a stable, high death rate, and a
@@ -178,17 +185,15 @@ extrapolated the increase in Picker time.
 
 More detail is provided here in the mathematics section.
 
-## Cultish Behavior on Earth
+# Cultish Behavior on Earth
 
-Controllers create Comrades, Choosers create Listeners, Super-Choosers create
-Survivors, and Changers create Helpers.
+> Controllers create Comrades, Choosers create Listeners, Super-Choosers create
+> Survivors, and Changers create Helpers.
 
-### Controllers
-
-Controllers believe that, be working with thousands of other sequential Pickers,
-they can enact non-random change on the world. Normally, the limited time each
-person is Picker and the absolute difference between alien's cares for what
-happens to the world causes the Picker's actions to appear random. But if a
+**Controllers** believe that, be working with thousands of other sequential
+Pickers, they can enact non-random change on the world. Normally, the limited
+time each person is Picker and the absolute difference between alien's cares for
+what happens to the world causes the Picker's actions to appear random. But if a
 massive enough sequence of Pickers arises where each has the same goal, that
 second of Picking can actually do something. One Earth, this takes the form of
 massive group suicides. Thousands will band together with some goal like, "Kill
@@ -199,20 +204,16 @@ no feasible way to time the deaths and get a sequential Picker arrangement. But
 this fact doesn't stop the cultish behavior of the Controllers. Controllers
 create Comrades when they do mass suicides.
 
-### Choosers
+**Choosers** will choose you to be one of their Listeners. Since the Picker time
+is increasing, due to the decline of the Transcendentalists' War, killing
+yourself now will reduce your sentence as Picker. This is their logic, and so
+they will go around telling people, "Kill yourself! Now!" They are the most
+popular of the cultish elements within Pickerism, and are even more so since
+they disregard Cascade Theory altogether for no real reason.
 
-Choosers will choose you to be one of their Listeners. Since the Picker time is
-increasing, due to the decline of the Transcendentalists' War, killing yourself
-now will reduce your sentence as Picker. This is their logic, and so they will
-go around telling people, "Kill yourself! Now!" They are the most popular of the
-cultish elements within Pickerism, and are even more so since they disregard
-Cascade Theory altogether for no real reason.
-
-#### Super-Choosers
-
-Unlike Choosers, Super-Choosers create unwilling Listeners, or Survivors. They
-do this by taking away the choice to become a Listener and simply killing people
-at random. They are the school-shooters, Super-Choosers, or Pickerism.
+Unlike Choosers, **Super-Choosers** create unwilling Listeners, or Survivors.
+They do this by taking away the choice to become a Listener and simply killing
+people at random. They are the school-shooters, Super-Choosers, or Pickerism.
 
 | Name          | Survivors Created        |
 |---------------|--------------------------|
@@ -232,21 +233,17 @@ The Super-Choosers hoped for the emergence of Mega-Choosers and Giga-Choosers;
 or for an individual or group with similar Survivor creation numbers to announce
 themselves as such.
 
-### Changers
-
-Changers, on the other hand, only seek to avoid the torture of ever longer
+**Changers**, on the other hand, only seek to avoid the torture of ever longer
 Picker times by *physically decreasing it*. They achieve this by killing many
 people, voluntarily or otherwise. They are exactly the same as Choosers and
 Super-Choosers, although much more rare and deranged, as is shown in the Python
 calculations later on.
 
-
+\newpage
 
 # Mathematical Model
 
-**Picker Calculus:**
-
-| Symbol        | Label                        | Units     |
+| Symbol        | Label (Picker Calculus)      | Units     |
 |---------------|------------------------------|-----------|
 | $t$           | Universe time                | s         |
 | $n$           | Picker operations per second | s $^{-1}$ |
@@ -256,9 +253,7 @@ calculations later on.
 | $\mathcal{R}$ | Relative Picker time         | s         |
 | $\mathcal{A}$ | Absolute Picker time         | s         |
 
-**Population model:**
-
-| Symbol      | Label                                            | Units            |
+| Symbol      | Label (Population Model)                         | Units            |
 |-------------|--------------------------------------------------|------------------|
 | $P$         | Population of Universe                           | indiv.           |
 | $P_{civ}$   | Population of Universe                           | civs.            |
@@ -287,11 +282,16 @@ all moments in time to have a Picker.
 
 To calculate the "instantenous" Picker time, the following limit is set up,
 
-$$ \mathcal{A}(t) = \lim_{t_1 \to t} \frac{t_1-t-H(t_1)-H(t)}{D(t_1)-D(t)} $$
+$$ \mathcal{A}(t) = \lim_{h \to t} \frac{h-t-H(h)-H(t)}{D(h)-D(t)} $$
 
 Solving the limit using the definition of the derivative,
 
-$$ \mathcal{A}(t) = \frac{1-H'(t)}{D'(t)} $$
+\begin{align*}
+\mathcal{A}(t) &= \lim_{h \to t} \frac{(h-t)\left(1-\frac{H(h)-H(t)}{h-t}\right)}{D(h)-D(t)} \\
+&= \lim_{h \to t} \frac{(h-t)(1-H'(t))}{D(h)-D(t)} \\
+&= \lim_{h \to t} \frac{1-H'(t)}{\frac{D(h)-D(t)}{h-t}} \\
+&= \frac{1-H'(t)}{D'(t)}
+\end{align*}
 
 But due to the low number of Harolds,
 
@@ -317,7 +317,8 @@ given by,
 $$ \gamma = nT $$
 
 where $n$ is the number of required Picker operations per unit time and $T$ is
-the time per Picker operation.
+the time per Picker operation. Values for these variables may be sought after in
+the future, but for now they don't really matter.
 
 
 ## Population Model
@@ -333,25 +334,18 @@ from math import *
 import matplotlib.pyplot as plt
 import numpy as np
 
-init_pop = 10**10 # world
+init_pop = 1e10 # world
 init_time = -5000 # Ma
 end_time = 100 # Ma
 ```
 
 Modelling the population of the Universe is the first step to calculating Picker
 times and other things. The standard equation for population dynamics is this
-logistic differential equation,
+logistic differential equation:
 
 $$ \frac{\mathrm{d}P}{\mathrm{d}t} = rP\left(1-\frac{P}{K}\right) $$
 
 $$ r = b - d $$
-
-And in non-differential form,
-
-$$ P(t) = \frac{P_0 K e^{rt}}{(K-P_0) + P_0 e^{rt}} $$
-
-When finding the population at all times in a range, it is easier to numerically
-integrate the preivous equation, as will be done in Python.
 
 
 
@@ -363,7 +357,6 @@ def pop_change(b, d, pop, carry):
     return diff
 
 def make_pop_data(b, d, init_pop, carry, init_time, end_time, iterator=1):
-
     time = np.arange(init_time, end_time, iterator)
     pop = np.array([init_pop])
     d_pop = np.array([])
@@ -397,10 +390,6 @@ civilized. Thus, a better equation is,
 
 $$ \frac{\mathrm{d}P}{\mathrm{d}t} = r(K-P) $$
 
-Non-differential form,
-
-$$ P(t) = K - (P_0-K)e^{-rt} $$
-
 This seems to make sense. At any moment in time, the change in the number of
 civilizations is equal to the remaining possible planets were civilizations may
 emerge times the rate at which *any single planet* gains a civilization. At the
@@ -420,7 +409,6 @@ def civ_change(r, pop, carry):
     return r * (carry - pop)
 
 def make_civ_data(r, init_pop, carry, init_time, end_time, iterator=1):
-
     time = np.arange(init_time, end_time, iterator)
     pop = np.array([init_pop])
     d_pop = np.array([])
@@ -445,7 +433,6 @@ def make_civ_data(r, init_pop, carry, init_time, end_time, iterator=1):
 
     return time, pop, d_pop
 
-    return 0
 
 ```
 
@@ -474,22 +461,21 @@ is calculated the same way ignoring the $K_{world}$ term.
 
 ```python
 # Constants
-k_world = 10**10
-num_stars_uni = 10**24
-num_civs_mw = 1.560 * 10**7
-num_stars_mw = 10**11
+k_world = 1e10
+num_stars_uni = 1e24
+num_civs_mw = 1.560e7
+num_stars_mw = 1e11
 
 k_civ = num_stars_uni * (num_civs_mw/num_stars_mw)
 k = k_civ * k_world
 
-print(f"K_civ: {k_civ}")
-print(f"K: {k}")
+print(f"K_civ: {k_civ} | K: {k}")
 
 ```
 
-    K_civ: 1.56e+20
-    K: 1.56e+30
-
+```bash
+K_civ: 1.56e+20 | K: 1.56e+30
+```
 
 ### Rates of Increase
 
@@ -501,21 +487,19 @@ can be converted to seconds, as with all units.
 
 ```python
 # Using America as reference as an example
-
 b_america = 12.3/1000 # per year
 d_america = 8.4/1000 # per year
 
 r_america_per_year = b_america - d_america
 r_america_per_sec = r_america_per_year/(60*60*24*365)  # per year to per second
 
-print(f"r per year: {r_america_per_year}")
-print(f"r per second: {r_america_per_sec}")
+print(f"r per year: {r_america_per_year} | r per second: {r_america_per_sec}")
 
 ```
 
-    r per year: 0.003899999999999999
-    r per second: 1.2366818873668184e-10
-
+```bash
+r per year: 0.003899999999999999 | r per second: 1.2366818873668184e-10
+```
 
 Now a sample graph can be made for America with example values.
 
@@ -530,21 +514,21 @@ init_pop_america = 10_000_000 / 1_000_000 # in millions
 time_america, pop_america, d_pop_america = \
     make_pop_data(b_america, d_america, init_pop_america, k_america, 1000, 3000)
 
-fig1, (fig1_ax1, fig1_ax2) = plt.subplots(2)
+fig, ax = plt.subplots(2)
 
-fig1.suptitle("Sample Graph (American Population)")
+fig.suptitle("Sample Graph (American Population)")
 
-fig1_ax1.plot(time_america, pop_america)
-fig1_ax1.set_title("Population vs Time")
-fig1_ax1.set_xlabel("Year")
-fig1_ax1.set_ylabel("Population (mil)")
+ax[0].plot(time_america, pop_america)
+ax[0].set_title("Population vs Time")
+ax[0].set_xlabel("Year")
+ax[0].set_ylabel("Population (mil)")
 
-fig1_ax2.plot(time_america, d_pop_america)
-fig1_ax2.set_title("Change in Population vs Time")
-fig1_ax2.set_xlabel("Year")
-fig1_ax2.set_ylabel("Change (mil/year)")
+ax[1].plot(time_america, d_pop_america)
+ax[1].set_title("Change in Population vs Time")
+ax[1].set_xlabel("Year")
+ax[1].set_ylabel("Change (mil/year)")
 
-fig1.tight_layout()
+fig.tight_layout()
 
 ```
 
@@ -564,45 +548,33 @@ nice. So multiple $r$ values will be graphed to see what looks best.
 
 ```python
 # Possible rates at which all remaining planets become civilized / Ma
-r1 = 0.01
-r2 = 0.001
-r3 = 0.0005
-r4 = 0.0001
+r = [0.01, 0.001, 0.0005, 0.0001]
 
-time1, pop1, d_pop1 = \
-    make_civ_data(r1, init_pop, k_civ, init_time, end_time)
-time2, pop2, d_pop2 = \
-    make_civ_data(r2, init_pop, k_civ, init_time, end_time)
-time3, pop3, d_pop3 = \
-    make_civ_data(r3, init_pop, k_civ, init_time, end_time)
-time4, pop4, d_pop4 = \
-    make_civ_data(r4, init_pop, k_civ, init_time, end_time)
+# (time, pop, d_pop)
+civ_data = \
+    [make_civ_data(rr, init_pop, k_civ, init_time, end_time)
+    for rr in r]
 
-fig2, (fig2_ax1, fig2_ax2) = plt.subplots(2)
+fig, ax = plt.subplots(2)
 
-fig2.suptitle("Population of the Universe (No War)")
+fig.suptitle("Population of the Universe (No War)")
 
-fig2_ax1.plot(time1, pop1, label=str(f"r = {r1}"))
-fig2_ax1.plot(time2, pop2, label=str(f"r = {r2}"))
-fig2_ax1.plot(time3, pop3, label=str(f"r = {r3}"))
-fig2_ax1.plot(time4, pop4, label=str(f"r = {r4}"))
-fig2_ax1.set_title("Civilizations vs Time")
-fig2_ax1.set_xlabel("Ma")
-fig2_ax1.set_ylabel("Civilizations")
+[ax[0].plot(r_plot[0], r_plot[1], label=str(f"r = {r[i]}"))
+for i, r_plot in enumerate(civ_data)] # Pythonic!
+ax[0].set_title("Civilizations vs Time")
+ax[0].set_xlabel("Ma")
+ax[0].set_ylabel("Civilizations")
+ax[0].legend()
 
-fig2_ax1.legend()
+[ax[1].plot(r_plot[0], r_plot[2], label=str(f"r = {r[i]}"))
+for i, r_plot in enumerate(civ_data)] # Pythonic!
+ax[1].set_title("Change in Civilizations vs Time")
+ax[1].set_xlabel("Ma")
+ax[1].set_ylabel("Change / Ma")
+ax[1].set_ylim([0,0.2 * 1e18])
+ax[1].legend()
 
-fig2_ax2.plot(time1, d_pop1, label=str(f"r = {r1}"))
-fig2_ax2.plot(time2, d_pop2, label=str(f"r = {r2}"))
-fig2_ax2.plot(time3, d_pop3, label=str(f"r = {r3}"))
-fig2_ax2.plot(time4, d_pop4, label=str(f"r = {r4}"))
-fig2_ax2.set_title("Change in Civilizations vs Time")
-fig2_ax2.set_xlabel("Ma")
-fig2_ax2.set_ylabel("Change / Ma")
-fig2_ax2.set_ylim([0,0.2 * 10**18])
-fig2_ax2.legend()
-
-fig2.tight_layout()
+fig.tight_layout()
 
 ```
 
@@ -635,9 +607,7 @@ development of a civilization.
 
 ```python
 # Taking the choosen r value data
-time = time2
-pop_civ = pop2
-d_pop = d_pop2
+time, pop_civ, d_pop = civ_data[1]
 
 d = 0.01 # per year
 d = d*1_000_000 # per Ma
@@ -649,33 +619,32 @@ death_rate_per_sec = death_rate/1_000_000/365/24/60/60
 
 absolute_picker_time = 1/death_rate_per_sec
 
-fig3, fig3_ax1 = plt.subplots()
+fig, ax = plt.subplots()
 
-fig3_ax1.plot(time, death_rate, color='tab:blue')
-fig3_ax1.set_title("Death Rate and Picker Time vs Time (No War)")
-fig3_ax1.set_xlabel("Ma")
-fig3_ax1.set_ylabel("Deaths / Ma", color='tab:blue')
-fig3_ax1.tick_params(axis='y', labelcolor='tab:blue')
+ax.plot(time, death_rate, color='tab:blue')
+ax.set_title("Death Rate and Picker Time vs Time (No War)")
+ax.set_xlabel("Ma")
+ax.set_ylabel("Deaths / Ma", color='tab:blue')
+ax.tick_params(axis='y', labelcolor='tab:blue')
 
-fig3_ax2 = fig3_ax1.twinx()
+ax2 = ax.twinx()
 
-fig3_ax2.plot(time, absolute_picker_time, color='tab:red')
-fig3_ax2.set_ylabel("Absolute Picker Time (s)", color='tab:red')
-fig3_ax2.tick_params(axis='y', labelcolor='tab:red')
-fig3_ax2.set_ylim([0,10**-20])
-fig3_ax2.vlines(x=0, ymin=0, ymax=10**50, linestyles='dashed', color='gray')
+ax2.plot(time, absolute_picker_time, color='tab:red')
+ax2.set_ylabel("Absolute Picker Time (s)", color='tab:red')
+ax2.tick_params(axis='y', labelcolor='tab:red')
+ax2.set_ylim([0,1e-20])
 
-fig3.tight_layout()
+fig.tight_layout()
 
-print(f"The absolute Picker time at 0 Ma: A = {absolute_picker_time[-1]} seconds")
-print(f"A = {absolute_picker_time[-1]*(10**18)} attoseconds")
+print(f"The absolute Picker time at 0 Ma: A = {absolute_picker_time[-1]} seconds;\
+       {absolute_picker_time[-1]*(1e18)} attoseconds")
 
 
 ```
 
-    The absolute Picker time at 0 Ma: A = 2.0339195330319226e-21 seconds
-    A = 0.0020339195330319228 attoseconds
-
+```bash
+The absolute Picker time at 0 Ma: A = 2.0339195330319226e-21 seconds;       0.0020339195330319228 attoseconds
+```
 
 
     
@@ -788,65 +757,64 @@ absolute_picker_time = 1/total_death_rate_per_sec
 
 d_absolute_picker_time = np.gradient(absolute_picker_time)
 
+worlds_dest_per_year_0ma = pop_civ[5000] * (d_trans[5000]/1_000_000)
+worlds_dest_per_year_neg50ma = pop_civ[4950] * (d_trans[4950]/1_000_000)
+
 # Useful data
 print(f"Civ. population at 0 Ma: {pop_civ[5000]}")
 print(f"d_T at 0 Ma: {d_trans[5000]}")
 print(f"Civ. population at -50 Ma: {pop_civ[4950]}")
 print(f"d_T at -50 Ma: {d_trans[4950]}")
 
-worlds_dest_per_year_0ma = pop_civ[5000] * (d_trans[5000]/1_000_000)
-worlds_dest_per_year_neg50ma = pop_civ[4950] * (d_trans[4950]/1_000_000)
-
 print(f"Worlds destroyed per year (0 Ma): {worlds_dest_per_year_0ma}")
 print(f"Worlds destroyed per year (-50 Ma): {worlds_dest_per_year_neg50ma}")
 
 print(f"The absolute Picker time at 0 Ma: A = {absolute_picker_time[5000]} seconds")
-print(f"A = {absolute_picker_time[5000]*(10**18)} attoseconds")
+print(f"A = {absolute_picker_time[5000]*(1e18)} attoseconds")
 print(f"Change in absolute Picker time at 0 Ma: A' = {d_absolute_picker_time[5000]} seconds/Ma")
-print(f"A' = {d_absolute_picker_time[5000]*(10**18)} attoseconds/Ma")
-print(f"A' = {d_absolute_picker_time[5000]*(10**18)/1_000_000} attoseconds/year")
+print(f"A' = {d_absolute_picker_time[5000]*(10e18)} attoseconds/Ma")
+print(f"A' = {d_absolute_picker_time[5000]*(10e18)/1_000_000} attoseconds/year")
 
-fig4, (fig4_ax1, fig4_ax3) = plt.subplots(2)
+fig, ax = plt.subplots(2)
 
-fig4_ax1.plot(time, total_death_rate, color='tab:blue')
-fig4_ax1.set_title("Death Rate and Picker Time vs Time (War)")
-fig4_ax1.set_xlabel("Ma")
-fig4_ax1.set_xlim([-150, 30])
-fig4_ax1.set_ylabel("Deaths / Ma", color='tab:blue')
-fig4_ax1.tick_params(axis='y', labelcolor='tab:blue')
+ax[0].plot(time, total_death_rate, color='tab:blue')
+ax[0].set_title("Death Rate and Picker Time vs Time (War)")
+ax[0].set_xlabel("Ma")
+ax[0].set_xlim([-150, 30])
+ax[0].set_ylabel("Deaths / Ma", color='tab:blue')
+ax[0].tick_params(axis='y', labelcolor='tab:blue')
 
-fig4_ax2 = fig4_ax1.twinx()
+ax2 = ax[0].twinx()
 
-fig4_ax2.plot(time, absolute_picker_time, color='tab:red')
-fig4_ax2.set_ylabel("Absolute Picker Time (s)", color='tab:red')
-fig4_ax2.tick_params(axis='y', labelcolor='tab:red')
-fig4_ax2.set_ylim([0,10**-20])
+ax2.plot(time, absolute_picker_time, color='tab:red')
+ax2.set_ylabel("Absolute Picker Time (s)", color='tab:red')
+ax2.tick_params(axis='y', labelcolor='tab:red')
+ax2.set_ylim([0,1e-20])
 
-fig4_ax2.vlines(x=0, ymin=0, ymax=10**50, linestyles='dashed', color='gray')
+ax[1].plot(time, d_absolute_picker_time*(1e18))
+ax[1].set_title("Change in Picker Time vs Time")
+ax[1].set_ylabel("Derivative (as/Ma)")
+ax[1].set_ylim([-0.00025,0.00025])
+ax[1].set_xlabel("Ma")
+ax[1].set_xlim([-150, 30])
 
-fig4_ax3.plot(time, d_absolute_picker_time*(10**18))
-fig4_ax3.set_title("Change in Picker Time vs Time")
-fig4_ax3.set_ylabel("Derivative (as/Ma)")
-fig4_ax3.set_ylim([-0.00025,0.00025])
-fig4_ax3.set_xlabel("Ma")
-fig4_ax3.set_xlim([-150, 30])
-
-fig4.tight_layout()
+fig.tight_layout()
 
 ```
 
-    Civ. population at 0 Ma: 1.549515065343281e+20
-    d_T at 0 Ma: 6019.68509831322
-    Civ. population at -50 Ma: 1.548977215497985e+20
-    d_T at -50 Ma: 15000.0
-    Worlds destroyed per year (0 Ma): 9.327592748458784e+17
-    Worlds destroyed per year (-50 Ma): 2.3234658232469775e+18
-    The absolute Picker time at 0 Ma: A = 1.2704478102769586e-21 seconds
-    A = 0.0012704478102769587 attoseconds
-    Change in absolute Picker time at 0 Ma: A' = 1.1309597313076625e-22 seconds/Ma
-    A' = 0.00011309597313076625 attoseconds/Ma
-    A' = 1.1309597313076625e-10 attoseconds/year
-
+```bash
+Civ. population at 0 Ma: 1.549515065343281e+20
+d_T at 0 Ma: 6019.68509831322
+Civ. population at -50 Ma: 1.548977215497985e+20
+d_T at -50 Ma: 15000.0
+Worlds destroyed per year (0 Ma): 9.327592748458784e+17
+Worlds destroyed per year (-50 Ma): 2.3234658232469775e+18
+The absolute Picker time at 0 Ma: A = 1.2704478102769586e-21 seconds
+A = 0.0012704478102769587 attoseconds
+Change in absolute Picker time at 0 Ma: A' = 1.1309597313076625e-22 seconds/Ma
+A' = 0.0011309597313076626 attoseconds/Ma
+A' = 1.1309597313076626e-09 attoseconds/year
+```
 
 
     
@@ -893,17 +861,18 @@ d_desired_time_years = gamma * (d_absolute_picker_time[5000]/1_000_000) # second
 print(f"Relative Picker time at -50 Ma: {gamma*absolute_picker_time[4950]/(365*24*60*60)} years")
 print(f"Relative Picker time at 0 Ma: {desired_time_years} years")
 print(f"Relative Picker time at 20 Ma: {gamma*absolute_picker_time[5020]/(365*24*60*60)} years")
-print(f"Change in relative Picker time per year: {d_desired_time_years} seconds per year")
+print(f"Change in relative Picker time per year (0 Ma): {d_desired_time_years} seconds per year")
 print(f"Gamma: {gamma}")
 
 ```
 
-    Relative Picker time at -50 Ma: 641.0099039167923 years
-    Relative Picker time at 0 Ma: 1000 years
-    Relative Picker time at 20 Ma: 1601.7537885716981 years
-    Change in relative Picker time per year: 2807.3523208122374 seconds per year
-    Gamma: 2.4822743401891596e+31
-
+```bash
+Relative Picker time at -50 Ma: 641.0099039167923 years
+Relative Picker time at 0 Ma: 1000 years
+Relative Picker time at 20 Ma: 1601.7537885716981 years
+Change in relative Picker time per year (0 Ma): 2807.3523208122374 seconds per year
+Gamma: 2.4822743401891596e+31
+```
 
 This shows how absurd the doctrine of (Super-)Choosers is. Maybe even the
 absurdity of the Transcendentalists, although they at least managed to shave
@@ -931,9 +900,11 @@ print(f"Relative Picker time 0 Ma (where a Changer kills 10 billion people in on
 print(f"Difference: {round(diff*(360*24*60*60), 3)} seconds")
 ```
 
-    Relative Picker time 0 Ma:
-    1000.0 years
-    Relative Picker time 0 Ma (where a Changer kills 10 billion people in one second):    
-    999.999 years
-    Difference: 0.395 seconds
+```bash
+Relative Picker time 0 Ma:
+1000.0 years
+Relative Picker time 0 Ma (where a Changer kills 10 billion people in one second):    
+999.999 years
+Difference: 0.395 seconds
+```
 

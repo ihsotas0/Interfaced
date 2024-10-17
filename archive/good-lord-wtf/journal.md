@@ -130,5 +130,37 @@ computationally intensive loss function based optimization of the manifolds.
 They do this in 3D space in the Matrix, with thousands working on the
 intersections between all the 3D manifolds.
 
+## 2024-10-15
+
+"Script kiddie? Script kiddie!? I'll tell you: my Omega method is the product of
+400 expert hached hackers. I pay for millions of man-hours every second use so
+my method defeats yours. It's that simple!"
+
+```
+Envionment (full)    Input (Signal)  --- (when put in the input, the env becomes a "subset")
+                     Output (Signal) --- (blind to env; this is the "key" to why methods work)
+                        Host (takes 20% of input and output, required by the Adam Task)
+                        Main Method (encapsulates others, 80% of input and output)
+                          Omega (takes 100% of main method, here for example)
+                          Pain-blocker
+                          etc.
+```
+
+Adam Task makes signals for hosts, but doesn't need to train them. Somehow It
+has found a way to make the parameters of a neural network for the signal with
+another, which no one can decipher. Normally, the parameters of a signal would
+have to be found by trial and error, basically like training the signal neural
+network to interact well with the host. But the Adam Task does this in one pass
+through it's more advanced system.
+
+Manoj --- master method crafter, overclocked genius, but he hasn't gone past the
+return limit.
+
+
+Alec --- dies fighting in Program Space by overclocking past the limits of his overclocking (not
+haching) cryobed
+
+Elliot --- master host unmasked, art of persuasion, charismatic genius.
+
 
 
