@@ -1,0 +1,17 @@
+---
+title:
+- type: main
+  text: Interface
+#- type: subtitle
+#  text: A novel
+creator:
+- role: author
+  text: Jonah Spector
+- role: editor
+  text: Elliot Fetterman
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher:  My Press
+rights: © 2024 Jonah Spector, CC BY-NC-ND
+---
