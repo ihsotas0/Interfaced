@@ -1,3 +1,20 @@
+---
+title:
+- type: main
+  text: Interface
+#- type: subtitle
+#  text: A novel
+creator:
+- role: author
+  text: Jonah Spector
+- role: editor
+  text: Elliot Fetterman
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher:  My Press
+rights: © 2024 Jonah Spector, CC BY-NC-ND
+---\n\n\n\n
 # The Birth of Jordan Hayes
 
 <!-- In this day and age, people consider themselves blessed by their mechanical
@@ -307,3 +324,16 @@ the infamous "Cipher" (which uses its own proxying system), allow users to visit
 hubs anonymously, with persistent avatars if desired. The implications of Cipher
 are horrifying to most, and to some, a gamble worth taking: they are the primary
 motivator behind the usage of the protocol.
+
+* * *
+
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n
+\n\n\n\n

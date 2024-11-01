@@ -39,3 +39,25 @@ https://en.wikipedia.org/wiki/Multiple_independently_targetable_reentry_vehicle#
 
 https://preview.redd.it/4090-vs-brain-v0-ye6rvsolalqd1.jpeg?width=1080&crop=smart&auto=webp&s=8c32bc155415ee55c5d964f3240825243d329e1a
 
+
+AI Hypercomputer
+
+
+Adam Task compute allocation:
+    90% - Signal processes (8-bit TPU)
+    5% - Fee
+    5% - Environment compute (double-precision floats)
+
+
+The reason all avatars in the Matrix are humanoid is because of the requirements
+set in place by the Adam Task. Signals, which the Adam Task handles, are the I/O
+of the host; it follows that to create the signal _in the first place_ requires
+an entity of similar likeness to what normally creates the "organic signal". But
+the host can withstand a certain level of difference, which allows for the
+famous pseudonym and anonymity of the Cipher. A virtual "spirit" avatar can be
+created to embody the signal while the "actual" avatar is non-humanoid, but
+controlling this "actual" avatar is no different from controlling a simulated
+robot in the Matrix. "Spirit" avatars do not exist as a default protocol in
+Program Space, making invisibility without a dedicated Method impossible. (This
+invisibility comes from having a "spirit" avatar without an "actual" avatar.)
+

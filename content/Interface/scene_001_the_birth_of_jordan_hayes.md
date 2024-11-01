@@ -307,3 +307,6 @@ the infamous "Cipher" (which uses its own proxying system), allow users to visit
 hubs anonymously, with persistent avatars if desired. The implications of Cipher
 are horrifying to most, and to some, a gamble worth taking: they are the primary
 motivator behind the usage of the protocol.
+
+* * *
+
