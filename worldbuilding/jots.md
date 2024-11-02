@@ -61,3 +61,15 @@ robot in the Matrix. "Spirit" avatars do not exist as a default protocol in
 Program Space, making invisibility without a dedicated Method impossible. (This
 invisibility comes from having a "spirit" avatar without an "actual" avatar.)
 
+
+Elliot: "That PhD's carefully constructed, personalized, tailored, statically
+model for host unmasking, which takes in whatever the fuck and spits out some ID
+number, so nothing compared to my skills."
+
+
+
+
+
+
+
+

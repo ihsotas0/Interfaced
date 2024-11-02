@@ -57,3 +57,19 @@ Year	Date	Time
 2067			Corporate defectors create the ideas of Datism, arguing for an impartial and decentralized matrix (in the context of the Adam Task). Datism, in its early stages, is most similar to anarchism, but only applied to the matrix.		
 2070			All crude oil is depleted, although most was gone by WWIII. Mammon makes plastics and other petroleum products with patented technology.		Fayçal Beaumont moves to Kernel City.
 2072			Chapter 1		
+
+
+- Kernel City/Biotech Founded (1999)
+- End of Moores Law (2030)
+- First Interface (2040)
+- Gender Wars (2043-2046)
+- MSEP Founded (2046)
+- BFS (2030-2050)
+- First Cryobed (2052)
+- Adam Task Published (2060)
+- Data War (2066-2072)
+    - Battle Of Hexridge (2066-2067)
+    - Kernel Biotech Incident (2070)
+    - The Ultimatum (2072)
+    - Release of the Cipher (2072)
+
