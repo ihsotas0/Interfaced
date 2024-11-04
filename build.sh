@@ -45,11 +45,24 @@ do
     if pandoc drafts/${DRAFT_TITLE}/${book}/raw_content.md \
     --toc --toc-depth=1 \
     --template style/book.tex \
-    --metadata-file content/${book}/metadata.yml \
     -o drafts/${DRAFT_TITLE}/${book}/JonahSpector_${book}.pdf; then
         echo "PDF complete :)"
     else
         echo "PDF failed :("
+    fi
+
+    # Make PDF (manuscript)
+    echo # New line
+    echo "Compiling (manuscript): drafts/${DRAFT_TITLE}/${book}/JonahSpector_${book}_Manuscript.pdf..."
+    
+    # Compilation command and error handling
+    if pandoc drafts/${DRAFT_TITLE}/${book}/raw_content.md \
+    --toc --toc-depth=1 \
+    --template style/sffms.tex \
+    -o drafts/${DRAFT_TITLE}/${book}/JonahSpector_${book}_Manuscript.pdf; then
+        echo "PDF (manuscript) complete :)"
+    else
+        echo "PDF (manuscript) failed :("
     fi
 
     # Make EPUB
