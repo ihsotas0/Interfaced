@@ -1,6 +1,5 @@
 @startuml
 @startmindmap Interface
-!theme crt-amber
 + The World
 ++_ Other Characters
 +++_ Edmund Bosak
@@ -111,7 +110,7 @@
 ++++_ The Natrives
 +++_ Un-Interfaced
 --_ Internet
----_ Gospel Of The Whores
+---_ Gospel of the Whores
 ---_ Matrix Compatibility
 --_ Un-Interfaced Implants
 ---_ Exoskeletons
@@ -208,7 +207,6 @@
 -----_ Termination Rate
 -----_ Plaintexters
 -----_ Cipherists
-------_ Pseudonymous Avatars
 ---_ Overclocking
 ----_ Cryo
 ----_ Hyper Overclocking
@@ -234,12 +232,26 @@
 ----_ Crypt Room
 ----_ Methods
 -----_ Conceptualization
+------_ Animation
+------_ Atomization
+-------_ Grind to Halt
+------_ Reflections
+------_ Possesion
 -----_ Simulation
-------_ Disco Elite
+------_ Fields
+-------_ Disco Elite
+------_ Matter
+-------_ Solid
+-------_ Fluid
 -----_ Matrix Signal
-------_ Input
-------_ Output
 ------_ Quick Crypt
+------_ Input
+-------_ The Shell
+-------_ Super-Senses
+------_ Output
+-------_ Illusions
+-------_ Pseudonymization
+-------_ Physical Abilites
 @endmindmap
 @enduml
 

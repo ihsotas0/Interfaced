@@ -67,7 +67,47 @@ model for host unmasking, which takes in whatever the fuck and spits out some ID
 number, so nothing compared to my skills."
 
 
+Overlooking Kernel City at night from afar on a hill in an open glass modern
+home. To discuss the last great development of humankind caused by capitalism, a
+last, beautiful death spasm of capitalism.
 
+
+AI Cold War: Traveler at the top.
+
+Softwar: War over **nebulous** efficiency in software, who has the most
+efficient software
+
+Hardwar: War over **finite** hardware
+
+Hosts of humans is monolithic unlike vhosts of ACs which are made of millions of
+organs. But, really, don't human hosts also have millions of neural organs? They
+are just *something.*
+
+
+Signals are two parts: 1 and 0
+
+Matrix has concepts programmatically expressed unlike reality, allowing for
+conceptualization methods.
+
+I use the Matrix as a conduit for my conceptualization. I feel no fear! I feel
+no hunger! Program -> Matrix Conduit -> Signal's concepts programatically
+expressed by the Matrix!
+
+Fire walls: exist in Userland to filter out known harmful programs for
+connecting users. (Not in Program Space, although rate limit is.)
+
+
+Rate limit changes? Effected by enemy Methods? What happens at 0 GB/s.
+
+Adam Task
+
+Basic signal BCI takes 90% of computation. Runs distributed on Adam Task, since
+all brains share about 90% of the same AI model.
+
+Program Space is a place that loads with no route to Userland picked. Userland
+is self-hosted?
+
+Userland pays fee to use the Adam Task signals pool. Why control Program Space?!
 
 
 
