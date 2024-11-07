@@ -109,7 +109,9 @@ is self-hosted?
 
 Userland pays fee to use the Adam Task signals pool. Why control Program Space?!
 
-
+The reason wireless jacks are unpopular among professionals is that someone can
+break the connection easily, causing damage, whereas a wired one can be locked
+in place with a key, to prevent accident disconnection, etc.
 
 
 
