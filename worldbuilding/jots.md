@@ -114,4 +114,16 @@ break the connection easily, causing damage, whereas a wired one can be locked
 in place with a key, to prevent accident disconnection, etc.
 
 
+Mag Dump: Unlike traditional firearm Methods, my Mag Dump doesn't have any
+memory leakage. Normally, the projectiles fired persist after stopping, taking
+up valuable space in the rate limit. Reloading is then a method to clear this
+buffer. My system, however, is a cyclic list of projectiles: the simulation
+deals with them in a set list of 6, where I shift the list forward, obliterating
+one bullet and creating a new one. This isn't a novel concept, and many weapons
+use this system --- where the firerate is low but there is no need to reload ---
+instead of the buffer-reloading method --- where the firerate is high but needs
+reloads --- (both, in their traditional implementations, offer their own
+benefits and consequences), but I have developed an algorithm, which I keep a
+secret, to speed up this shifting function. I get the best of both worlds!
+
 

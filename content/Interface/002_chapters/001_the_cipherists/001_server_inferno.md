@@ -1,13 +1,39 @@
 # The Cipherists
 
-The server room Elliot Fetterman overlooks is red-hot, the air perturbed by the
-heat, no light other than the glow of near-molten radiators. The array is sunken
-down into the ground, slightly, and his view of it is obscured by the reinforced
+The server room Elliot overlooks is red-hot, the air perturbed by the heat, no
+light other than the glow of near-molten radiators. The array is sunken down
+into the ground, slightly, and his view of it is obscured by the reinforced
 metal framing of a thick acrylic window, tilted overlooking the expanse. Each
 box flickers and the whole valley of computers fades into the dark fog of the
 background.
 
 
+
+
+
+
+
+
+
+
+
+
+
+It does whatever nowadays. Any job from the web --- it's in the cloud. Such as
+small area, 1 million square meters, produces around 1200 exaFLOPS. This is a
+small amount, so small farms like this are forgotten.
+
+The stagnant air is incredibly inefficient; but when the array is over a square
+kilometer, it's better to be cheap.
+
+Computer hardware nowadays is designed for _scale_. Massive scale. Scale so big,
+hardware "efficiency" and "compactness" is as important to the engineers as the
+paint job. A few hundred cheap, scratched up, dirty silicon platters is better
+than any single outrageously-large-scale integrated chip painstakingly designed
+with the knowledge of over a hundred years of semiconductor fabrication. At
+least, this is what the engineers say now. And they haven't a clue as to how the
+Matrix works, or any of the other related things for that matter. What a bunch
+of morons!
 
 Appearances:
 
@@ -19,6 +45,7 @@ Appearances:
 * Anita:
 
 
+Dream-like AI Minecraft
 
 Manoj lays unconscious, elongated by his thin frame, in a cushioned reclining
 chair. His arm is plugged in from his wrist to a "portable" neural-modem, his
@@ -29,13 +56,7 @@ of unorganized wires protruding from his wrist resemble red muscle fibers.
 
 
 
-Computer hardware nowadays is designed for _scale_. Massive scale. Scale so big,
-hardware "efficiency" and "compactness" is as important to the engineers as the
-paint job. A few hundred cheap, scratched up, dirty silicon platters is better
-than any single outrageously-large-scale integrated chip painstakingly designed
-with the knowledge of over a hundred years of semiconductor fabrication. At
-least, this is what the engineers say now. And they haven't a clue as to how the
-Matrix works, or any of the other related things. What a bunch of morons!
+
 
 
 
