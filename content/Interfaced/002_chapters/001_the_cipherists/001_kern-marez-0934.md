@@ -1,63 +1,97 @@
 # The Cipherists
 
-The server room Elliot overlooks is red-hot, the air perturbed by the heat, no
-light other than the glow of near-molten radiators. The array is sunken down
-into the ground, slightly, and his view of it is obscured by the reinforced
-metal framing of a thick acrylic window, tilted overlooking the expanse. Each
-box flickers and the whole valley of computers fades into the dark fog of the
-background.
+The server room Elliot overlooks is red-hot, the dry air perturbed by the heat,
+no light other than the glow of near molten heat sinks. The entire computing
+array is sunken down into the ground, slightly; his view of it is obscured by
+the reinforced metal framing of a thick acrylic window, tilted overlooking the
+expanse. Each node flickers, and the whole valley of computers fades into the
+dark fog of the background.
+
+Elliot relaxes with one leg scrunched up on the windowsill as he swings the
+other back and forth. He looks at the computers as they silently do their work.
+The clusters of nodes pipe their heat directly into crucibles full of solid
+metal (the heat sinks). These crucibles roll along slow conveyors in alternating
+directions sucking all the residual energy from the nodes, but after a while,
+even they fail. By the end of the journey, the crucibles' contents liquify and
+bubble in the excess heat, before they are brought underground even further to
+cool and solidify for reuse. Elliot can't see more than the dim red ones.
+
+Twelve-hundred exaFLOPS is a pretty small number, and likewise this is a pretty
+small server. Underground and protected from any strife, the single square
+kilometer server is forgotten. It's perfect --- just the place Elliot and the
+others need to hunker down in. They currently stay in one of the attached
+utility rooms for human operators. But human operators never go down there; in
+fact, it is unlikely anyone has seen this server in decades.
+
+Clearly, modern computer hardware is designed for scale and not elegance. What
+is important to the engineers now is massive scale. A few hundred thousand
+cheap, low transistor count chips, with high heat tolerance is better than any
+single, precious, fragile, quadrillion transistor, outrageously-large-scale
+integrated chip, painstakingly designed with the knowledge of over a hundred
+years of semiconductor fabrication. At least, this is what the engineers say
+now. And they haven't a clue as to how the Matrix works!
+
+"Elliot :3" Manoj asks. He lays unconscious, elongated by his thin frame, in a
+cushioned reclining chair. His arm is plugged in from his wrist to a _portable_
+neural modem, his favorite one in fact, which in reality weighs over one hundred
+pounds. It is about the size of a dresser. The tens of unorganized wires
+protruding from his wrist resemble red muscle fibers. Elliot is unfazed.
+
+"Elliot :33" Elliot's neural modem, on the other hand, is slightly smaller than
+a milk carton. It fits in his backpack and connects to him wirelessly to a spine
+mounted wireless implant. Manoj doesn't have wireless implants. He doesn't need
+them. He spends every day in the Matrix, unlike Elliot. But that's simply the
+reality of the situation --- more specifically, it's what the situation demands
+of him.
+
+"Elliot :333" One large cable pierces through a hole in the concrete, which runs
+to one of the clusters. The end splits to the four Cipherists --- Manoj, Anita,
+Aleks, and Elliot --- haphazardly. Even the wireless modems get a taste of this
+speed. It’s the best possible connection to the Matrix, but soon Elliot and
+Anita will be forced back on the wireless network.
+
+"Elliot!"
+
+"Fuck you! What is it! I'm enjoying the moment!"
+
+"Nothing," Manoj's sassy ass responses.
 
 
 
+**Working blurbs:**
 
+Elliot, on the other hand, has his wireless ten-pound neural-modem in a
+backpack, plugged into the back of his head; he’s refused any enhancements
+beyond the standard neural-interface, so he only has the standard connection
+available. Unlike Manoj, 
 
+I've been jerking it for years and I just need to cum now.
 
+He is scruffy and stubbly, with unkempt hair and round red-tinted glasses, which
+he actually wears with prescription lenses despite the availability of cheap
+neural-vision replacements. Manoj on the other hand spares no expense in
+enhancing his body: neural-vision, synthetic tissue, hardware-based memory
+failsafes, and everything in between.
 
-
-
-
-
-
-
-It does whatever nowadays. Any job from the web --- it's in the cloud. Such as
-small area, 1 million square meters, produces around 1200 exaFLOPS. This is a
-small amount, so small farms like this are forgotten.
-
-The stagnant air is incredibly inefficient; but when the array is over a square
-kilometer, it's better to be cheap.
-
-Computer hardware nowadays is designed for _scale_. Massive scale. Scale so big,
-hardware "efficiency" and "compactness" is as important to the engineers as the
-paint job. A few hundred cheap, scratched up, dirty silicon platters is better
-than any single outrageously-large-scale integrated chip painstakingly designed
-with the knowledge of over a hundred years of semiconductor fabrication. At
-least, this is what the engineers say now. And they haven't a clue as to how the
-Matrix works, or any of the other related things for that matter. What a bunch
-of morons!
 
 Appearances:
 
-* Elliot: 90s cool, black leather pants, red tinted circular aviators
-* Manoj:
-* Rafael: 
-* Aleks:
-* Habib:
-* Anita:
+* Elliot (double signal): 90s cool, black leather pants, red tinted circular
+  aviators
+* Manoj (timesharing/meshing):
+* Aleks (overclocking):
+* Anita (double signal):
+* Rafael (no Interface): 
+* Habib (no Interface):
 
 
 Dream-like AI Minecraft
 
-Manoj lays unconscious, elongated by his thin frame, in a cushioned reclining
-chair. His arm is plugged in from his wrist to a "portable" neural-modem, his
-favorite one in fact, which in reality weighs over one hundred pounds. The tens
-of unorganized wires protruding from his wrist resemble red muscle fibers.
+Manoj 
 
+Someone gets melted in the molten metal at this forgotten server farm.
 
-
-
-
-
-
+:3 (method) overwhelms enemy with the essence of bottoms.
 
 
 * * *

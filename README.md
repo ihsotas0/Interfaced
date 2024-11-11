@@ -1,4 +1,4 @@
-# Interface
+# Interfaced
 
 A personal creative writing project which began September 2023. Narratives and
 worldbuilding cover a wide range of themes from politics to artificial
@@ -16,7 +16,7 @@ intelligence. See `book` for official content. Here is a snippet:
 > rapidly stops normal brain function causing seizures, comas, and even death.
 
 If you enjoyed that, feel free to read more here on GitHub or more accessibly on
-my website: <https://jonahspector.net/writing/interface>
+my website: <https://jonahspector.net/writing/interfaced>
 
 ## Contributing
 

@@ -1,6 +1,8 @@
 @startuml
-@startmindmap Interface
+!pragma teoz true
 !theme plain
+
+/'
 + The World
 ++_ Other Characters
 +++_ Edmund Bosak
@@ -256,8 +258,73 @@
 -------_ Illusions
 -------_ Pseudonymization
 -------_ Physical Abilites
-@endmindmap
+'/
+
+' Categorize all story elements
+
+box Characters
+    box Cobalt Saber
+        participant "Elliot Fetterman"
+        participant "Rafael Bosak"
+        participant "Aleks Bosak"
+        participant "Habib Khalil"
+        participant "Manoj"
+        participant "Anita"
+    end box
+end box
+
+box Cobalt Saber
+    participant "Stolen Car"
+end box
+
+box Marez
+    participant "kern-marez-0934"
+end box
+
+box Olana
+    participant "Altetro Building #50"
+end box
+
+box The Matrix
+    box Userland
+        participant "The Crow's Den"
+    end box
+end box
+
+' Begin plot
+
+== Narrative One ==
+
+group Chapter 2: Into the Night
+
+end
+
+== Narrative Two ==
+
+group Chapter 1: The Cipherists
+    group Scene 1: kern-marez-0934
+        "Elliot Fetterman" -> "kern-marez-0934": Realself
+        "Elliot Fetterman" -> "The Crow's Den": Fakeself
+        "Rafael Bosak" -> "kern-marez-0934": Realself
+        "Aleks Bosak" -> "kern-marez-0934": Realself
+        "Aleks Bosak" -> "The Crow's Den": Fakeself
+        "Habib Khalil" -> "kern-marez-0934": Realself
+        "Manoj" -> "kern-marez-0934": Realself
+        "Manoj" -> "The Crow's Den": Fakeself
+        "Anita" -> "kern-marez-0934": Realself
+        "Anita" -> "The Crow's Den": Fakeself
+        activate "kern-marez-0934"
+        "Elliot Fetterman" -> "kern-marez-0934": Looks at
+        "Manoj" -> "Elliot Fetterman": Annoys to no end
+        "Elliot Fetterman" -> "Manoj": Barely rebukes
+        "kern-marez-0934" -> "Stolen Car": Elliot, Rafael, and Habib's realselves\nleave through the server tunnels to
+        deactivate "kern-marez-0934"
+        "Stolen Car" -> "Altetro Building #50": Goes to
+        activate "The Crow's Den"
+        deactivate "The Crow's Den"
+    end
+    group Scene 2: Car Ride
+    end
+end
+
 @enduml
-
-
-
