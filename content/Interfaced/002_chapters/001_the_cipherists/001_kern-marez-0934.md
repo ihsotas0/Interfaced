@@ -19,9 +19,9 @@ cool and solidify for reuse. Elliot can't see more than the dim red ones.
 Twelve-hundred exaFLOPS is a pretty small number, and likewise this is a pretty
 small server. Underground and protected from any strife, the single square
 kilometer server is forgotten. It's perfect --- just the place Elliot and the
-others need to hunker down in. They currently stay in one of the attached
-utility rooms for human operators. But human operators never go down there; in
-fact, it is unlikely anyone has seen this server in decades.
+others have needed. They currently stay in one of the attached utility rooms for
+human operators. But human operators never go down there; in fact, it is
+unlikely anyone has seen this server in decades.
 
 Clearly, modern computer hardware is designed for scale and not elegance. What
 is important to the engineers now is massive scale. A few hundred thousand
@@ -31,41 +31,73 @@ integrated chip, painstakingly designed with the knowledge of over a hundred
 years of semiconductor fabrication. At least, this is what the engineers say
 now. And they haven't a clue as to how the Matrix works!
 
-"Elliot :3" Manoj asks. He lays unconscious, elongated by his thin frame, in a
+"Elliot," Manoj asks. He lays unconscious, elongated by his thin frame, in a
 cushioned reclining chair. His arm is plugged in from his wrist to a _portable_
-neural modem, his favorite one in fact, which in reality weighs over one hundred
-pounds. It is about the size of a dresser. The tens of unorganized wires
-protruding from his wrist resemble red muscle fibers. Elliot is unfazed.
+neural modem, his favorite one in fact, which weighs over one hundred pounds. It
+is about the size of a dresser. The tens of unorganized wires protruding from
+his wrist resemble red muscle fibers. Elliot is unfazed.
 
-"Elliot :33" Elliot's neural modem, on the other hand, is slightly smaller than
-a milk carton. It fits in his backpack and connects to him wirelessly to a spine
-mounted wireless implant. Manoj doesn't have wireless implants. He doesn't need
-them. He spends every day in the Matrix, unlike Elliot. But that's simply the
-reality of the situation --- more specifically, it's what the situation demands
-of him.
+"Elliot..." Elliot's neural modem, on the other hand, is slightly smaller and
+thinner than a milk carton. It fits in his backpack and connects to him
+wirelessly using a spine mounted wireless implant. Manoj doesn't have wireless
+implants. He doesn't need them. He spends every day in the Matrix, unlike
+Elliot. But that's simply the reality of the situation --- more specifically,
+it's what the situation demands of him.
 
-"Elliot :333" One large cable pierces through a hole in the concrete, which runs
-to one of the clusters. The end splits to the four Cipherists --- Manoj, Anita,
-Aleks, and Elliot --- haphazardly. Even the wireless modems get a taste of this
-speed. It’s the best possible connection to the Matrix, but soon Elliot and
-Anita will be forced back on the wireless network.
+"Elliot---" One large cable pierces through a hole in the concrete, which runs
+to one of the clusters in the festering mass of computers. The end splits
+haphazardly to the four Cipherists: Manoj, Anita, and Elliot. Even the wireless
+modems get a taste of this speed (although no where is it more than one hundred
+milliseconds, thanks to advances in Internet infrastructure: the backbone of the
+Matrix). It’s the best possible connection to the Matrix, but soon Elliot will
+be forced back on the wireless network.
 
-"Elliot!"
+"Elliot!" The layered sounds of the utterance come to Elliot in delayed steps,
+one after the other, forming an alien, persistent thought in his mind, echoing
+its serious tone.
 
-"Fuck you! What is it! I'm enjoying the moment!"
+"Fuck off! I'm busy right now!"
 
-"Nothing," Manoj's sassy ass responses.
+"Get your mind on task. We're starting the op right now!"
 
+Elliot slides his boot off the cool concrete and lets it hang by his other
+before hopping down onto the floor. The room he's in covers only a few dozen
+square meters and the ceiling is short.
+
+
+* * *
 
 
 **Working blurbs:**
+
+Hit LEFT RIGHT walls, CQC pistols
+
+Him telling us his pseudonymous avatar is a corporate narrowed things down a
+lot.
+
+Anonymous hit set out on the host of the pseudonymous avatar. Smart contract has
+messaging, file sharing, etc, with the person who bought the contract (in
+reality the pseudonymous guy, who is looking for people using the contract on
+himself as a test for them)
+
+Model 49 is stolen by Habib, who runs a 24/7 hacking signal for really old cars
+to take them. It silences the beep of unlocking the vehicle.
+
+
+
+
+
+
+"I'll give your team 20 exaFLOPS." (could train GPT-4 in around ten days)
+
+"Nothing," Manoj responses most deviously. (Sassy.)
 
 Elliot, on the other hand, has his wireless ten-pound neural-modem in a
 backpack, plugged into the back of his head; he’s refused any enhancements
 beyond the standard neural-interface, so he only has the standard connection
 available. Unlike Manoj, 
 
-I've been jerking it for years and I just need to cum now.
+I've been jerking it for years and I just need it to cum now.
 
 He is scruffy and stubbly, with unkempt hair and round red-tinted glasses, which
 he actually wears with prescription lenses despite the availability of cheap

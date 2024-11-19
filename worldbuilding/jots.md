@@ -127,3 +127,19 @@ benefits and consequences), but I have developed an algorithm, which I keep a
 secret, to speed up this shifting function. I get the best of both worlds!
 
 
+https://github.com/OpenInterpreter/open-interpreter
+
+
+Program Space has no restriction on overclocking. Homeless put in low quality
+cryobeds to run them at a high speed for a short time till they die.
+
+
+
+
+
+
+
+
+
+
+

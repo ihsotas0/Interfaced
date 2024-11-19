@@ -266,7 +266,6 @@ box Characters
     box Cobalt Saber
         participant "Elliot Fetterman"
         participant "Rafael Bosak"
-        participant "Aleks Bosak"
         participant "Habib Khalil"
         participant "Manoj"
         participant "Anita"
@@ -274,20 +273,28 @@ box Characters
 end box
 
 box Cobalt Saber
-    participant "Stolen Car"
+    participant "Model 49 (stolen)"
+end box
+
+box Altetro
+    participant "Adrian Vue"
 end box
 
 box Marez
     participant "kern-marez-0934"
+    participant "The Ardara (real)"
 end box
 
 box Olana
-    participant "Altetro Building #50"
+    participant "Altetro Building 50"
 end box
 
 box The Matrix
+    participant "The Cipher"
     box Userland
+        participant "Local Space"
         participant "The Crow's Den"
+        participant "The Ardara"
     end box
 end box
 
@@ -303,28 +310,72 @@ end
 
 group Chapter 1: The Cipherists
     group Scene 1: kern-marez-0934
+        "Adrian Vue" -> "Altetro Building 50": Realself
+        "Adrian Vue" -> "The Ardara": Fakeself
         "Elliot Fetterman" -> "kern-marez-0934": Realself
-        "Elliot Fetterman" -> "The Crow's Den": Fakeself
+        "Elliot Fetterman" -> "The Ardara": Fakeself (Vostok)
         "Rafael Bosak" -> "kern-marez-0934": Realself
-        "Aleks Bosak" -> "kern-marez-0934": Realself
-        "Aleks Bosak" -> "The Crow's Den": Fakeself
         "Habib Khalil" -> "kern-marez-0934": Realself
         "Manoj" -> "kern-marez-0934": Realself
-        "Manoj" -> "The Crow's Den": Fakeself
+        "Manoj" -> "The Ardara": Fakeself (Apollo)
         "Anita" -> "kern-marez-0934": Realself
-        "Anita" -> "The Crow's Den": Fakeself
+        "Anita" -> "The Ardara": Fakeself (Delta)
         activate "kern-marez-0934"
-        "Elliot Fetterman" -> "kern-marez-0934": Looks at
-        "Manoj" -> "Elliot Fetterman": Annoys to no end
-        "Elliot Fetterman" -> "Manoj": Barely rebukes
-        "kern-marez-0934" -> "Stolen Car": Elliot, Rafael, and Habib's realselves\nleave through the server tunnels to
+        note over "kern-marez-0934"
+            Describe the server in detail
+        end note
+        "Elliot Fetterman" -> "kern-marez-0934": Is distracted by
+        "Manoj" -> "Elliot Fetterman": Yells at to get on task
+        "Elliot Fetterman" -> "Manoj": Whines at before getting on task
+        "kern-marez-0934" -> "Model 49 (stolen)": Elliot, Rafael, and Habib (server tunnels)
+        "Rafael Bosak" -> "Elliot Fetterman": Gives final brief of merc job
+        "Rafael Bosak" -> "Habib Khalil": Gives final brief of merc job
+        "Habib Khalil" -> "Rafael Bosak": Starts argument over pay
+        "Elliot Fetterman" -> "Rafael Bosak": Backs Habib's argument
+        "Rafael Bosak" -> "The Cipher": Changes subject to
+        "Anita" -> "The Cipher": Uses synth-intuition to get the fry rate of
+        "Anita" -> "Elliot Fetterman": Gives info to
+        "Anita" -> "Elliot Fetterman": Discusses morality (bad) of the Cipher to
+        "Manoj" -> "Anita": Discusses morality (good) of the Cipher to
         deactivate "kern-marez-0934"
-        "Stolen Car" -> "Altetro Building #50": Goes to
-        activate "The Crow's Den"
-        deactivate "The Crow's Den"
     end
     group Scene 2: Car Ride
+        activate "Model 49 (stolen)"
+        "Elliot Fetterman" -> "Habib Khalil": "Damn Corporate Cipherists"
+        "Elliot Fetterman" -> "Rafael Bosak": "Damn Corporate Cipherists"
+        "Rafael Bosak" -> "Elliot Fetterman": Juxtaposes modern corporate Cipherists\nto the horrible things they did (Data War)
+        "Rafael Bosak" -> "Habib Khalil": Juxtaposes modern corporate Cipherists\nto the horrible things they did (Data War)
+        activate "The Ardara"
+        "Adrian Vue" -> "Manoj": Asks what's wrong with Elliot
+        "Manoj" -> "Adrian Vue": Responds with using fake double-signal senario
+        "Elliot Fetterman" -> "The Ardara": Focuses more on fakeself (double-signal)
+        "Elliot Fetterman" -> "Adrian Vue": Apologizes and backs up Manoj
+        "Anita" -> "Adrian Vue": Asks about Cipher usage
+        "Adrian Vue" -> "Anita": Responds and elaborates on non-pseudonymous Cipher use
+        note over "Olana"
+            Describe the city,
+            chrome Olana,
+            in detail
+        end note
+        deactivate "The Ardara"
+        "Model 49 (stolen)" -> "Altetro Building 50": Elliot, Rafael, and Habib
+        activate "Altetro Building 50"
+        deactivate "Model 49 (stolen)"
+    end
+    group Scene 3: Fighting Through Altetro
+        
+    end
+    group Scene 4: Adrian Vue
+        "Adrian Vue" -> "Elliot Fetterman": Reveals that he owns the shell company which hired them for the hit
+        "Adrian Vue" -> "Elliot Fetterman": Gives the real job: finding the identity of ihsotas
+        deactivate "Altetro Building 50"
     end
 end
+
+' Elliot has knife to Adrians throat. In Matrix, he begs for his life by
+' offering new job (finding out who ihsotas is) for more money
+
+' Manoj, Anita, and Elliot (somwhat) help distract Adrian, because his expensive
+' cybernetics, if actived on his realself, would be more difficult to defeat
 
 @enduml
