@@ -1,11 +1,11 @@
 # The Cipherists
 
-The server room Elliot overlooks is red-hot, the dry air perturbed by the heat,
-no light other than the glow of near molten heat sinks. The entire computing
-array is sunken down into the ground, slightly; his view of it is obscured by
-the reinforced metal framing of a thick acrylic window, tilted overlooking the
-expanse. Each node flickers, and the whole valley of computers fades into the
-dark fog of the background.
+The server room Elliot Fetterman overlooks is red-hot, the dry air perturbed by
+the heat, no light other than the glow of near molten heat sinks. The entire
+computing array is sunken down into the ground, slightly; his view of it is
+obscured by the reinforced metal framing of a thick acrylic window, tilted
+overlooking the expanse. Each node flickers, and the whole valley of computers
+fades into the dark fog of the background.
 
 Elliot relaxes with one leg scrunched up on the windowsill as he swings the
 other back and forth. He looks at the computers as they silently do their work.
@@ -23,13 +23,13 @@ others have needed. They currently stay in one of the attached utility rooms for
 human operators. But human operators never go down there; in fact, it is
 unlikely anyone has seen this server in decades.
 
-Clearly, modern computer hardware is designed for scale and not elegance. What
-is important to the engineers now is massive scale. A few hundred thousand
-cheap, low transistor count chips, with high heat tolerance is better than any
-single, precious, fragile, quadrillion transistor, outrageously-large-scale
-integrated chip, painstakingly designed with the knowledge of over a hundred
-years of semiconductor fabrication. At least, this is what the engineers say
-now. And they haven't a clue as to how the Matrix works!
+Clearly, modern computer hardware is not designed for elegance. Massive scale is
+the matter of importance left. A few hundred thousand cheap, low transistor
+count chips, with high heat tolerance is better than any single, precious,
+fragile, quadrillion transistor, _outrageously-large-scale_ integrated chip,
+painstakingly designed with the knowledge of over a hundred years of
+semiconductor fabrication. At least, this is what the engineers say now. And
+they haven't a clue as to how the Matrix works!
 
 "Elliot," Manoj asks. He lays unconscious, elongated by his thin frame, in a
 cushioned reclining chair. His arm is plugged in from his wrist to a _portable_
@@ -38,32 +38,58 @@ is about the size of a dresser. The tens of unorganized wires protruding from
 his wrist resemble red muscle fibers. Elliot is unfazed.
 
 "Elliot..." Elliot's neural modem, on the other hand, is slightly smaller and
-thinner than a milk carton. It fits in his backpack and connects to him
-wirelessly using a spine mounted wireless implant. Manoj doesn't have wireless
-implants. He doesn't need them. He spends every day in the Matrix, unlike
-Elliot. But that's simply the reality of the situation --- more specifically,
-it's what the situation demands of him.
+substantially thinner than a milk carton. It fits in his backpack and connects
+to him wirelessly using a spine mounted wireless implant. Manoj doesn't have
+wireless implants. He doesn't need them. He spends every day in the Matrix,
+unlike Elliot. But that's simply the reality of the situation --- more
+specifically, it's what the situation demands of him.
 
 "Elliot---" One large cable pierces through a hole in the concrete, which runs
 to one of the clusters in the festering mass of computers. The end splits
-haphazardly to the four Cipherists: Manoj, Anita, and Elliot. Even the wireless
-modems get a taste of this speed (although no where is it more than one hundred
+haphazardly to the three Cipherists: Manoj, Anita, and Elliot. Even the wireless
+modems get a taste of this speed (although nowhere is it more than one hundred
 milliseconds, thanks to advances in Internet infrastructure: the backbone of the
 Matrix). It’s the best possible connection to the Matrix, but soon Elliot will
 be forced back on the wireless network.
 
 "Elliot!" The layered sounds of the utterance come to Elliot in delayed steps,
 one after the other, forming an alien, persistent thought in his mind, echoing
-its serious tone.
+its serious tone. It's a peer-to-peer connection not routed through the Matrix.
 
-"Fuck off! I'm busy right now!"
+"Fuck you! What is it!"
 
-"Get your mind on task. We're starting the op right now!"
+Manoj messages what would be a rightward nod, if he were in front of Elliot, to
+Elliot over the same peer-to-peer connection. Some primitive reflex in Elliot's
+mind is enough to understand this synthetic non-verbal unreal communication. The
+connection is facilitated directly by the neural modems and not the Matrix, so
+it makes sense that anything emulating the genius of the Adam Task's signals ---
+like this protocol --- would be so nebulous and unintuitive. But it makes up for
+this, in the eyes of many, since it doesn't require a connection to the Matrix.
+
+Elliot looks to his right. Provisions litter the place, now long consumed and
+discarded in the small room. On the stepped concrete floor, Rafael and Habib
+seem to be arguing. The room is strewn with pleasant, soft LEDs. But beyond that
+there are only a plastic few chairs and a table, excluding Manoj's throne.
+
+"One million is two-hundred grand a person. That's more than enough you greedy
+bastard. You want anon to cancel the contract?" Habib says. Elliot grins his
+signature grand smile. His cheeks normally contour the edges of his circular red
+aviators, but he doesn't wear them indoors like a _freak_.
+
+"It's chump-change compared to a few years on a mesh." Rafael responds.
+
+"Alright then, why don't you go ahead and jack-in, huh?"
+
+Rafael feels a lump in his throat. "I could say the same for you."
+
+Habib snickers at Rafael's cognitive dissonance. "At least I accept that I don't
+have an Interface. If I did have one, and if I had the knack for meshing, sure,
+why not, I'd join a mesh, but I don't have either; I don't concern myself with
+things that aren't gonna happen."
 
 Elliot slides his boot off the cool concrete and lets it hang by his other
-before hopping down onto the floor. The room he's in covers only a few dozen
-square meters and the ceiling is short.
-
+before hopping down onto the floor. The dark room he's in covers only a few
+dozen square meters and the ceiling is short.
 
 * * *
 

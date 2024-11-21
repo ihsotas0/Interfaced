@@ -135,11 +135,13 @@ cryobeds to run them at a high speed for a short time till they die.
 
 
 
+**jaa korraks vait @ modest by default - The Curse of Colonialism**
 
 
 
 
+"Wise up and serve cunt."
 
 
-
+https://preview.redd.it/day-off-alone-at-home-v0-r3j05qkxxt1e1.jpeg?auto=webp&s=45cd635ddab7dc2528a41a1fe29a15e8daebe387
 
