@@ -94,7 +94,10 @@ dozen square meters and the ceiling is short.
 * * *
 
 
+
 **Working blurbs:**
+
+Best trope: character turns on lights, sees monster, turns lights off, walks away.
 
 Hit LEFT RIGHT walls, CQC pistols
 

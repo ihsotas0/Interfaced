@@ -145,3 +145,20 @@ cryobeds to run them at a high speed for a short time till they die.
 
 https://preview.redd.it/day-off-alone-at-home-v0-r3j05qkxxt1e1.jpeg?auto=webp&s=45cd635ddab7dc2528a41a1fe29a15e8daebe387
 
+
+Idea for the Traveler: When it arrives at a planet, its goal is not to help or
+hurt the people. It only wants to record the civilization. This is why the
+Traveler, with ihsotas, created the Matrix: to record humanity and store it.
+Then the Traveler goes on as an archive of billions of civilizations to the next
+ones, archiving more and more. This is my explanation for why the Traveler
+hides: it doesn't want to disturb the civilizations it records.
+
+
+
+Pie hole memory: AI runs all possibilities every time. Its linear. Humans are dynamical. I only turn on those neurons when needed.
+
+
+Method: the World: I extrabolate the output of my Signal a few second until the simulation breaks down, needing my dynamic, cybernetic input from my host. This extrapolation is overclocked beyond the limit for hatching by millions, so I freeze time.
+
+
+
