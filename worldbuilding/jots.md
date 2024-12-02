@@ -158,7 +158,40 @@ hides: it doesn't want to disturb the civilizations it records.
 Pie hole memory: AI runs all possibilities every time. Its linear. Humans are dynamical. I only turn on those neurons when needed.
 
 
-Method: the World: I extrabolate the output of my Signal a few second until the simulation breaks down, needing my dynamic, cybernetic input from my host. This extrapolation is overclocked beyond the limit for hatching by millions, so I freeze time.
+Method: the World: I extrabolate the output of my Signal a few second until the
+simulation breaks down, needing my dynamic, cybernetic input from my host. This
+extrapolation is overclocked beyond the limit for hatching by millions, so I
+freeze time.
+
+
+
+
+
+
+Signal severance creates a pseudo-signal which can be run 30 secs past death
+(post-run). My Method, Seg Fault! It projects an area where host terminations
+don't activate the garbage collector. I collect the severed signals instead!
+They aren't deleted like normal!
+
+Exit code following host termination marks the severed signal with how its host
+died. This is normally the thing the garbage collector looks for when going to
+delete excess signals.
+
+
+Caustics of light weave in-and-out of Kernel's buildings.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
