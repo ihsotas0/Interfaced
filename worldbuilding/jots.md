@@ -164,7 +164,31 @@ extrapolation is overclocked beyond the limit for hatching by millions, so I
 freeze time.
 
 
+For my book I have the two main parrellel narratives:
 
+1) The more techy mystery story with the Cipherists as they try to uncover the
+   secret of who ihsotas is (directly in the aftermath of the war)
+
+2) The more poltical war story with the Datists and fighting in the Matrix
+   (right after the first Interfaced people turn 18 [the age metaphor is
+   obvious])
+
+For the 2nd, should I have a general theme be a constant retreat? In a lot of
+war movies and stuff it's always one side winning against the other or something
+like All Quiet on the Western Front - just a machine of death. The first type
+doesn't comment on anything relavent to what I'm thinking about. The second is a
+comment on war in general, which can be understand as a critique of imperialism
+by monopoly capitalist nations, of course.
+
+But a constant retreat (by the Datists, the good guys) and scramble to gain some
+semblance of victory sounds interesting. I basically follow a failed revolution,
+and can comment on it from that perspective. The CDO, Chinese Datist
+Organization, continues after the end as a comment on Maoist or something like
+that; most Datists have lost the fundemental tenets of revolution, an obvious
+metaphor, and that will be what I can comment on. The war ends in an instant
+regardless due to the Cipher, which is basically as if God intervened and took
+all the soliders' guns away. (The Cipher is the transition in the story from
+politics to technology. I don't know yet what it alludes to.)
 
 
 
@@ -181,6 +205,15 @@ delete excess signals.
 Caustics of light weave in-and-out of Kernel's buildings.
 
 
+Helicopter blades sparking in sandstorm while landing
+
+
+
+
+- needle monkey math rocket
+- they/them pussy atomic, Simon popcorn made kernel, interface 0
+- and the, my experiment, which I looked at all my life, looked back
+- 4D a method for punching through things
 
 
 
@@ -188,10 +221,5 @@ Caustics of light weave in-and-out of Kernel's buildings.
 
 
 
-
-
-
-
-
-
+Every time you disconnect, your signal is obliterated by the Garbage Collector.
 

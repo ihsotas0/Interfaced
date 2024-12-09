@@ -49,7 +49,7 @@ to one of the clusters in the festering mass of computers. The end splits
 haphazardly to the three Cipherists: Manoj, Anita, and Elliot. Even the wireless
 modems get a taste of this speed (although nowhere is it more than one hundred
 milliseconds, thanks to advances in Internet infrastructure: the backbone of the
-Matrix). It’s the best possible connection to the Matrix, but soon Elliot will
+Matrix). It's the best possible connection to the Matrix, but soon Elliot will
 be forced back on the wireless network.
 
 "Elliot!" The layered sounds of the utterance come to Elliot in delayed steps,
@@ -122,7 +122,7 @@ to take them. It silences the beep of unlocking the vehicle.
 "Nothing," Manoj responses most deviously. (Sassy.)
 
 Elliot, on the other hand, has his wireless ten-pound neural-modem in a
-backpack, plugged into the back of his head; he’s refused any enhancements
+backpack, plugged into the back of his head; he's refused any enhancements
 beyond the standard neural-interface, so he only has the standard connection
 available. Unlike Manoj, 
 
