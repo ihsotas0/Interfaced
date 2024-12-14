@@ -71,6 +71,7 @@ discarded in the small room. On the stepped concrete floor, Rafael and Habib
 seem to be arguing. The room is strewn with pleasant, soft LEDs. But beyond that
 there are only a plastic few chairs and a table, excluding Manoj's throne.
 
+<!-- 
 "One million is two-hundred grand a person. That's more than enough you greedy
 bastard. You want anon to cancel the contract?" Habib says. Elliot grins his
 signature grand smile. His cheeks normally contour the edges of his circular red
@@ -85,7 +86,7 @@ Rafael feels a lump in his throat. "I could say the same for you."
 Habib snickers at Rafael's cognitive dissonance. "At least I accept that I don't
 have an Interface. If I did have one, and if I had the knack for meshing, sure,
 why not, I'd join a mesh, but I don't have either; I don't concern myself with
-things that aren't gonna happen."
+things that aren't gonna happen." -->
 
 Elliot slides his boot off the cool concrete and lets it hang by his other
 before hopping down onto the floor. The dark room he's in covers only a few
