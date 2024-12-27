@@ -1,5 +1,5 @@
 @startuml
-@startmindmap Interface
+@startmindmap Interfaced
 !theme plain
 + The World
 ++_ Other Characters
@@ -173,7 +173,8 @@
 ----_ Hosts and Signals
 -----_ Double and Mono-Signals
 -----_ Severed Signal
-------_ Patches
+------_ The Garbage Collector
+------_ Exit Code
 -----_ The Discriminator
 -----_ Doowee
 ----_ Netspace

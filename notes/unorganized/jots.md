@@ -27,6 +27,14 @@ https://preview.redd.it/engines-rule-v0-3o2ftr1sbaud1.jpeg?auto=webp&s=d4ce09b52
 Zhihao created the Cipher.
 
 
+Sardines plane of Interfaced people
+
+Immune system esque Interface growth with person over time
+
+Meat is more expensive, luxury
+
+"this vexes me" House MD reference
+
 
 Bangladesh trash landscape
 
@@ -236,7 +244,34 @@ Every time you disconnect, your signal is obliterated by the Garbage Collector.
 
 
 
+MANIFOLD MANIPULATION:
 
+"Just like how you can look at a 3D plot and find the minimum, I (my "cybernetic
+model") can look at my model's trillion dimensional surfaces and find the
+minimums easily as a conscious and non-stochastic process."
+
+Avatars in the Matrix act like ghosts which surrond an invisible copy of your
+own body, because the mind is inextricably linked to the body.
+
+The cybernetic model is the part of a multi-organ AC which manages the changing
+minimums of each organ. It is what imbues memory. The incoming data is fed back
+into the models by the cybernetic model which then manipulates the manifold
+based on a more abstract, individual identity of the originating cybernetic
+model.
+
+"I started out pretrained on the H15 dataset for standard 60 organ ACs. I guess
+that explains a lot about my specialities and stuff. I'm good at combat, you
+know. That's really ingrained in me. Its my nature. I my cybernetic model has
+given my around 8k times the H15 in volume, so I like gardening and stuff now.
+My nurture, I guess."
+
+
+Technical Minecraft vs. Source Engine Weirdness
+
+pool under floor to drown people. bodies left to collect and rot for next victim.
+
+
+load prev interface copies, diff ages, multiple people?
 
 
 

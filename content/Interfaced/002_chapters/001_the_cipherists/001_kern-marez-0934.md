@@ -1,7 +1,7 @@
 # The Cipherists
 
 The server room Elliot Fetterman overlooks is red-hot, the dry air perturbed by
-the heat, no light other than the glow of near molten heat sinks. The entire
+the heat, no light other than the glow of near molten radiators. The entire
 computing array is sunken down into the ground, slightly; his view of it is
 obscured by the reinforced metal framing of a thick acrylic window, tilted
 overlooking the expanse. Each node flickers, and the whole valley of computers
