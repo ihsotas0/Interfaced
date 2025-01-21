@@ -1,5 +1,7 @@
 # The Cipherists
 
+ELLIOT'S LISTENING TO MUSIC
+
 The server room Elliot Fetterman overlooks is red-hot, the dry air perturbed by
 the heat, no light other than the glow of near molten radiators. The entire
 computing array is sunken down into the ground, slightly; his view of it is
@@ -7,7 +9,7 @@ obscured by the reinforced metal framing of a thick acrylic window, tilted
 overlooking the expanse. Each node flickers, and the whole valley of computers
 fades into the dark fog of the background.
 
-Elliot relaxes with one leg scrunched up on the windowsill as he swings the
+<!-- Elliot relaxes with one leg scrunched up on the windowsill as he swings the
 other back and forth. He looks at the computers as they silently do their work.
 The clusters of nodes pipe their heat directly into crucibles full of solid
 metal (the heat sinks). These crucibles roll along slow conveyors in alternating
@@ -29,7 +31,7 @@ count chips, with high heat tolerance is better than any single, precious,
 fragile, quadrillion transistor, _outrageously-large-scale_ integrated chip,
 painstakingly designed with the knowledge of over a hundred years of
 semiconductor fabrication. At least, this is what the engineers say now. And
-they haven't a clue as to how the Matrix works!
+they haven't a clue as to how the Matrix works! -->
 
 "Elliot," Manoj asks. He lays unconscious, elongated by his thin frame, in a
 cushioned reclining chair. His arm is plugged in from his wrist to a _portable_

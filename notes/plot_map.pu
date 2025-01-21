@@ -1,0 +1,43 @@
+@startuml
+@startmindmap Plot Map
+!theme blueprint
++ Interfaced
+++ Book 1: Interfaced (p. 600)
++++ The Cipherists (p. 300)
+++++_ A group of mercenaries is hired to uncover the mysterious origins of the Matrix and the Adam Task.
+++++ Chapter 1: The Cipherists
+++++ Arc: Enter, Faycal-Monique!
++++++ Chapter: The Material Mind
++++++ Chapter: The Gender Wars
+++++ Arc: The Trash
+++++ Arc: Hyperchurch
+++++ Arc: Pickerism
++++++ Chapter: Super-Chooser Hochevar
++++++ Chapter: Pickerism
+++++++_ Include a Changer and Controller
++++++ Chapter: God Bless the One True Harold
++++++ Chapter: The Transcendentalists' War
+++++++_ Explore Transcendentalism, choosers, changers, etc.
++++++ Chapter: Sentience Obliteration
+++++++_ Scientists and stuff
++++++ Chapter: Yaqut
+++++ Chapter: The Bifurcated Detective
+++++ Chapter: The Flaberjackles
+
+' Five characters: Elliot, Rafael, Habib, Manoj, Anita
+' Five arcs for each
+
++++ The Datists (p. 300)
+++++_ War erupts in the Matrix between nations, megacorps, and the revolutionary Datists.
+++++ Chapter: Recruiting the Homeless
+++++ Chapter: Tachi-Odyne
+++++ Chapter: A Meeting with the Board
+++++ Chapter: Imperative Disconnection
++++ The Natives (p. 100)
+++++ Chapter: The Birth of Jordan Hayes
+++ Book 2: The Natives
+++ Book 3
+++ Book 4
+++ Book 5
+@endmindmap
+@enduml

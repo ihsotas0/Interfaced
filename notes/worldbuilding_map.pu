@@ -1,6 +1,6 @@
 @startuml
-@startmindmap Interfaced
-!theme plain
+@startmindmap Worldbuilding Map
+!theme blueprint
 + The World
 ++_ Other Characters
 +++_ Edmund Bosak
@@ -65,7 +65,7 @@
 ++++_ Europeans
 +++++_ Faycal-Monique
 +++++_ Marcel Thomas
-++++_ The Trashmen
+++++_ The Trash
 +++++_ Hamza
 +++++_ Ina
 +++++_ Nirmala Bulan
@@ -83,8 +83,8 @@
 ++++_ Tachi-Odyne
 +++++_ PMC
 ++++++_ Homeless
-++++++_ Synth-Organ Incentive Cycle
-++++++_ The Magazine Mechanism
++++++++_ Synth-Organ Incentive Cycle
++++++++_ The Magazine Mechanism
 ++++++_ Alexandr Matveev
 ++++++_ Mark Mullens
 ++++++_ Chae-Yeong
@@ -193,7 +193,7 @@
 -----_ Estation/Estates
 ---_ Neurons
 ---_ Avatars
----_ Age (_:_)
+---_ Age (Realself:Matrix)
 ---_ Meshing
 ---_ Realself/Fakeself
 ---_ Locations

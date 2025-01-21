@@ -55,10 +55,10 @@ LET IT RUN FOR 5 SECONDS. However, that isn't "me", but just my signal, but it
 acts like me and has cognition like my for a few seconds before deteriorating
 (in this case where I simply let the garbage collector handle it before taking
 that "signals" place). The World comes into play because I can overclock that
-servered signal to 1,000,000,000,000,000 times speed, unlike the max "Highest recorded
-survivable hach: 1:1588" (written in September 2024? IDK). This speed up is like
-freezing time for those five seconds. But after I use The World, I of course
-don't remember the five seconds.
+servered signal to 1,000,000,000,000,000 times speed, unlike the max "Highest
+recorded survivable hach: 1:1588" (written in September 2024? IDK). This speed
+up is like freezing time for those five seconds. But after I use The World, I of
+course don't remember the five seconds.
 
 Anyway back to bifurcations. I bet there's a lot more there too. I'll think more
 on it. I need to actually write things down. I don't think I every wrote down
@@ -79,6 +79,151 @@ through so I'm stuck there. I need to get my shit together. I legit spend at
 least 6+ hours a day just thinking to myself, and at least 5 hours of that I
 NEED TO WRITE DOWN!!!!!
 
+(A scheduler allows exponentially bifurcated people to run seamlessly together
+while hached for some supposed benefits.)
 
+# 2024-12-29
+
+There was a nuclear war between India and Pakistan (Russia and NATO? China?).
+
+Manoj and Anita are siblings?
+
+# 2025-01-07
+
+Bifurcations idea.
+
+Bifurcations, separate mind-states, can run in parallel for mind connected to
+Matrix which can run multiple signals at one for each parallel organic host
+(mind-states are the states of the host). Realself only has one organic signal
+and so can only run one host at a time.
+
+Vulgar double-signals run two hosts at the same time, one to Matrix signal,
+one to organic signal. Vulgar because the two hosts are separate mind-states,
+not one with the actual power of a double-signal.
+
+**The Rules of Interfaced**
+
+1. No computer may emulate a human mind
+2. All humans have only one host and one physical signal
+3. Human minds can only run on their respective host
+   1. Hosts can run up to a number of mind-states
+
+# 2025-01-08
+
+My Method can perform a linear transformation on 3D space. I can flatten it to a
+plane or line and shear it however so. It is called, "".
+
+New Method: I control the trend of Brownian motion for random particles in the
+Matrix.
+
+Kernel is the birthplace of the Revolution. Palestine is the birthplace of
+Kernel, the heart of the world in the desert Sinai. The MSEP covers the Saharra
+and Red Sea.
+
+**Products**
+
+Cost of a small street meal: 2.500 kilodits
+
+200L of water = 0.05 USD
+              = 10 dits
+
+1 dits = 0.005 USD
+
+200 dits = 1 USD
+
+
+4.000.000 dits
+= 20k salary
+= 333.333 dits per month
+
+1.000 dits
+= 5 USD
+
+1 pint of algae beer
+= 790 dits
+= $3.95
+
+Physical denominations:
+
+1 dit = half a penny
+5 dit = 2.5 cents
+10 dit = 5 cents
+25 dit = 12.5 cents
+50 dit = 25 cents
+100 dit = 50 cents
+250 dit = $1.25
+500 dit = $2.50
+1000 dit
+10.000 dit
+100.000 dit
+
+
+# 2025-01-09
+
+
+**The Rules of Interfaced**
+
+1. Human minds cannot be simulated by a computer.
+2. Only the original host of a human mind can run it.
+3. 
+
+# 2025-01-10
+
+Code snippets in book!
+
+```
+# fuck whoever wrote this garbage
+
+apply magnetic forces
+   to all signals
+   constrained by 50 meters
+
+
+```
+
+"Greasy sweaty women in tank tops fixing machinery"
+
+Anita is very nerdy, incredibly intelligent. Although the youngest and without
+the artificial time extension of hyper-overclocking, she has studied the most of
+the five.
+
+A pseudo-signal (signal without host, good name? Check where I use this term)
+inhabiting a physical host and using the organic signal there to "live on" is a
+nasty thing to do.
+
+Some characters curse a lot and some rarely for emotional effect.
+
+# 2025-01-11
+
+ihsotas initialized the Traveler and she was immediately killed by the Traveler.
+The Traveler then created a simulation of ihsotas. The only human mind ever
+simulated --- the sole violation of the supposed rule of nature, that "human
+minds cannot be simulated by a computer".
+
+The Traveler is malevolent.
+
+# 2025-01-12
+
+Sludge-filled water pool under floor with previous victims floating it
+
+or
+
+Burned alive
+
+30th Congress of the Datist International
+
+Throughout novel there will be conversations between ihsotas and the Traveler
+like:
+
+"The chat window glowed bright orange. ihsotas wrote..."
+
+The Traveler's name is never mentioned and it's being is only subtly hinted at.
+
+Adrian Vue's day-chair (a non-cryobed couch for connecting to the Matrix in a
+comfortable position) is in a aquarium room with rare endangered fish.
+
+# 2025-01-16
+
+Fetus mob boss aborted.
 
 
