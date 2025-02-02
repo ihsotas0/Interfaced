@@ -1,3 +1,7 @@
+Userland avatars are all human --- no "customs" (custom avatars) allowed
+
+Cipherists use gloves and analog camera to gather hard evidence photos ---
+analog photos are much harder to change
 
 Word so unpronounceable it is deadly.
 
@@ -16,6 +20,20 @@ Sand showers, other no water things
 
 Sonja
 
+Plot twist: Rafael was always talking about the pseudo signal Aleks who died. It
+seemed Aleks simply left Cobalt Saber. (As if he embedded for some reason)
+
+Aleks' heart attack splits narrative in half. Ie chapter. He fights overclocked
+after for a bit longer and fades away.
+
+He passes return limit in fake climax.
+
+Psuedo-signal in host, abomination, is reincarnation of ohsotas made by
+Traveler.
+
+Traveler kills everyone.
+
+The end of cyberpunk.
 
 Language has 42 dimensions
 

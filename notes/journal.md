@@ -226,4 +226,12 @@ comfortable position) is in a aquarium room with rare endangered fish.
 
 Fetus mob boss aborted.
 
+# 2025-01-29
+
+Vulgar host detachment is where a pseudo-signal uses an organic signal (the host
+may be purged from the body or remain in the Matrix or saved as a mind-state to
+play again later)
+
+Double-signals can't overclock when using their abilities. DOUBLE-SIGNALS CAN'T
+NOT USE THEIR ABILITIES. Can't embed either.
 

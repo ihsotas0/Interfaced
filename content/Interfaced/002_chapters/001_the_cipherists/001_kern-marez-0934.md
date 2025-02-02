@@ -1,7 +1,5 @@
 # The Cipherists
 
-ELLIOT'S LISTENING TO MUSIC
-
 The server room Elliot Fetterman overlooks is red-hot, the dry air perturbed by
 the heat, no light other than the glow of near molten radiators. The entire
 computing array is sunken down into the ground, slightly; his view of it is
@@ -9,23 +7,28 @@ obscured by the reinforced metal framing of a thick acrylic window, tilted
 overlooking the expanse. Each node flickers, and the whole valley of computers
 fades into the dark fog of the background.
 
-<!-- Elliot relaxes with one leg scrunched up on the windowsill as he swings the
-other back and forth. He looks at the computers as they silently do their work.
-The clusters of nodes pipe their heat directly into crucibles full of solid
+Elliot relaxes with one leg scrunched up on the windowsill as he swings the
+other back and forth. Music plays through his Interface while he watches the
+computers silently do their work. Underground and protected from any strife, the
+single square kilometer server is forgotten.
+
+<!-- The Cipherists, including Elliot, currently stay in one of the attached utility
+rooms. Human operators never go down there. In fact, it is unlikely anyone has
+seen this server in decades. -->
+
+<!-- It's perfect --- just the place Elliot and the others have needed. -->
+
+<!-- The clusters of nodes pipe their heat directly into crucibles full of solid
 metal (the heat sinks). These crucibles roll along slow conveyors in alternating
 directions sucking all the residual energy from the nodes, but after a while,
 even they fail. By the end of the journey, the crucibles' contents liquify and
 bubble in the excess heat, before they are brought underground even further to
-cool and solidify for reuse. Elliot can't see more than the dim red ones.
+cool and solidify for reuse. Elliot can't see more than the dim red ones. -->
 
-Twelve-hundred exaFLOPS is a pretty small number, and likewise this is a pretty
-small server. Underground and protected from any strife, the single square
-kilometer server is forgotten. It's perfect --- just the place Elliot and the
-others have needed. They currently stay in one of the attached utility rooms for
-human operators. But human operators never go down there; in fact, it is
-unlikely anyone has seen this server in decades.
+<!-- Twelve-hundred exaFLOPS is a pretty small number, and likewise this is a pretty
+small server. -->
 
-Clearly, modern computer hardware is not designed for elegance. Massive scale is
+<!-- Clearly, modern computer hardware is not designed for elegance. Massive scale is
 the matter of importance left. A few hundred thousand cheap, low transistor
 count chips, with high heat tolerance is better than any single, precious,
 fragile, quadrillion transistor, _outrageously-large-scale_ integrated chip,
@@ -100,7 +103,8 @@ dozen square meters and the ceiling is short.
 
 **Working blurbs:**
 
-Best trope: character turns on lights, sees monster, turns lights off, walks away.
+Best trope: character turns on lights, sees monster, turns lights off, walks
+away.
 
 Hit LEFT RIGHT walls, CQC pistols
 
@@ -115,7 +119,7 @@ himself as a test for them)
 Model 49 is stolen by Habib, who runs a 24/7 hacking signal for really old cars
 to take them. It silences the beep of unlocking the vehicle.
 
-
+Tik Tok idea for ending scene.
 
 
 
