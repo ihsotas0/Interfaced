@@ -235,3 +235,24 @@ play again later)
 Double-signals can't overclock when using their abilities. DOUBLE-SIGNALS CAN'T
 NOT USE THEIR ABILITIES. Can't embed either.
 
+# 2025-02-06
+
+Fain consciousness --- When doing a routine activity, a person may believe,
+post-activity, that they were conscious do to their *immense* thoughts. These
+thoughts aren't real, however. They are simply residual brain activity randomly
+activating things.
+
+*Lenval Brown* is the narrator. Pauses at the italics.
+
+<https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthe-electric-crusaders-v0-82ifb3vqqfge1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dcd4386e166a1dabf05ff18990dff55c40c4521cd>
+
+
+## 2025-02-09
+
+WW1 / Korean War armistice treaty signing drama scene.
+
+## 2025-02-12
+
+Severance clones pointing. True Detective Travis pointing. Slowly pointing. A
+*non-real* peson.
+

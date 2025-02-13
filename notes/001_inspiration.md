@@ -4,7 +4,7 @@
 2. *Snow Crash* --- I found this book difficult to read, maybe because of my college
    work, but also because it had very *big* prose.
 3. Ten Days That Shock the World.
-4. *Disco Elysium* ---
+4. *Disco Elysium* --- Italics
 5. *Cyberpunk 2077* ---
 6. *Tau Zero* --- Specifically my favorite scene in the book. One of my favorite
    scenes in general. The scene where the workers do an EVA to fix the engines
@@ -13,6 +13,7 @@
    Universe.
 7. *Three Body Problem* (trilogy) ---
 8. *All Quite on the Western Front* (book and 2022 movie) ---
+9. *JoJo's Bizzare Adventure* ---
 
 
 
