@@ -65,10 +65,6 @@ excluding Manoj's throne. Anita sat uncomfortably upright, unconscious, by
 Manoj, in one of them. Elliot slid his boot off the cool concrete and let it
 hang by his other before hopping down onto the floor.
 
-""
-
-
-
 
 
 

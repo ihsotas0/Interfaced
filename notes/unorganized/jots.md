@@ -711,3 +711,10 @@ multi-lane roads, and they begin to stack themselves, no more than three or four
 layers though.
 
 “Our target’s little ‘incident’ ” -->
+
+Hand taps person's back, no one behind. Someone else sees the hand but the body
+is seemingly blocked behind the person being tapped.
+
+Trapped head screaming.
+
+
