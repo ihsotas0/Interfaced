@@ -5,6 +5,20 @@ analog photos are much harder to change
 
 Word so unpronounceable it is deadly.
 
+
+
+
+
+Program Space -> Ring Zero
+
+* Different levels of program space!!!!!!
+
+
+
+
+
+
+
 My method uses the concept of queerness as a conduit!
 
 Can't look hurt when shopping, lest the megacorp face rec price gouge me.
@@ -43,7 +57,7 @@ https://preview.redd.it/engines-rule-v0-3o2ftr1sbaud1.jpeg?auto=webp&s=d4ce09b52
 
 
 Zhihao created the Cipher.
-
+ 
 
 Sardines plane of Interfaced people
 

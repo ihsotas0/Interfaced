@@ -39,8 +39,10 @@ what the situation demanded of him.
 to three people: Manoj, Anita, and Elliot. Even the wireless modems got a taste
 of this speed (although nowhere was the latency more than one hundred
 milliseconds, thanks to advances in Internet infrastructure: the backbone of the
-Matrix). It was the best possible connection to the Matrix, but soon Elliot
-would be forced back on the wireless network.
+Matrix). The Cipher, unfortunately, adds around fifty milliseconds, but at a
+latency of near zero by the server, their connection to the local Kernel
+Userland servers is fairly fast. It was the best possible connection to the
+Matrix, but soon Elliot would be forced back on the wireless network.
 
 "Elliot!" The layered sounds of the utterance came to Elliot in delayed steps,
 one after the other, forming an alien, persistent thought in his mind, echoing
@@ -53,7 +55,7 @@ Manoj messaged what would be a rightward nod, if he were in front of Elliot, to
 Elliot over the same peer-to-peer connection. Some primitive reflex in Elliot's
 mind was enough to understand this synthetic, non-verbal, unreal communication.
 The connection was facilitated directly by the neural modems, so it makes sense
-that anything emulating the genius of the Adam Task's Signals --- like this
+that anything emulating the genius of the Adam Task's signals --- like this
 protocol --- would be so nebulous and unintuitive. But it made up for this, in
 the eyes of many, *because* it didn't connect to the Matrix.
 
@@ -65,11 +67,17 @@ excluding Manoj's throne. Anita sat uncomfortably upright, unconscious, by
 Manoj, in one of them. Elliot slid his boot off the cool concrete and let it
 hang by his other before hopping down onto the floor.
 
+Rafael and Habib stopped arguing when they noticed Elliot coming back to his
+senses. They both looked at him with immense longing before Rafael began to
+speak over Habib, both trying to ask the same question.
 
+"Pain, on or off?"
 
+"Wouldn't you like to know. Time to go?"
 
+Both men stood a bit bewildered, bulky backpacks behind them.
 
-
+Attack midday, white tactical outfits.
 
 
 
