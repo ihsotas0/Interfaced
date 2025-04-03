@@ -12,8 +12,10 @@
    silent and black. The motion of the ship is unapparent. They are alone in the
    Universe.
 7. *Three Body Problem* (trilogy) ---
-8. *All Quite on the Western Front* (book and 2022 movie) ---
+8. *All Quite on the Western Front* (book and 2022 movie) --- The book
 9. *JoJo's Bizzare Adventure* ---
+10. *Chainsaw Man*
+11. *Severance*
 
 
 

@@ -77,4 +77,6 @@ Credit card reader embedded in plane seat.
 
 Saccade.
 
+**FUCK THE DATA WAR.** It's holding me back and serves no purpose for the story.
+The Cipher still gets invented, but not to stop some *grand* war.
 
