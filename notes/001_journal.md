@@ -51,7 +51,7 @@ Digitized handwritten notes from February 2025:
   Matrix kills another person until they can defeat the (double-signal?) shooter
   over the Matrix.
 
-## 2025-03-07
+# 2025-03-07
 
 Life is that which uses energy to avoid reaching equilibrium with the universe.
 
@@ -61,13 +61,13 @@ same reason. **Humans are not life, for the same reason.**
 
 Aesthetics, a new Method? <https://www.instagram.com/reel/DGdo7lFN81z/?igsh=MTBlZjE4YzMxOA==>
 
-## 2025-03-10
+# 2025-03-10
 
 Methods are innate to Signals, which arise from Hosts. While it is the nature of
 the power of the Signal which determines the Method, without an Interface, the
 beauty of one's Method can never be found. Nature vs Nurture.
 
-## 2025-03-17
+# 2025-03-17
 
 Using multiple bifurcations, mind-states running in parallel, to distribute the
 harm to the mind while fighting in the Matrix. Clock-speed it limited, but less
@@ -79,4 +79,27 @@ Saccade.
 
 **FUCK THE DATA WAR.** It's holding me back and serves no purpose for the story.
 The Cipher still gets invented, but not to stop some *grand* war.
+
+# 2025-04-03
+
+Shit from Featherflight:
+
+- The Not: beyond even program space is the domain of the empty mind. It isn't.
+- Add Winchell Chung
+- Joke for Cobalt Saber: The only things still left in space are spy satellites
+  and a couple ludicrously expensive hotels with no more than a few rooms each.
+  All this technology on Earth, but the rich determined the absurdity of
+  "profiting" from asteroid mining and other ventures, so they never developed
+  space beyond their own personal pleasures. There is no McGuffinite for the
+  rich to go after, so it will stay this way until they have their own personal,
+  and not profitable (because "profitability" in space is simply absurd),
+  ambitions in space.
+  - "After 50 years, the first man is back in space. It's a billionaire!"
+
+# 2025-04-21
+
+Manoj's Method: Insufferable lag
+
+Elliot's Method: Connect Userland like a web
+
 
