@@ -59,7 +59,8 @@ Fire uses energy to reach equilibrium, to remove the energy with no goal of
 avoiding equilibrium for the maximum time possible. Cancer is not life, for the
 same reason. **Humans are not life, for the same reason.**
 
-Aesthetics, a new Method? <https://www.instagram.com/reel/DGdo7lFN81z/?igsh=MTBlZjE4YzMxOA==>
+Aesthetics, a new Method?
+<https://www.instagram.com/reel/DGdo7lFN81z/?igsh=MTBlZjE4YzMxOA==>
 
 # 2025-03-10
 
@@ -101,5 +102,29 @@ Shit from Featherflight:
 Manoj's Method: Insufferable lag
 
 Elliot's Method: Connect Userland like a web
+
+# 2025-04-26
+
+The Signal is the sensory and physical manipulation section of the brain,
+simulated by the Matrix, created by the Adam Task. It is unique to each
+individual Host. Some individuals have *unusual* Hosts, leading to the formation
+of Methods, which are unique implementations of the Signal function which grant
+the user special powers.
+
+These powers match the user's personality for two reasons:
+
+1. *Narrative.* If the personality matches the power, then when the character
+   uses their power, their personality can be elaborated upon and their usage
+   can be used to highlight more about there character.
+2. *Worldbuilding.* The Signals are a reflection of the user's mind on the
+   Matrix and thus "share" the same personality. Because of these, the
+   aberration in a normal Signal caused by unusual people match their
+   personality through the Signal.
+
+# 2025-04-27
+
+Method: Keeps Signals at set distance from each other.
+
+
 
 

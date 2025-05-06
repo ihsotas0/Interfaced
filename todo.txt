@@ -1,0 +1,3 @@
+(A) 2025-04-29 Organize @archive into fewer files
+(B) 2025-04-29 Copy @archive content to new notes
+2025-04-29 Make capitalization of "Signal" and "Host" consistent

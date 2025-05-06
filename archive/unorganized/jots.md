@@ -266,8 +266,8 @@ Every time you disconnect, your signal is obliterated by the Garbage Collector.
 
 
 
-- In my mind, the fake senerios where I talk with fake versions of people are in
-  reality the most substantial form of communication with yourself, devoid of
+- In my mind, the fake scenarios where I talk with fake versions of people are
+  in reality the most substantial form of communication with yourself, devoid of
   the conscious awareness of your inner monologue.
 - The Traveler is the universal intelligence. It evolves in time, where not in
   space, and space, where not in time. It permeates space and time, as the

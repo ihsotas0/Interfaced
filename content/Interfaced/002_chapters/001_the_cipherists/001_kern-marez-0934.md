@@ -55,7 +55,7 @@ Manoj messaged what would be a rightward nod, if he were in front of Elliot, to
 Elliot over the same peer-to-peer connection. Some primitive reflex in Elliot's
 mind was enough to understand this synthetic, non-verbal, unreal communication.
 The connection was facilitated directly by the neural modems, so it makes sense
-that anything emulating the genius of the Adam Task's signals --- like this
+that anything emulating the genius of the Adam Task's Signals --- like this
 protocol --- would be so nebulous and unintuitive. But it made up for this, in
 the eyes of many, *because* it didn't connect to the Matrix.
 

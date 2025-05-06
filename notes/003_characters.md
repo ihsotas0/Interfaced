@@ -6,15 +6,15 @@ ages are written as they were at time of death. Interfaced characters are
 denoted with an *In.* abbreviation, embeds with *Em.*, AC's with *AC.*, and
 double-signals with *DS.*
 
-# Major (in order of importance)
+# Major (in order of importance and by group)
 
-1. **DS. Elliot Fetterman.** *The Cipherists.* (2046--, 24).
+1. **DS. Elliot Fetterman.** *The Cipherists.* (2046--, 24). Method: Web.
 2. **Rafael Bosak.** *The Cipherists.* (2040--, 30).
 3. **Habib Khalil.** *The Cipherists.* (2045, 28).
-4. **In. Aleks Bosak.** *The Cipherists.* (2041--2070, 25:40, KIA).
-5. **In. Manoj.** *The Cipherists.* (2050, 20:24).
-6. **In. Anita.** *The Cipherists.* (2051, 19:20).
-7. **In. Mark Mullens.** *Tachi-Odyne (megacorp).*
+4. **In. Aleks Bosak.** *The Cipherists.* (2041--2070, 25:40, KIA). Method: Space.
+5. **In. Manoj.** *The Cipherists.* (2050, 20:24). Method: Lag.
+6. **In. Anita.** *The Cipherists.* (2051, 19:20). Method: Information.
+7. **In. Mark Mullens.** *Tachi-Odyne (megacorp).* Method: The Line.
 8. **DS. Alexandr Matveev.** *Tachi-Odyne (megacorp).*
 9. **In. Kerensky.** *Tachi-Odyne (megacorp).*
 10. **Em. Chae-Yeong.** *Tachi-Odyne (megacorp).*
@@ -27,7 +27,8 @@ double-signals with *DS.*
 17. **Nirmala Bulan.** *The Trash.*
 18. **AC. The Traveler/Data Eater/?.** *CDO.*
 19. **ihsotas.** *CDO.*
-20. **DS. Dai Zhihao.** *CDO.*
+20. **DS. Dai Zhihao.** *CDO.* Method: The Comb. Can comb strings of matter,
+    energy, fields, light, etc.
 21. **DS. Tao Lei.** *CDO.*
 22. **Lewis Rodney.** *CDO.*
 23. **In. Guiying Yan.** *CDO.*
