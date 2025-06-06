@@ -51,7 +51,7 @@ Digitized handwritten notes from February 2025:
   Matrix kills another person until they can defeat the (double-signal?) shooter
   over the Matrix.
 
-# 2025-03-07
+## 2025-03-07
 
 Life is that which uses energy to avoid reaching equilibrium with the universe.
 
@@ -59,16 +59,15 @@ Fire uses energy to reach equilibrium, to remove the energy with no goal of
 avoiding equilibrium for the maximum time possible. Cancer is not life, for the
 same reason. **Humans are not life, for the same reason.**
 
-Aesthetics, a new Method?
-<https://www.instagram.com/reel/DGdo7lFN81z/?igsh=MTBlZjE4YzMxOA==>
+Aesthetics, a new Method? <https://www.instagram.com/reel/DGdo7lFN81z/?igsh=MTBlZjE4YzMxOA==>
 
-# 2025-03-10
+## 2025-03-10
 
 Methods are innate to Signals, which arise from Hosts. While it is the nature of
 the power of the Signal which determines the Method, without an Interface, the
 beauty of one's Method can never be found. Nature vs Nurture.
 
-# 2025-03-17
+## 2025-03-17
 
 Using multiple bifurcations, mind-states running in parallel, to distribute the
 harm to the mind while fighting in the Matrix. Clock-speed it limited, but less
@@ -81,90 +80,4 @@ Saccade.
 **FUCK THE DATA WAR.** It's holding me back and serves no purpose for the story.
 The Cipher still gets invented, but not to stop some *grand* war.
 
-# 2025-04-03
-
-Shit from Featherflight:
-
-- The Not: beyond even program space is the domain of the empty mind. It isn't.
-- Add Winchell Chung
-- Joke for Cobalt Saber: The only things still left in space are spy satellites
-  and a couple ludicrously expensive hotels with no more than a few rooms each.
-  All this technology on Earth, but the rich determined the absurdity of
-  "profiting" from asteroid mining and other ventures, so they never developed
-  space beyond their own personal pleasures. There is no McGuffinite for the
-  rich to go after, so it will stay this way until they have their own personal,
-  and not profitable (because "profitability" in space is simply absurd),
-  ambitions in space.
-  - "After 50 years, the first man is back in space. It's a billionaire!"
-
-# 2025-04-21
-
-Manoj's Method: Insufferable lag
-
-Elliot's Method: Connect Userland like a web
-
-# 2025-04-26
-
-The Signal is the sensory and physical manipulation section of the brain,
-simulated by the Matrix, created by the Adam Task. It is unique to each
-individual Host. Some individuals have *unusual* Hosts, leading to the formation
-of Methods, which are unique implementations of the Signal function which grant
-the user special powers.
-
-These powers match the user's personality for two reasons:
-
-1. *Narrative.* If the personality matches the power, then when the character
-   uses their power, their personality can be elaborated upon and their usage
-   can be used to highlight more about there character.
-2. *Worldbuilding.* The Signals are a reflection of the user's mind on the
-   Matrix and thus "share" the same personality. Because of these, the
-   aberration in a normal Signal caused by unusual people match their
-   personality through the Signal.
-
-# 2025-04-27
-
-Method: Keeps Signals at set distance from each other.
-
-# 2025-05-13
-
-<https://mastodon.social/@mcc/114503349859051674>
-
-> Tech cultists believe a future supercomputer could effectively "resurrect" you
-> by analyzing your online footprint until they reverse engineer a connecteome
-> that would have generated those exact posts under those exact circumstances.
->
-> There are multiple philosophical errors here but *if* that were true then as a
-> logical consequence, good opsec would demand you develop at least one kink that
-> you never disclose in public. Thus ensuring any model thus generated would never
-> actually be you
-
-May 14, 2025, 12:27 AM
-
-<https://en.wikipedia.org/wiki/Connectome>
-
-# 2025-05-29
-
-*Shared dreams.* Before even the most basic Matrix protocols, the only
-**mental-world (find better word)** that existed was the dreamworld. So early
-Interface pioneers connected dreams into one.
-
-"The soldiers dream together ever night. I know it's old technology, but..."
-
-# 2025-06-01
-
-Foam method
-
-Tik too swipe method: freezes vision in place, allows movement
-
-Dream manipulation came first because no reality had to be created, as it was
-already created in the subject's minds. Dreams: one reality. The Matrix: two
-realities. Thus, dream manipulation is easier than makinng the Matrix.
-
-**The inciting incident:**
-
-A group of mercenaries is hired by an eccentric young son-of-a-billionaire to
-uncover the identity of ihsotas, the creator of the Adam Task, and heist the
-second-largest pool of computation in the world (the Adam Task's fee). The
-biggest pool of computation in the world is the Adam Task itself.
-
-
+Portia name

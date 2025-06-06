@@ -150,21 +150,8 @@ Interface pioneers connected dreams into one.
 
 "The soldiers dream together ever night. I know it's old technology, but..."
 
-# 2025-06-01
+# 2025-05-31
 
-Foam method
-
-Tik too swipe method: freezes vision in place, allows movement
-
-Dream manipulation came first because no reality had to be created, as it was
-already created in the subject's minds. Dreams: one reality. The Matrix: two
-realities. Thus, dream manipulation is easier than makinng the Matrix.
-
-**The inciting incident:**
-
-A group of mercenaries is hired by an eccentric young son-of-a-billionaire to
-uncover the identity of ihsotas, the creator of the Adam Task, and heist the
-second-largest pool of computation in the world (the Adam Task's fee). The
-biggest pool of computation in the world is the Adam Task itself.
+Universal Fabricator: Dozens of snake-like arms with hundreds of devices.
 
 
