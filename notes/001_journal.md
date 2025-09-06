@@ -167,4 +167,39 @@ uncover the identity of ihsotas, the creator of the Adam Task, and heist the
 second-largest pool of computation in the world (the Adam Task's fee). The
 biggest pool of computation in the world is the Adam Task itself.
 
+# 2025-07-21
+
+Entry to the Ardara is restricted to those 20 and over. Age is checked by a with
+a cell age checker that, when pressed to the skin, examines the person's DNA to
+determine their age and collect data on visitors.
+
+# 2025-08-06
+
+Only XX millimeters separate your aorta from the universe, and that goes for
+your life too.
+
+# 2025-09-06
+
+Stuff from random paper notes:
+
+- 1000 year old embeds storing memories in secondary storage --- it's not a part
+  of them --- memories become recordings, but what else is there to do?
+- $30 million tuna heist in the future
+- Vishnue "cosmic" still reflecting water in Matrix
+- Throw violin ($200k) at wall after string breaks in high stakes
+  comp./something for new violin
+- Interfance -> mortgage from birth -> "own" your Interfaced -> massive debt
+- Elliot doesn't like Matrix "The Orgy" server -> thinks he should: personality
+- De-interfacing kills those who can't pay debt
+- Manoj in overclocked local space possible because he is hacked into
+  kern-marez-0934 by a physical cable to use compute -> foreshadows inciting
+  incident -> local-space is free of network fee of ihsotas
+- Spread plot of OG ch. 1 idea over 2-3 chapters
+- Trashman HQ underwater in sewage. Enter by diving through sewage. Masked radio
+  w/ normal traffic in sewer's space. Smell hides the secret base.
+  Torture/drowning/execution in the sewage in "garbage compacter" thing.
+- Smell-based method.
+
+
+
 
