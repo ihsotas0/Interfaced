@@ -200,6 +200,19 @@ Stuff from random paper notes:
   Torture/drowning/execution in the sewage in "garbage compacter" thing.
 - Smell-based method.
 
+Mice quotient:
 
+Milieu
+
+Inquiry
+
+Character
+
+Event
+
+# 2025-09-13
+
+When you scroll up on a feed of some kind to remember what you were thinking
+about; cyberpunk analog/reference.
 
 
