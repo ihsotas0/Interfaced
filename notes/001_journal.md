@@ -215,4 +215,27 @@ Event
 When you scroll up on a feed of some kind to remember what you were thinking
 about; cyberpunk analog/reference.
 
+# 2025-09-27
+
+The Flaberjackles are scent experts; they identify a digital scent, recreate it
+in lab, smell it in real world, and then identify it. Human nose is still better
+than what any signal can emulate.
+
+
+# 2025-12-20
+
+Overclocking inspired pickerism
+
+The 1 second teleology inspired great haroldism.
+
+Great Harold -> Teleology
+
+A 1 second teleology was glitch by Interface?
+
+Teleology = non instant conscience.
+
+# 2026-01-16
+
+Dust blown in face in Matrix to disconnect double-signal Elliot.
+
 
