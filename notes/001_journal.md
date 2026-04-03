@@ -238,4 +238,21 @@ Teleology = non instant conscience.
 
 Dust blown in face in Matrix to disconnect double-signal Elliot.
 
+# 2026-01-24
+
+Marooned in the Matrix. Past the Border
+
+# 2026-04-02
+
+(Random sticky notes.)
+
+Human signals can't go beyond 3D, brain can't adapt to a lot, but 4D is too big a jump. AI can adjust because it can completely reorganize neurons, learn things quickly, adjust at the speed of a computer and not a neuron. AI can change quickly, digital. Humans are compact and perfect for human things, but aren't digital. Can they become digital?
+
+Automated biomedical lab for mass research remotely + dangerous research. KernBio Hack?
+
+"Their Signal was extrapolated from ___." Red Rising-style education for babies but in Matrix w/o Interface.
+
+Elliot overlooks 100k ML7 racks made by ___. Hardware megacorp?
+
+
 
