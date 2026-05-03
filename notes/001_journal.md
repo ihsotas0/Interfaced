@@ -254,5 +254,17 @@ Automated biomedical lab for mass research remotely + dangerous research. KernBi
 
 Elliot overlooks 100k ML7 racks made by ___. Hardware megacorp?
 
+# 2026-04-12
 
+The Cipher works by switching what Signal a host uses, and then by chaning the Signal's avatar to something random (which takes getting used to by the Cipher user).
 
+Lets say there are 1000 Signals and 1000 Hosts. Each Host has exactly one Signal it generates. Each host on the network has exactly one other Signal that is the inverse of its Signal. Hosts connect to their inverse Signals, invert the I/O, and can use the new Signal.
+
+# 2024-05-02
+
+From sticky notes:
+
+- NuPolymer
+- "The place smelled like burnt plastic. Hot air escaping through narrow gaps in the servers container, melting washers."
+- Lost Child Arc: Rafael lost walking. PhD in Interface Science. Connected w/o limit -> 4-5 yrs, pseudo-fried, only survivor.
+- Party/formal event interrupted by very long chaos 4-5 chapters.
