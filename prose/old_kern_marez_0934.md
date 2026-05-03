@@ -1,5 +1,3 @@
-# The Cipherists
-
 The server room Elliot Fetterman overlooked was red-hot, the dry air perturbed
 by the heat, no light other than the glow of near molten radiators. The entire
 computing array was sunken down into the ground, slightly; his view of it
@@ -71,100 +69,11 @@ Rafael and Habib stopped arguing when they noticed Elliot coming back to his
 senses. They both looked at him with immense longing before Rafael began to
 speak over Habib, both trying to ask the same question.
 
-"Pain, on or off?"
+<!-- "Pain, on or off?"
 
 "Wouldn't you like to know. Time to go?"
 
 Both men stood a bit bewildered, bulky backpacks behind them.
 
-Attack midday, white tactical outfits.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Attack midday, white tactical outfits. -->
 
