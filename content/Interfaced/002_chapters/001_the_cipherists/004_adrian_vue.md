@@ -1,1 +1,0 @@
-Like those satisfying Tik Toks where they cut the foam and it unfearls.

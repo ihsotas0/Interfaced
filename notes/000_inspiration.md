@@ -13,9 +13,10 @@
    Universe.
 7. *Three Body Problem* (trilogy) ---
 8. *All Quite on the Western Front* (book and 2022 movie) --- The book
-9. *JoJo's Bizzare Adventure* ---
+9. *JoJo's Bizarre Adventure* ---
 10. *Chainsaw Man*
 11. *Severance*
+12. *Red Rising (Series)*
 
 
 

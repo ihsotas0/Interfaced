@@ -1,8 +1,0 @@
-# America
-
-## Los Angeles
-
-## Seattle
-
-
-
