@@ -22,35 +22,9 @@ last commit)
 ## Organization
 
 ```
-archive/            <--- Old files; not organized well
-content/            <--- Raw source markdown of drafts/
-├── Interfaced/            <--- Capitalized for build.sh
-│   ├── 001_front_matter/
-│   │   ├── 001_metadata.yml
-│   │   ├── 002_title.md
-│   │   ├── 003_copyright.md
-│   │   ├── 004_dedication.md
-│   │   └── front_cover.png
-│   ├── 002_chapters/            <--- Table of contents generated here
-│   │   ├── 001_chapter_name/
-│   │   │   ├── 001_scene_name.md
-│   │   │   ├── wip_002_scene_name.md
-│   │   │   └── wip_003_scene_name.md
-│   │   ├── 002_chapter/
-│   │   └── wip_003_chapter/
-│   ├── 003_back_matter/
-│   │   ├── 001_afterword.md
-│   │   ├── 002_author.md
-│   │   └── back_cover.png
-│   ├── spine_cover.png
-│   └── wip_misc.md
-├── Book_Two/
-└── Book_Three/
-drafts/            <--- Compiled content/ files for viewing
-├── sffms/
-│   └── JonahSpector_Interfaced_2025-01-01.pdf
-└── JonahSpector_Interfaced_2025-01-01.epub
-notes/             <--- Organized using dot hierarchy (topic.subtopic.subsubtopic.md)
+archive/            <--- Old files; organized somewhat well
+drafts/             <--- Main "Interfaced" novel
+notes/             <--- Various markdown notes, charts and plots, and Python
 prose/             <--- Misc snippets of prose, free writing sessions
 style/             <--- Stylesheets for EPUB and PDF pandoc output to drafts/
 .gitignore
