@@ -35,4 +35,15 @@ of the Free World can only theorize as to the inner workings of the American
 State. Only the dictator of the American State and a few high ranking officials
 have ever communicated with the Free World.
 
+## May 9, 2026
 
+Billionaires are already ready to leave Earth with rockets once Kessler syndrome
+is gone. Only a few decades before they abandon Earth. Because of this, no one
+cases about Earth, but some rare rich and poor do, not the Markets or the
+American State. New Eastern Bloc cares?
+
+American State (Fascist), Euro-Afro-Arab Markets w/ Australia (Hypercapitalist),
+New Eastern Bloc (Dengism), and some other nations like Japan, Pacific Islands,
+etc. not being integrated into the new world order.
+
+There are Blanks, which provide AC synthetic organic human bodies.
