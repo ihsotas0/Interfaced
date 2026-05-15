@@ -71,3 +71,37 @@ concerning. Spy satellites above LEO struggle to gather intelligence through the
 massive interference of the maelstrom and counter-technology (expand on
 realistic reason for spy satellites to not work, so American State can be scary
 and mysterious).
+
+Jordan Hayes is 50 years old, the Data War (find better name, Alexander still
+fought in it and left Rafael without a brother all those years ago) is 30 years
+old. The Traveler arrived right before the Data War. The Data War, instigated by
+someone (who?), was a cover to destroy the Traveler before it could submit. It
+was actually cased by the Traveler to kill humanity and transmit itself on its
+massive American State radios. Unknown heros, who discovered the horrendous
+truth, in desperation caused the Kessler syndrome. Millions of small, remote
+mines in orbit (hacked by heros) built by the Traveler to cause mayhem on the
+group lit up its only path to the stars. They jam all signals from leaving the
+Earth, and almost all ships. (None the Traveler can gain access to). ihsotas =
+girl. Traveler = girl. "She." 
+
+Jordan Hayes is the richest person in the world given access to infinite data
+and the earliest overclocking to outpace all competitors and rise to the top of
+the Markets.
+
+Messages from the sailors of the Void, who escaped the Traveler, bring Pickerism
+to far reaches of solar system (why?). Or they communicate something else with
+the outlanders. IDK.
+
+The Traveler hides behind the cover of the American State (its creation?). We
+are ants to it. As we rid the world of pests, it rids the universe of all but
+itself. It is the what the Pickerisms thought was the Transcendentialists' War.
+It eats billions of civilizations every second and spreads. It is the greatest
+evil of the universe. 
+
+Two plot lines: Alexander and the War. Elliot and the Traveler.
+
+The American State vs. the Markets vs. the Free Nations vs. etc. is the Data
+War.
+
+
+
