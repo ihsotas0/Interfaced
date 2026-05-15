@@ -47,3 +47,27 @@ New Eastern Bloc (Dengism), and some other nations like Japan, Pacific Islands,
 etc. not being integrated into the new world order.
 
 There are Blanks, which provide AC synthetic organic human bodies.
+
+## May 14, 2026
+
+Elliot wakes up on a spaceship rocketing through the LEO Kessler maelstrom in a
+Puncher. (I need to work on more space stories and cultures for Interfaced.)
+
+"I am ripped into the nylon straps of some hard metal seat. The room vibrates
+and then slams me in the chest the weight of ten elephants, kicking me in the
+ass, in the back of the head. I vomit and it quickly finds a landing site on my
+face as gravity inverts for a few milliseconds. The noise is unbearable. A small
+viewport the size of my thumb and the length of a football shows sparks outside
+the capsule. Objects the size of eggs push meters into the reinforced hull,
+denting the canvas lining of the capsule."
+
+Punchers and special, very expansive ships build to punch through the debris
+maelstrom of LEO. Not enough cargo capacity exists to ferry the thousands of
+stranded spacemen beyond LEO on the Moon, Mars, the Astroid Belt, and beyond
+back to Earth. Many spacemen died of starvation shortly after the war that
+caused the Kessler syndrome, but some self-sufficient colonies survived.
+Populations dwindle after 30 years of isolation; babies are rare and genetically
+concerning. Spy satellites above LEO struggle to gather intelligence through the
+massive interference of the maelstrom and counter-technology (expand on
+realistic reason for spy satellites to not work, so American State can be scary
+and mysterious).
