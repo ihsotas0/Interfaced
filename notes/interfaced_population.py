@@ -58,9 +58,10 @@ def plot_func_comparison(ax, x, funcs, title="Interfacing Rate"):
         color = colors[i % len(colors)]
         ax.plot(x, y, color=color, label=name)
 
-    # Axis formatting
     ax.set_xlabel("Year")
-    ax.set_ylabel("Normalized Rate",)
+    ax.set_ylabel(
+        "Normalized Rate",
+    )
     ax.set_title(title)
     ax.legend()
     ax.grid(True, linestyle="--", alpha=0.5)
@@ -70,26 +71,59 @@ def plot_func_comparison(ax, x, funcs, title="Interfacing Rate"):
 
 
 def create_plot(population_table):
-    fig, (ax1, ax3) = plt.subplots(1, 2, figsize=(16, 8))
+    fig, (ax1, ax2, ax3) = plt.subplots(1, 3, figsize=(16, 8))
 
     x = population_table[COLUMNS[0]][2050 - 1950 :]
 
-    _, ax3 = plot_func_comparison(ax3, x - 2050, FUNCS)
+    # _, ax3 = plot_func_comparison(ax3, x - 2050, FUNCS)
+
+    color = "tab:green"
+
+    y = FUNCS["Logarithmic"](x - 2050)
+    interfaced_births = y * population_table[COLUMNS[3]][2050 - 1950 :]
+    # Ignores death rate and War
+    interfaced_population = np.cumsum(interfaced_births)
+
+    ax3.plot(x, y, color=color)
+    ax3.set_xlabel("Year")
+    ax3.set_ylabel(
+        "Normalized Rate",
+    )
+    ax3.set_title("Interfacing Rate")
+    ax3.grid(True, linestyle="--", alpha=0.5)
+    ax3.tick_params(axis="both", which="major")
+
+    color = "tab:blue"
+    ax2.set_xlabel("Year")
+    ax2.set_title("Births vs Time")
+    ax2.set_ylabel("Births (thousands)")
+    ax2.plot(
+        x,
+        population_table[COLUMNS[3]][2050 - 1950 :],
+        color=color,
+        label="Total Births",
+    )
+    color = "tab:orange"
+    ax2.plot(x, interfaced_births, color=color, label="Interfaced Births")
+    ax2.legend()
+    ax2.grid(True, linestyle="--", alpha=0.5)
 
     color = "tab:red"
     ax1.set_xlabel("Year")
     ax1.set_title("Interfaced and General Population vs Time")
-    ax1.set_ylabel("Population (millions)", color=color)
-    ax1.plot(x, population_table[COLUMNS[2]][2050 - 1950 :] / 1000, color=color)
-    ax1.tick_params(axis="y", labelcolor=color)
+    ax1.set_ylabel("Population (millions)")
+    ax1.plot(
+        x,
+        population_table[COLUMNS[2]][2050 - 1950 :] / 1000,
+        color=color,
+        label="Total Population",
+    )
+    color = "tab:purple"
+    ax1.plot(
+        x, interfaced_population / 1000, color=color, label="Interfaced Population"
+    )
+    ax1.legend()
     ax1.grid(True, linestyle="--", alpha=0.5)
-
-    ax2 = ax1.twinx()
-
-    color = "tab:blue"
-    ax2.set_ylabel("Births (thousands)", color=color)
-    ax2.plot(x, population_table[COLUMNS[3]][2050 - 1950 :], color=color)
-    ax2.tick_params(axis="y", labelcolor=color)
 
     fig.tight_layout()
 
