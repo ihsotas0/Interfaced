@@ -1,3 +1,9 @@
+# NixOS
+*.nix
+
+# For safety
+*.pkl
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
