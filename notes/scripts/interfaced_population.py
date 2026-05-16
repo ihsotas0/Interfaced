@@ -6,8 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
-PATH_STR = "./data/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx"
-CACHE_STR = "./data/cache.pkl"
+PATH_STR = "../data/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx"
+CACHE_STR = "../data/cache.pkl"
 
 WAR_DEATHRATE = np.array([0.1, 0.1, 0.05])
 
