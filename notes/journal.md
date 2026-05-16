@@ -103,5 +103,8 @@ Two plot lines: Alexander and the War. Elliot and the Traveler.
 The American State vs. the Markets vs. the Free Nations vs. etc. is the Data
 War.
 
+# May 16, 2026
+
+War created by Traveler, Cipher created by humans.
 
 
