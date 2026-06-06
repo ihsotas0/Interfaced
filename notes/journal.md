@@ -225,6 +225,9 @@ Metaphor for AI: The Oracle presenting Yaqut with Pickerism. Pickerism also
 the Traveler. Future Jonah: Why is this a metaphor for AI? What was I talking
 about?
 
+Future Jonah again: This is metaphor for AI because people believed the
+hallucination of a quantum computer's Orcale, like a ChatGPT hallucination.
+
 Stars blast out their energy, increase in entropy. This is rotting food to
 Traveler.
 
@@ -300,4 +303,76 @@ that chance that we'll survive this by treating ourselves. You must do this for
 humanity, Elliot."
 
 ihsotas is the receptor that mundivirus binds too.
+
+## June 1, 2026
+
+Proxy from personal hosted Rack to other Userland servers in Matrix. Methods
+only work in raw Program Space.
+
+Mark Mullens Method (Office Space): Prevents all people in proximity from
+disconnecting from Program Space. He uses this to trap Alexander and his
+soldiers and crush them in a big "twist" reveal of his power. He baits
+Alexanders entire army out to him as if they could easily disconnect and delete
+their Signals to reload at their datastream.
+
+You can have a frozen Signal (staySignal?) in Program Space, like a creepy
+frozen robot, and connect to Userland in mean time. Once in Program Space, the
+only way out is to disconnect or die. Then, if not dead, you can reconnect to
+Program Space or use regular Userland Signals/avatars. Frozen Signal can be
+hacked and run at great expense as severed Signal for interrogation, so they are
+guarded by connected Signals in Program Space against enemy infiltrators.
+
+Frozen double Signals: ???
+
+Datastreams are rate limited from ferrying too much datafreight. It is imposed
+by codebreaking power. The datafreight that is let in is measured empirically by
+units (found by researchers using test datastreams). A large datacenter can
+break maybe 1200 units per hour. To have a Signal cross a datastream takes 1-5
+units dependent on the chosen size of the avatar and other features. A gun is 5
+units, a tank 1000 units, etc.
+
+These unit prices are set by the Traveler to maximize the number of deaths that
+occur during the war?
+
+DRM is issue for freelancers in Program Space and beyond, but not militaries
+with direct access where the only issue is the rate limit.
+
+**Method** to trap you in conversation without yourself.
+
+Program Space is the free RAM left between Userland servers on the Adam Task. It
+is filled so all possible computation is utilized (max out fee, metaphor for
+misuse of tokens by realworld corpos).
+
+## June 2, 2026
+
+As the Cipher tangles people to prevent war, the Adam Task prevents war in the
+real world (distributed computing). The bulk of the computation used to bring
+about the Matrix is dedicated to the Adam Task (with like 10% going being taken
+as fee by mundivirus). This computation is done by massive public works and
+jointly owned datacenters beyond the scale possible by any one corporation. On
+the other hand, some corpo datacenters mine like mining Bitcoin to open
+datastreams into program space to capture common Adam Task RAM. Liminal space
+between Userland servers and Program Space bridged by datastreams opened by
+brute force codecracking, relent on available servers off Adam Task.
+
+> "So it is agreed? Shall we shake?" I eye Mullens and his troops. Without a
+> word, his expression unreadable, Mullens grabs my outstretched hand and shakes
+> it. "We'll be off then. I'll see you in the mud."
+
+> He releases my grip and I back a few steps. My soldiers all close their eyes
+> in focus. I join. My mind empties. There is nothing, I am nothing, the sound
+> disappears, I feel my body return, the sweat on my forehead in both worlds.
+> But nothing happens. I'm stuck, something keeps me from my laying body, like a
+> net. I'm caught. I can't open my eyes. I gasp for air but no rush enters my
+> lungs. I reel back with the force of a car and the feeling of whiplash. I can
+> open my eyes, but why am I still standing? Why do I smell blood.
+
+> I open my eyes to see the wide drawn smile of my enemy and a gun pressed to my
+> back. I look to the right and see my company standing in meditation. Only half
+> are dead, and the other half being shot as I speak. I reach for my pistol but
+> grab empty leather.
+
+
+
+
 
