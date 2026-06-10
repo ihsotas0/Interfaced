@@ -309,7 +309,7 @@ ihsotas is the receptor that mundivirus binds too.
 Proxy from personal hosted Rack to other Userland servers in Matrix. Methods
 only work in raw Program Space.
 
-Mark Mullens Method (Office Space): Prevents all people in proximity from
+Mark Mullens Method (Strangelove): Prevents all people in proximity from
 disconnecting from Program Space. He uses this to trap Alexander and his
 soldiers and crush them in a big "twist" reveal of his power. He baits
 Alexanders entire army out to him as if they could easily disconnect and delete
@@ -372,6 +372,39 @@ brute force codecracking, relent on available servers off Adam Task.
 > are dead, and the other half being shot as I speak. I reach for my pistol but
 > grab empty leather.
 
+## June 6, 2026
+
+"Unprecedented imperial conquest by the New American State"
+
+## June 8, 2026
+
+When a frozen Signal is left in Program Space (the avatar body of a dead host)
+it is cleaned by the Garbage Collector and deleted to prevent excess memory
+usage. Reanimating the "body" is what a severed Signal is. It really is the
+person, their mind, their conscientious (as far as anyone can tell) for about
+30-45 minutes. Then it loses coherence, conscientiousness, and blinks out of
+existence. Its Signal shows evidence of its lack of host, and gets caught by the
+Garbage Collector. The Garbage Collector is force enabled in Program Space, but
+optional in Userland. This allows the frozen Signals to be collected and stored
+on Userland servers (with each taking the slot of a normal living Signal).
+Severed Signals run in Userland can be run for 30-45 minutes before they lose
+everything that makes them human.
+
+A Signal's chosen avatar transferred to PS takes a certain number of units
+exponentially related to its size, strength, body, etc. Many Severed and
+traditional spec ops are outfitted with the most expense avatars, equivalent to
+entire companies or dozens of tanks. Super soldiers, 8 feet tall muscled
+monsters. When they know they have 45 minutes to live, Severed are all the more
+dangerous in Program Space.
+
+Collecting frozen Signals from Program Space before the Garbage Collector gets
+them takes enormous computation, making it only worth it for the best soldiers.
+A frozen Signal is removed by the Garbage Collector a few days after its Host is
+killed. In those few days, if it is transited back to Userland, it can be made
+Severed. This transit requires a one-time datastream back to Userland (more
+difficult to compute than forward datastream). Normally, the only thing that can
+leave Program Space is human Hosts by disconnecting and freezing their Signals
+while they do something in the real world or visit Userland with another Signal.
 
 
 

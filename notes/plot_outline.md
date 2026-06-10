@@ -1,7 +1,5 @@
 # Interfaced
 
-POVs: The Cipherists (2100), The Datists (2070), Tachi-Odyne (2070), ihsotas (before 2050)
-
 ## Part 1
 
 ### Chapter 1 (The Cipherists)
@@ -11,7 +9,7 @@ server (kern-marez-0934). Manoj interrupts him over an ancient p2p communication
 link to look at the other two boys arguing, and to notify him that it's time to
 start the operation. Rafael and Habib argue about Datism, with Habib taking a
 hardline stance and Rafael a moderate one. Elliot is "beyond" this, a cynic, and
-shuts down the two ideologues. Ana works on something in the Matrix. Elliot,
+shuts down the two ideologues. Anita works on something in the Matrix. Elliot,
 Habib, and Rafael walk out the maintenance tunnels to a manhole cover and exit
 to start their operation.
 

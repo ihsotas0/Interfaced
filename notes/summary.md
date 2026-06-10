@@ -1,13 +1,10 @@
 # Interfaced, Novel Summary
 
-Time: 2050 to 2100.
+Time: 2049 to 2100.
 
-Places
+POVs: The Cipherists, The Datists, Tachi-Odyne, ihsotas
 
-
-POVs: The Cipherists (2100), The Datists (2070), Tachi-Odyne, ihsotas
-
-
+Characters:
 
 
 
