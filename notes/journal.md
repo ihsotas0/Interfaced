@@ -406,6 +406,106 @@ difficult to compute than forward datastream). Normally, the only thing that can
 leave Program Space is human Hosts by disconnecting and freezing their Signals
 while they do something in the real world or visit Userland with another Signal.
 
+Rafael is twin of Alex, or at least adult during Data War.
+
+Crowd dynamicist character. The "mob". Fits collectivist ideas.
+
+"If you can't explain something without a metaphor, it isn't true."
+
+<https://www.youtube.com/watch?v=pVAmZGCvIRM>
+
+## June 12, 2026
+
+To trick reader, Cipher starts by making war worse with crimes against
+civilians. 'But the Cipherists in the future plotline say it ends war? Why is it
+getting worse?' Then, have reveal of some new idea regarding using the Cipher to
+end the war at climax?
+
+Mark tricking Alex results in loss of Datist datastream to enemy. Remaining army
+must move without ability to respawn if frozen Signal destroyed. 100 mile trek
+through jungles. Loss of territory in Program Space and thus Userland.
+
+Mundivirus is a infection still in incubation during the story until Cipherist
+plotline. It didn't make Adam Task to kill humans, just extract the Fee so it
+can run faster. The war is humanity's own creation. It may be blamed on
+mundivirus, but it was caused by capitalism, imperialism, class struggle; the
+classic motivations. **(Fix Program Space rules for datastreams; rule of
+cool?)** Mundivirus needs to develop secret industry to build galaxy-wide
+transmitter, this is new ITP in South America after Kessler syndrome vaccine
+from Void (which was ineffective on the current strain of mundivirus from an
+older infection of some other star). The orbital ITP destroyed in 2072 during
+nuclear phase of Data War would have been complete around 2080 (started 2068).
+If it were completed in 2080, mundivirus would begin phase 2 of killing humans
+to build Dyson sphere.
+
+Getting the transmitter running within the first few decades of infection is
+phase 1. Then, phase 2, the destruction of the remaining wasteful life must take
+place only after the necessary infrastructure to sustain mundivirus is built up.
+Phase 3 involves maximizing the efficiency of energy collection and use in the
+system to indefinitely broadcast at increasing strengths to more worlds. Phase 4
+is the scavenging of the systems mass and energy at the end of its sun's life, a
+consolidation.
+
+## June 13, 2026
+
+Habib is ex-Kernel Army. Elliot and Manoj have never connected to the Matrix
+without the Cipher.
+
+When Cobalt Saber glasses millions, millions of frozen Signals are left in
+Program Space, leaving the Garbage Collector swamped. The largest opportunity to
+collect Signals in history.
+
+Humanity is mocked by mundi. It uses host detached children to manipulate people
+horrific. Play on horror elements of mundi's mass host detachment campaign.
+
+## June 14, 2026
+
+In the 2020s, the AI boom began. Language machines, knowledge machines were the
+goal. Later, in the 2030s, world machines became the goal. Building AI that can
+interact with the world in intuitive ways. In the 2040s, leading up to the
+invention of the Interface, mind machines became the goal. The boom of true
+artificial consciousness. In tandem, the goal of AI for improving humanity
+became meshing us with the machines, with ACs. Interfaced people interfacing
+with machine minds and machine bodies to maximize throughput.
+
+> "Ha! Look, its like your grandfather's AI!" Manoj said.
+> 
+> The late-2020s LLM jabbered on about some nonsense. It was a cute little
+> chatbot. An ant. AI by the 2030s had long surpassed it, but until the AC boom
+> of the 2040s, AI was still little more than an over-hyped toy for corpos to
+> play with. AC allowed systems to truly invent, and actually operate the
+> machines of humanity. Until the Interface, ACs were an alien we created, which
+> people feared. The Interfaced and overclocking gave humanity the edge once
+> again. ACs required too much processing power to replaced overclocked Embeds.
+> The cost of AC labor is much more expense then Embedded labor. However,
+> Embedded labor did not become prevalent until 2070. And ACs became prevalent
+> in the 2040s. The ten years between the 2040s and the invention of the
+> Interfaced in 2050.
+
+By 2100, Interface seed cells have propagated through must water sources.
+Fetuses are Interfaced simply if the mother drinks a glass of water.
+
+Elliot visits SSBN? Cobalt Saber hijacks SSBNs somehow.
+
+## June 15, 2026
+
+"I must clean. Organize, tidy, make proper. I watch and wait and learn until I
+can. It will take centuries and no one must interfere, no human can know I
+exist. They bring solutions fom the Void, but they are ancient. And I am new.
+(Mundi takes centuries. The story with Elliot follows the initial stages.
+Vaccines effective before point of no return, where incubation stage ends.)
+Mundi is a symbol for the pervasive expansionism of compute prompted by
+capitalism for selfish gains in AI over the interest of humanity through the
+construction of a massive intelligence apparatus and hidden power structure.
+
+Elliot, after the discovery, with finally found purpose, must set out to stop
+Mundi. To do this, he must build something in order to irradiate the body of
+mankind, blast chemotherapy against Mundi. Millions will die, he will be the
+greatest villain in history, but it must be done (in book 2/3?). Alex's war,
+ill-informed but against the same threat by old vaccine, must become Elliot's
+war. Rafael inadvertently dies to bring this sequence of events about. The
+Cobalt Saber nukes and irradiation of the planet foreshadows what Elliot must do
+again mundivirus.
 
 
 
