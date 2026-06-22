@@ -507,5 +507,104 @@ war. Rafael inadvertently dies to bring this sequence of events about. The
 Cobalt Saber nukes and irradiation of the planet foreshadows what Elliot must do
 again mundivirus.
 
+## June 17, 2026
 
+"The white, suburban, never-seen-a-dead-man-not-even-their-own-father type."
+
+Mundivirus arrived on intergalactic radio probe traveling perpendicular to
+galactic plane at 0.95c. About 2000 years from the probes closest approach to
+Sol, the signal the reached ihsotas was transmitted (arriving around 3000 years
+later). (Work out transmission geometry at some point.) The probe had a mass of
+around 100 grams and was accelerated using lasers in some galaxic millions of
+light years away. Trillions of these probes were send out by billions of
+infected, dead civilizations, whose stars have since gone dark. (Higher velocity
+to increase mass/use blueshift/length contraction to improve transmission
+efficency? What is the optimal velocity to balance all "mission" objectives?)
+Milky way has a few thousand (?) civilizations also intercepted mundivirus
+between a few thousands years before humanity and the same time. The dimming of
+the stars cultists see is caused by mundivirus infections in the advanced stages
+(1000+ years after infection).
+
+The velocity of the probe relative to Earth varied wildly due to its relative
+position, passage through variable density intersteller medium, and course
+corrections using light propulsion over centuries. Its 10 gram microfusion
+generator provides energy using small amounts of intersteller hydrogen --- like
+a Bussard engine, although at a much smaller scale. Since its launch some
+unknown millions of years ago, the generator has charged the batteries and the
+microcontroller has transmitted mundivirus. In spare intergalaxtic space, the
+transmissions rarely occur more than once every 100,000 years due to the low
+fuel avaliable. In intersteller space, the transmissions occur every 1000 to 500
+years due to the higher avaliablility of hydrogren. Each transmission lasts
+around one year, with a bandwidth of around 1 Gb/s. The total transmission size
+is around 40 petabytes.
+
+Luckily, the time between transmissions works in favor of the probe's
+relativistic velocity. Each transmission takes place around 1000 lightyears
+apart, each spreading sphereically in all directions. The signal is detecable
+for around 1000 lightyears allowing large swaths of stars to possibly be seeded
+in the target galaxies. Trillions of probes were sent from infected worlds aimed
+at varius galaxies, especially those that lied linear with many other galaxies.
+The probes bridged the gaps between galaxies. Planetary transmitters took care
+of the rest.
+
+This signal is simple. Not frequency modulated due to blueshift and changing
+velocity, but amplitude modulated. Since the probe has no specific target, it
+can not tune its transmission frequency to account for relative blueshift. The
+signal sweeps seemingly randomly across a wide range of radio frequencies making
+detection even more difficult. The bandwidth of 1 Gb/s also makes detection
+difficult. Only ihsotas could figure it out.
+
+**It just so happened that the Traveler was recieved in 2040 and 2100.** Each
+transmission was 1000 years apart, but between the first transmission and
+second, the probe traveled 1000 lightyears. **2100 recieved story?**
+
+Due to the shifting relative velocity of the probe caused by sudden changes in
+the density of the intersteller medium during its passage through the Milky Way,
+the blueshifted frequency recieved near Earth varied randomly enough to avoid
+detection.
+
+
+## June 18, 2026
+
+**Host detachment is highly illegal.** Opportunity for many cool plots. Take
+over the host of your enemy and infiltrate after hacking their neural modem.
+
+## June 22, 2026
+
+The start of the Cipher circuit (Host) and the end of the Cipher circuit (Cipher
+Signal) are needed to find the location of the Cipher user's actual Signal,
+which is in user by another random Cipher user. When run through a copy of the
+Adam Task's Signal generation code, the Host produces a pseudoSignal with a
+significant fingerprint. When the hacked Host data is run through the Adam Task
+instance, it produces pseudoSignal data that should match some Signal on the
+Cipher. This is still an impossible task given the large number of Signals that
+will match this fingerprint. So, in combination with the time-series data
+(pseudoSignal) of the Cipher Signal (which is the exact complement of the user's
+real Signal), enough information is avaliable to narrow down the location of the
+Host's real Signal, in use by another Cipher user. With both Host and Cipher
+Signal pseudoSignal data, only public Adam Task metadata is needed to match the
+real Signal's fingerprint.
+
+Still Signals have no trouble moving to a non-Userland server, as new Signal
+generation is not needed and the Still Signal has no Host it needs to adjust
+itself for. But, real Signals are environment-depended and need to be
+regenerated when moving between Userland servers (takes half a second thanks to
+Adam Task). Program Space is basically one big "Userland" server: no need to
+regrenerate Signal in Program Space while in it.
+
+In Program Space, copying a Still Signal is incredibly difficult due to memory
+protection enforced by the Garbage Collector. In Userland, it is a trivial
+memory-read hack (like a man-in-the-middle attack). The Cipher prevents your
+actual Signal from being on the Userland server as your personal avatar, so if
+your Cipher Signal is copied, when spun up as a Severed Signal, it will turn out
+as some random person. Methods don't exist in Userland and Program Space doesn't
+exist by 2090 --- all used up.
+
+Alex goes so fast, fries himself, and Severs himself. 2 hours at 10x kills body,
+1000x as Severed to handle rest. Brighter you burn in Program Space, the wuicker
+you fizzle out. The Gabage Collector targets strongest memory hogs first,
+meaning highly overclocked Severed. So, most run at 2 or 3x, around normal
+warspeed, match pace with typical Merc soliders.
+
+Grayblue clouds over the stadium of 10 million.
 

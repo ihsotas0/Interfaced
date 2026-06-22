@@ -179,6 +179,7 @@
 ----_ Hosts and Signals
 -----_ Double and Mono-Signals
 -----_ Severed Signal
+-----_ Still Signal
 ------_ The Garbage Collector
 ------_ Exit Code
 -----_ The Discriminator
