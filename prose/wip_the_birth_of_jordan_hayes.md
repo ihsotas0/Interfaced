@@ -4,6 +4,24 @@
 eyes. The average set is within the average means, and so, onto every newborn
 --- as if  it were circumcision --- a set is weaved. -->
 
+For all to pay, a cost of tiny eyes.
+With circumcision-like perfection, though,
+the pairs of chrome are weaved; those cams of lies.
+Upon the newborns, righteous pairs bestow.
+
+Arcane machines take minutes, moving quick.
+The dancing digits slice the muscle through:
+the trillion metal nippers quickly click.
+Like metal raindrops, listen, they imbue.
+
+They swivel, now, before becoming still;
+the users' vision turned computerized.
+Man's vision, evermore broke—foul glitch fill.
+The human mind is never clearly wised.
+
+Tradition overwhelms the doctors so;
+the foolish people gift themselves tableau.
+
 The intricate machinery of installation took no more than a minute to gift her
 an Interface. A few dozen small autonomous spider robots buried into the womb.
 For the mother in question, given their lack of Interface and requirement of the

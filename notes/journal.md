@@ -608,3 +608,33 @@ warspeed, match pace with typical Merc soliders.
 
 Grayblue clouds over the stadium of 10 million.
 
+"Let those you seek death find it."
+
+## June 24, 2026
+
+ Blimps moving between buildings, carved out passageways. Rain? Heat and
+sun? Deadly UV?
+
+During first Strangelove attack, real world Datists disconnect soliders from
+Matrix assuming they have woken up when they haven't. Strangelove only allows
+connected Signals to reach the threshold of their Host mind, but not pass back
+into it. At this threshold, which normally doesn't exist as the Signal
+seamlessly returns to the Host by ritual meditation, small parts of the Host are
+exposed to the Matrix and thus hackers (especially on Program Space, where
+Signal protections don't exist). Mark had his embedded hackers access the
+eyelids of every solider in Alex's army and open them like hacking an industrial
+machine across the planet and having it crudely move around using low-level
+commands. The real world Datists were informed that the soliders were
+disconnecting and so waited for each to wake up. Put they weren't awake and when
+ripped from the Matrix all but a few died. The few survivors, including Alex,
+instructed the real world team to disconnect them last --- they wan't to be the
+last ones left in danger, but ironically were the only safe ones.
+
+Modern clusters use fusion helium to cool. (Helium ran out some time ago.)
+kern-marez-0934 is an old pre-Data War server with air cooling and pre-Kessler,
+pre-War hardlines. Hardlines that made up the entire internet were destroyed
+during the war, leading to mass adoption of wireless and satelitte internet (the
+war, luckily, stayed out of space until Kessler and Cobalt Saber nukes from
+SSBNs and stuff).
+
+When Kessler destoyed all this, there was a **internet dark age** for 5 years.

@@ -9,10 +9,16 @@ abbreviation, Embeds with *Em.*, AI's with *AI.*, and Double Signals with *DS.*
 # Major (in order of importance and by group)
 
 1. **DS. Elliot Fetterman.** *The Cipherists.* (2078, 24). Method: Web.
-2. **(In.) Rafael Bosak.** *The Cipherists.* (2068, 4, 34).
-3. **Habib Khalil.** *The Cipherists.* (2074, 28).
-5. **In. Manoj.** *The Cipherists.* (2082, 20:24). Method: Lag.
-6. **In. Anita.** *The Cipherists.* (2083, 19:20). Method: Information.
+2. **(In.) Dr. Rafael Bosak.** *The Cipherists.* (2068, 4, 34). Brilliant
+   Interface scientist who has had unfortunate life events leading to a life of
+   crime.
+3. **Habib Khalil.** *The Cipherists.* (2074, 28). Real world agent, strong,
+   fighter, charismatic.
+5. **In. Manoj.** *The Cipherists.* (2082, 20:24). Method: Lag. Hardware expert,
+   good Matrix social engineer, can barely speak in real world.
+6. **In. Anita.** *The Cipherists.* (2083, 19:20). Method: Information. Software
+   and hacking expert. Super nerdy, technical, doesn't care for society's
+   expectations.
 
 4. **In. Alexander Bosak.** *Cobalt Saber.* (2051--2072, 21:40, KIA). Method: Space.
 11. **Faycal-Monique Fetterman.** *Cobalt Saber.* (2042, 30, 60) Elliot's older cousin.
