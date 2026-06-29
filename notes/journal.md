@@ -612,8 +612,8 @@ Grayblue clouds over the stadium of 10 million.
 
 ## June 24, 2026
 
- Blimps moving between buildings, carved out passageways. Rain? Heat and
-sun? Deadly UV?
+Blimps moving between buildings, carved out passageways. Rain? Heat and sun?
+Deadly UV?
 
 During first Strangelove attack, real world Datists disconnect soliders from
 Matrix assuming they have woken up when they haven't. Strangelove only allows
@@ -638,3 +638,110 @@ war, luckily, stayed out of space until Kessler and Cobalt Saber nukes from
 SSBNs and stuff).
 
 When Kessler destoyed all this, there was a **internet dark age** for 5 years.
+
+## June 28, 2026
+
+Sell body by host detachment, by slavery, by prostitution. Host detachment
+slavery/prostitution? Sell mind to highest bidder, even more evil. Self part of
+mind good at language, good at skill, for the use of another person. You lost
+that part of your mind, unless you swap it with the buyer's part (but normally
+they just leave you with nothing). Sometimes enough is taken to lobotomize you.
+
+Difficulty of killer mundivirus is getting immune cells to identify it. Vaccines
+from the Void present antigens and coerce cells to build antibodies to bind to
+mundivirus.
+
+Fix 'car' ending. 'Mother' talks to Severed Adrian (14).
+
+4 red wires leave wrist of Anita in her tub.
+
+Signals produced data the data is used to train models
+
+Y2k38 causing issues
+
+Katabasis
+
+Compression is intelligence. The Adam Task compresses Signals, which would
+normally take an entire server to store, into a distributed system. Signals all
+share 99.5% similarity, which the Adam Task is uniquely able to identify. This
+is why Severed soliders are deleted after deployment. They are reverse
+datastreamed to Userland, stored, and send to fight where the Garbage Collector
+kills them --- all using Adam Task resources, and therefore distributed and not
+backed up data. Only certain Severed Signals are backed up to private servers
+(which often cost millions of dollars), like those of the dead rich or the best
+fighters. Some Severed are stored on these expensive severs because they are so
+good at fighting, so they can be sent into battle repeatedly. But, the enemy
+will learn their tactics, and Severed are unable to evolve past their Still
+Signal state.
+
+Tachi-Odyne, the American State, the other corps are all symptoms of a system.
+They enemy is the system, not the symptoms, and the system is capitalism. And
+the infection is mundivirus.
+
+
+Here are some authentic Polish names, grouped by style.
+
+Masculine given names
+Jan
+Piotr
+Michał
+Jakub
+Tomasz
+Andrzej
+Stanisław
+Wojciech
+Paweł
+Adam
+Mateusz
+Krzysztof
+Aleksander
+Marek
+Damian
+Feminine given names
+Anna
+Katarzyna
+Zofia
+Maria
+Agnieszka
+Magdalena
+Julia
+Aleksandra
+Joanna
+Ewa
+Emilia
+Oliwia
+Natalia
+Weronika
+Karolina
+Common Polish surnames
+Kowalski / Kowalska
+Nowak
+Wiśniewski / Wiśniewska
+Wójcik
+Kowalczyk
+Kamiński / Kamińska
+Lewandowski / Lewandowska
+Zieliński / Zielińska
+Szymański / Szymańska
+Woźniak
+Kozłowski / Kozłowska
+Jankowski / Jankowska
+Mazur
+Krawczyk
+Piotrowski / Piotrowska
+Example full names (male)
+Jan Kowalski
+Piotr Nowak
+Michał Wiśniewski
+Tomasz Zieliński
+Aleksander Kamiński
+Mateusz Kozłowski
+Example full names (female)
+Anna Kowalska
+Zofia Lewandowska
+Julia Kamińska
+Maria Zielińska
+Katarzyna Szymańska
+Emilia Piotrowska
+
+https://en.wikipedia.org/wiki/Gruel

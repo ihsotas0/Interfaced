@@ -10,6 +10,11 @@ Title meaning: References the fee of taking Adrian's life for what information
 his Severed Signal might give, the reveal of the Adam Task's fee, and whatever
 **Data War fees** might be.
 
+Habib comes out of the server room, finishing up the hardline and sever from the
+main cluster. Anita lays in old porcelain tub full of ice with an IV
+beta-blocker drip. Manoj connected with massive neural-modem in reclining chair.
+Elliot watches server.
+
 **The Cipherists set out to steal a Still Signal of Adrian Vue, son of
 trillionaire Felix Vue and Cipher user, and they succeed! Unfortunately, during
 the heist, after their plan is subverted by Vue's cyberteam, Adrian Vue's body
