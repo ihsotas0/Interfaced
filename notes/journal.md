@@ -679,7 +679,7 @@ They enemy is the system, not the symptoms, and the system is capitalism. And
 the infection is mundivirus.
 
 
-Here are some authentic Polish names, grouped by style.
+Test
 
 Masculine given names
 Jan
