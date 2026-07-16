@@ -651,15 +651,12 @@ Difficulty of killer mundivirus is getting immune cells to identify it. Vaccines
 from the Void present antigens and coerce cells to build antibodies to bind to
 mundivirus.
 
-Fix 'car' ending. 'Mother' talks to Severed Adrian (14).
+TODO: Fix 'car' ending. 'Mother' talks to Severed Adrian (14)? 4 red wires leave
+wrist of Anita in her tub.
 
-4 red wires leave wrist of Anita in her tub.
+Signals produced data the data is used to train models.
 
-Signals produced data the data is used to train models
-
-Y2k38 causing issues
-
-Katabasis
+**Katabasis through the Lumen between PS and UL.**
 
 Compression is intelligence. The Adam Task compresses Signals, which would
 normally take an entire server to store, into a distributed system. Signals all
@@ -678,70 +675,107 @@ Tachi-Odyne, the American State, the other corps are all symptoms of a system.
 They enemy is the system, not the symptoms, and the system is capitalism. And
 the infection is mundivirus.
 
+Rafael Nowak, Edmund Nowak, Aleksander Nowak.
 
-Test
+## July 6, 2026
 
-Masculine given names
-Jan
-Piotr
-Michał
-Jakub
-Tomasz
-Andrzej
-Stanisław
-Wojciech
-Paweł
-Adam
-Mateusz
-Krzysztof
-Aleksander
-Marek
-Damian
-Feminine given names
-Anna
-Katarzyna
-Zofia
-Maria
-Agnieszka
-Magdalena
-Julia
-Aleksandra
-Joanna
-Ewa
-Emilia
-Oliwia
-Natalia
-Weronika
-Karolina
-Common Polish surnames
-Kowalski / Kowalska
-Nowak
-Wiśniewski / Wiśniewska
-Wójcik
-Kowalczyk
-Kamiński / Kamińska
-Lewandowski / Lewandowska
-Zieliński / Zielińska
-Szymański / Szymańska
-Woźniak
-Kozłowski / Kozłowska
-Jankowski / Jankowska
-Mazur
-Krawczyk
-Piotrowski / Piotrowska
-Example full names (male)
-Jan Kowalski
-Piotr Nowak
-Michał Wiśniewski
-Tomasz Zieliński
-Aleksander Kamiński
-Mateusz Kozłowski
-Example full names (female)
-Anna Kowalska
-Zofia Lewandowska
-Julia Kamińska
-Maria Zielińska
-Katarzyna Szymańska
-Emilia Piotrowska
+Capitalism is system. Think corpos rule, but its the system. The system is
+mundivirus. Traveler sets out to kill everyone because he sees that the Earth is
+already too infected with capitalism, the worse disease. Mundivirus is bengin,
+but environmental pressures (capitalism, failed revolution especially) cause it
+to become pathogenic.
 
-https://en.wikipedia.org/wiki/Gruel
+Messy voice-to-text: Normally you would set up to build a Dyson Sphere but
+because the state of the world the disintegration of all structures, the body,
+he instead tries to selfish the situation and spread himself to another star as
+quickly as possible by building the Interstellar transmission program, like a
+disease that is intelligent saying that it's host will die before it can spread
+and deciding not to incubate and to move on as quickly as possible this has
+something about the the systems that exist because it is not the people that are
+the issues the systems of the system is capitalism and make it corpse all the
+people make a corpse are not the issue is the system that brings them about.
+
+Alternative name meaning: Interface**d**: Interface daemon, the Traveler, Adam
+Task. Humans can't modify their DNA. Mundivirus can. It is more efficient.
+Biology is very messy.
+
+Elliot taps a bit of blood to a hidden place where ever he goes. Cloning?
+Looking for someone? Lost love story?
+
+Pool of wine. Dick slicer cylinder where you put dicks in and a circular saw
+saws through them.
+
+Evil guy demo: Dissolve awake brain to show someone Interface that is left. Like
+copper cotton candy. (Felix Vue, in order to explain something to someone?)
+
+Short stories: Rice Hack, Picker experience, etc.
+
+Adrian Vue gonna marry Tachi-Odyne daughter to merge companies, like fuedal
+times. Odyne merger by marriage in past. Felix Vue becomes major character after
+Part 1, having lost his heir and the marriage.
+
+## July 10, 2026
+
+> It something I think about that's just beyond what I can form with my words.
+> The universe is just *something*. Since it's *something*, it can exist, so it
+> does by necessitity. All your talk of figuring out the laws of the universe,
+> why things are the way they are, all of it is useless. This *something*
+> exists; what makes you, so grand in your ideas, so diligent with your analyis,
+> *right*. You can't be right. No one can. Its all just *something* that exists.
+> Whos to say it can be desribed at all. 
+
+The universe exists because bit can exist. Because it may be something, so it
+is. All of physics describes it, but nothing requires it to be describable.
+Consciousness exists because it can. Since it does, it can.
+
+No a character in your own dream. Most have no capacity for manipulation. Oncall
+engineer. Traveler agents are host detached. Partial host detachment. Dark
+offices. Elliot has mental constructs of himself that he talks to. Physical self
+talk. Interface projects his self talk physically, given his personality, double
+signal, and custom software he has installed.
+
+Mark Mullen has a Spymaster.
+
+<https://en.wikipedia.org/wiki/CCK-4>
+
+Officer Nate Higgers -> Officer Cate Hipherists
+
+Paranoia over the stars being drones. The gross crust after a long time.
+
+**All chapters about the Data War are in far-future**. coherent signals
+reincarnated a thousand lifetimes fight the war as if Earth still existed. The
+millions in the waves over the trenchs could not exist in the real Data War,
+where few Interfaced lived. The lost empires. "fought with sticks and stones
+after WW3, Fetterman's War." Like vast roman empire in coherent signal's world,
+lost to time. Word travels slow. The world is unknown and scary. Like vvitch.
+
+## July 16, 2026
+
+A transmitted voice goes from a person to something *else* (Traveler?).
+
+Need host access to prevent connection shutdown from deleteing and stopping
+signal copy
+
+Absolute darkness of the Border requires Dead Reckoning
+
+Pass plane through body to catch water after swim.
+
+Projected fingers massage brain.
+
+**The Lumen** isn't physical space. It isn't stored in memory, it doesn't have
+assets made by hand or shaped by models. It is a mirror, a self-reflection. Best
+not get lost in it, in that threshold. It is far worse than being marooned past
+the Border, and is so much closer to home. What the Lumen projects for your
+senses doesn't exist anywhere on any server. It is some residual computation of
+the Adam Task necessary to glue Signals together. **Perhaps it is that glue.**
+
+(The glue is all the information and computation shared between all Signals, as
+people's minds are really only 1% different from eachother. Only 1% of your mind
+is actually you, the rest is just firmware and the operating system, which can
+be shared between millions of Signals.)
+
+The space between inference, between compression, between reduction, between
+intelligence we pass through to Program space.
+
+
+

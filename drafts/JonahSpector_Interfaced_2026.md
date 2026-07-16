@@ -11,8 +11,9 @@ of a thick acrylic window, tilted to overlook the expanse, Elliot sat with his
 leg up on the windowsill as he swung the other. Each node flickered, and the
 whole valley of computers faded into the dark fog of the background.
 
+Lost in a waking dream, twice embodied the doubleSignal.
 
-
+Slip into waking dream.
 
 ---
 

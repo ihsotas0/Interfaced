@@ -26,9 +26,7 @@ archive/            <--- Old files; organized somewhat well
 drafts/             <--- Main "Interfaced" novel
 notes/             <--- Various markdown notes, charts and plots, and Python
 prose/             <--- Misc snippets of prose, free writing sessions
-style/             <--- Stylesheets for EPUB and PDF pandoc output to drafts/
 .gitignore
-build.sh
 LICENSE
 README.md
 todo.txt

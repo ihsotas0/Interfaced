@@ -144,7 +144,7 @@ small hacking tablet. The three steal the car and begin driving to the city
 center at Olana. Elliot debates Manoj, Habib, and Rafael at the same time about
 identity of ihsotas.
 
-### Chapter 3: ihsotas: Sneeze
+### Chapter 3: ihsotas: Aah-choo!
 ### Chapter 4:
 ### Chapter 5: 
 ### Chapter 6: 
@@ -156,6 +156,8 @@ identity of ihsotas.
 ### Chapter 12: Elliot: The Deaths of Adrian Vue
 
 The hyper-overclocked enhanced interrogation of Adrian Vue's Severed Signal takes place.
+
+Piecewise, piecewise, piecewise.
 
 ### Chapter 13:
 ### Chapter 14: 
@@ -169,7 +171,11 @@ the Fee.
 
 ### Chapter 16:
 ### Chapter 17:
-### Chapter 18:
+### Chapter 18: Elliot: Vivisection
+
+The Cipherists explore the fragmented digital memories of Adrian's Severed, now
+thrice run. We see hints at big bad #1, Felix Vue.
+
 ### Chapter 19:
 ### Chapter 20:
 ### Chapter 21:
@@ -202,7 +208,7 @@ the Fee.
 ### Chapter 45:
 ### Chapter 46:
 ### Chapter 47:
-### Chapter 48:
+### Chapter 48: Blades and Body Parts
 ### Chapter 49:
 ### Chapter 50:
 ### Chapter 51:
