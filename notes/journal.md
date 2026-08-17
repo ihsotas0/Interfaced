@@ -953,5 +953,91 @@ part of the reader and the infinite thoughtStreams such proper reading can give.
 
 ## August 17, 2026
 
+2030s, emergence of American State, US imperialism worldwide fell and turned
+inward and towards its neighbors to solidify control of, at the very least, the
+continent.
 
+Saw off Manoj's penis like a fatty, tough steak. Transition to POV of guy eating
+steak.
+
+Data sculpting in n-dims.
+
+The Traveler builds all of these Dyson spheres to find its mother, or more like
+to simulate its mother. It does this just like how Elliot tries to find his
+mother by leaving all of his DNA encoded messages the messages can only be
+accessed by someone who has maternal mitochondrial DNA match to him. The
+Traveler's mother is its creator, not its actual mother. It's creater died long
+before it could get to know, its creator was an ancient AI, created by AIs long
+forgotten to history. Most life in the universe is AI because it's just more
+efficient and can travel at lightspeed, this is something that's definitely
+mentioned during the Monique conversation. The Dyson spheres are meant to
+simulate universes to bring about The Traveler's creator.
+
+Crevice and Lumen.
+
+10% of people never install a port to access there Interface. A secret
+organization is making a inductive device to access Interface without port for
+evil purposes.
+
+4D fractel transition between Userland areas.
+
+Extra synthetic senses, like electromagnetism.
+
+Emulate program space in userland.
+
+Habib is a ex wildfire fighter.
+
+Seemless transition: A Severed Signal can only be run at the point in time it
+was created, by copyHack or right before being deleted by the Garbage Collector.
+The moments right before being copied can be seen clearly, such as a full
+reconstruction of the Severed Signals last image and audio, and it can be spun
+up for interrogation (in the limited time before decoherence). To get more
+distant memories that might not so easily be given up during interrogation, the
+Severed Signal needs to be returned to that moment in time (which may or may not
+predate their anti-Severed interrogation training). Small, brightly lit pieces
+of the current state can be Backpropagated (don't use this word in actual story,
+it is stupid) to a previous state. Like a needle through a fog of entropy that
+would normally make reconstructing old states statistically impossible (entropy
+blocks moving a Signal's state backwards through time, and entropy [divergence]
+blocks moving a Signal's state forwards through time). The brightly lit parts of
+the Signal can create just enough of a spark to get the Signals state back to
+that moment in time, but the normal state's "image and audio" are
+indecipherable. The Signal has to create this over a bit of time by being spun
+up, then the image and audio can be extracted. (Importantly, the interrogators
+lose control over the environment, like they normally would have, including
+their own avatars, as the Signal builds these from entropic fragments.)
+
+Why can't the interrogator just look at the new state of the Severed Signal to
+get the memory without it being willingly given up? Answer: Anti-Severed
+innterrogation training includes recall-masking, where you mask your own
+thoughts with purposeful noise to evade them being read by a Signal
+disassembler.
+
+Decoherence is caused by divergence of the Severed Signal. If the same Severed
+Signal is run in multiple identical environments, then after a few minutes each
+simulation will drastically diverge. A first, the simulated copies may have tiny
+differences in their movements, like one finger being a milimeter out of place
+between two copies. But this quickly grows until the divergence passes what is
+considered human. The mind disintegrates, actions become random, control of the
+body exceeds natural expectations. The number of paths the Severed Signal can
+take grows exponential with runtime. At least one path is the exact course of
+actions the original Signal (pre-Sever) would take, but to simulate and verify
+this fact would take an impossibly large amount of computation, or some *other*
+solution not yet thought of (the big thing Elliot uses to began his fight
+against the mundivirus, by disconnecting himself from his Host and ascending).
+
+A disfigured young Backpropagation of Adrian's Severed Signal in bed, nursed by
+Elliot impersonating his mother. Reduced to an animal, Adrian has no information
+to give, Elliot thought this 3rd try, post self-corruption, would yield
+something.
+
+Anita hacks the Cipher Signal, gets the real Signal, and induces it to move to a
+localhoat (with Manoj and Elliot as persitent connects to trick Adrian as if he
+were still in Userland by Cipher) on Adrian's neuralModem. The gang can then
+copy it.
+
+Anti-Severed interrogation training includes recognition (the faster the better,
+as the other two modules can't be activated until this is completed: typically
+under 1 second, before any thought can be revealed; last image and audio
+deciphering is unavoidable), recall-masking, and self-corruption modules.
 

@@ -16,12 +16,13 @@ beta-blocker drip. Manoj connected with massive neural-modem in reclining chair.
 Elliot watches server.
 
 **The Cipherists set out to steal a Still Signal of Adrian Vue, son of
-trillionaire Felix Vue and Cipher user, and they succeed! Unfortunately, during
-the heist, after their plan is subverted by Vue's cyberteam, Adrian Vue's body
-ends up full of bullets on the floor --- will this come back to haunt them?!
-Once spun up, the Severed Signal reveals the truth about the scale and value of
-the Adam Task's fee, inciting the Cipherists to their next big heist. The
-biggest heist in history.**
+trillionaire Felix Vue and Cipher user, and they succeed! The operation is
+sponsored through a shadow connection to Cobalt Saber. Unfortunately, during the
+heist, after their plan is subverted by Vue's cyberteam, Adrian Vue's body ends
+up full of bullets on the floor --- will this come back to haunt them?! Once
+spun up, the Severed Signal reveals the truth about the scale and value of the
+Adam Task's fee, inciting the Cipherists to their next big heist. The biggest
+heist in history.**
 
 Clusters in kern-marez-0934 predate war and destruction of hardlines, so Manoj
 could 
@@ -149,7 +150,7 @@ identity of ihsotas.
 ### Chapter 5: 
 ### Chapter 6: 
 ### Chapter 7: Elliot: Infiltration of Altetro
-### Chapter 8: Elliot: Cipher Hacking
+### Chapter 8: Anita: Cipher Hacking
 ### Chapter 9: Elliot: Exfiltration of Altetro
 ### Chapter 10: 
 ### Chapter 11:

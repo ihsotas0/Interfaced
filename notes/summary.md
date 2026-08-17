@@ -1,8 +1,13 @@
 # Interfaced, Novel Summary
 
+
 Time: 2049 to 2100.
 
-Main POVs: The Cipherists, The Datists, Tachi-Odyne, ihsotas
+Main POVs: Elliot Fetterman, Alexander Nowak, Mark Mullens, Felix Vue
+
+
+
+The Cipherists, The Datists, Tachi-Odyne, ihsotas
 
 Main plotlines: The Great Compute War
 
