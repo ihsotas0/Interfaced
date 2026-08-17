@@ -141,7 +141,7 @@ Elliot, Rafael, and Habib walk around the roads of suburban Kernel with
 backpacks carrying all of their gear. Manoj, revealed to be at a small overclock
 of 1:4 using Merc, guides them to an old hydrogen car which Habib unlocks with a
 small hacking tablet. The three steal the car and begin driving to the city
-center at Olana. Elliot debates Manoj, Habib, and Rafael at the same time about
+center at Oolana. Elliot debates Manoj, Habib, and Rafael at the same time about
 identity of ihsotas.
 
 ### Chapter 3: ihsotas: Aah-choo!
@@ -191,14 +191,14 @@ thrice run. We see hints at big bad #1, Felix Vue.
 
 ## Part 3
 
-### Chapter 31: The Birth of Jordan Hayes
+### Chapter 31: Vignette: The Birth of Jordan Hayes
 ### Chapter 32:
 ### Chapter 33:
 ### Chapter 34:
 ### Chapter 35:
 ### Chapter 36:
 ### Chapter 37:
-### Chapter 38:
+### Chapter 38: Green Hell
 ### Chapter 39:
 ### Chapter 40:
 ### Chapter 41:
@@ -229,7 +229,7 @@ thrice run. We see hints at big bad #1, Felix Vue.
 ### Chapter 63: Puncher! (Elliot escapes Kessler)
 ### Chapter 64:
 ### Chapter 65:
-### Chapter 66:
+### Chapter 66: Steely-Eyed Missile Man
 ### Chapter 67:
 ### Chapter 68:
 ### Chapter 69:

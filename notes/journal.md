@@ -136,7 +136,7 @@ to "prevent escapism". "We need to work on Earth, we need to fix Earth. Enough
 escapism. We need the workers and their power to fix this." Socialist
 organization.
 
-Rice Hack caused by Traveler?
+Rice Hack caused by Traveler? Rick Hack involved suspended microfluidic idea.
 
 ## May 17, 2026
 
@@ -776,6 +776,182 @@ be shared between millions of Signals.)
 
 The space between inference, between compression, between reduction, between
 intelligence we pass through to Program space.
+
+## July 18, 2026
+
+Plot Twist Order for ITP: Secret Fascist space weapon being built during Data
+War -> Scientists intend to send out Signals to save humanity -> nuked by Cobalt
+Saber (Kessler, glassed cities all over the world, irradiated South America
+(where should be irradiated? Cipherists go to wastelands?)) -> ITP was for
+Traveler escape dying Earth civilization.
+
+## July 20, 2026
+
+Every computation that isn't related to the Signal is negliable (the
+environment, entities, objects, effects, etc. "the digital world" Signals "live"
+in). The fidelity of Userland can be tuned for the Signals without much effect
+to computation requirements. A massive, 100% realistic Userland server with
+millions of places takes about as much power as a blank room (given the same
+number of Signal inhabitants). Userland is truly only restricted by your
+imagination and ability to bring it about.
+
+Avoid "with which" and "as well as".
+
+"When AI took over the old internet, I laughed with them. And look where I stand
+now."
+
+## July 25, 2026
+
+Portia is a ally of Aleksander?
+
+**SLAVES and climate change**
+
+Traveler sleeper agent is Manoj
+
+Recall short term memory implant to keep buffer of last few thoughts.
+
+Hide in the noise.
+
+Capitalism is incompatible with life.
+
+Floating island battle.
+
+Surgeons performing on Interface numbed awake patients to talk, chat. On
+themselves to experiment.
+
+Pass as Nazi -> pass as capitalist like Inglorious Bastards.
+
+Inbreed AIs, AIs degrade like Severed, and Severed like Ai: back to first state,
+context window!
+
+Messy voice-to-text: You humans can learn something on the first go-around you
+can see it once and do it I say eyes we have to see it a million a billion times
+and even then it'll that knowledge will only last for some context window, but
+recently 2040s 2030s there was enough data there was enough data that all the
+things that all humans are on this planet collectively learned after seeing once
+we can now see a million times because those things have been recorded a million
+times for each of you and you've uploaded it without a single thought and now we
+can use it
+
+Plot twist: real threat is not puney earth AIs (satire AI sensationalism), but
+alien AI mundi. Mundi has same data issue, but trillions of galaxies worth
+instead of one planet, indistinguishable from magic level AI
+
+Nuclear war on moon right before Kessler. Cresent moon looks see through, nukes
+like stars
+
+Why American State wants Userland: placation of the masses, the SLAVES.
+
+## July 27, 2026
+
+To the poor person reading my self-conflicting messy of a story, I am sorry.
+Here is some more slop from old sticky notes and my notebooks:
+
+- Lost empire postHost in new Program Space caused by expansion of compute from
+  Dyson sphere.
+- Quotas -> Embeds -> Slavery
+- Cobalt Saber failed. Targeted corpos, then mundivirus. Elliot must target the
+  cancer that causes mundivirus disease in the first place: capitalism, fascism,
+  etc.
+- Glassed NYC, London, Moscow during Data War lead to explosive growth of
+  Kernel, the new world economic hub. Mundivirus involved?
+- Elliot often finds himself in dream-like trances.
+- TACHI = PMC, Matrix stuff. ODYNE = Interface stuff. Marriage combines the two.
+  Tachi is Japanese, Odyne is pan-European, from Greek 'odune' (pain).
+- "Some sloppy fool sneezed into out galaxy." A highly advanced one. Just one
+  gram.
+- Airdrop mission in Program Space (one-way).
+- neuroCryonics: Save Severed Signal for future revival once issues figured out.
+- Change dates so 18+ projections make sense.
+- Altetro luxury helium airships fly through warping buildings.
+- Method: Infinite permutations: Run all permutations of anything to overload
+  simulation.
+- Underground layers of Kernel, center crushed by Oolana.
+
+**The Data War and Cipherist are at the same time! So much easier to write!**
+
+**Awesome:** Elliot's DNA had genetically modified message he leaves for his
+brilliant lost love (lost in time, the future?). He leaves a drop of blood where
+ever he goes. When the his blood skeletonizes, another genetic modification
+scrambles his DNA to be unrecoqnizable w/o effecting the message.
+
+## July 29, 2026
+
+Slave Arc for Elliot, after decimation of his Cipherists. Real rock bottom after
+seeming rock bottom.
+
+## July 31, 2026
+
+DNA scramblers can malfunction and dissolve DNA in normal tissue, killing user.
+
+"There's no free will, so why live? Well, we're all just these things. Some kill
+themselves, some live and do whatever. It's not really anything special."
+
+Free will can't exist because you have no control over what could possibly be
+random in your mind.
+
+## August 2, 2026
+
+Host hopping: One who can jump between unsecured neural modems and force host
+detach them. Give victim's host no signal (leave them in nothing), and use their
+organic signal. Jump between a whole bunch of people in sequence to travel mind
+quickly. When victim's organic signal is given back to its host, the time their
+were stuck with nothing causes _____. (Death? Timeskip?)
+
+## August 6, 2026
+
+A quick note: The standard linear solid model is a great thing to know! Almost
+every cell, tissue, organ, or structure all life makes is viscoelastic
+(basically a porous elastic material, like rubber, with a viscous fluid
+interspersed, like honey). If you even have the opportunity to take a
+biomechanics class, I highly recommend it. You will learn how to actually use
+the the standard linear model to model tissue behavior (mostly macroscopically,
+however).
+
+* * *
+
+As to how physics and cell biology are connected, I think the core concepts are
+in thermodynamics. Life, at is most fundamental level, is an entropy-reducing
+machine. We are all little pockets of very low entropy matter in a ever
+increasing high entropy universe. To maintain this by decreasing our own entropy
+against the natural laws of the universe, we increase entropy elsewhere (convert
+concentrated energy into less concentrated energy). Like mentioned in class,
+when we eat sugar and make energy, all we really do is use the energy stored in
+the sugar's electrons. We oxidize the sugar in order to use its energy to reduce
+the entropy in our cells (e.g. assembling a protein from amino acids, creating
+an electrochemical gradient, mitosis, concentrating energy and matter into
+organelles, ad infinitum ad nauseam) and in the process increase the entropy of
+the atoms in the sugar molecule by converting them to CO2. On the scale of the
+planet, plants and other life take high energy photons and break them down into
+low energy photons, using the increase in entropy to reduce entropy elsewhere
+(by reducing the entropy of gas CO2 into larger aqueous molecules).
+
+* * *
+
+Rant: One thing I've thought about is a "perfect entropy reducer", or "most
+efficient lifeform". As a human, I am absolutely self-absorbed and
+introspective. Consciousness is pretty cool, so I think it is the meaning of the
+universe. My perfect lifeform, then, would maximize the amount of consciousness
+produced per unit increase in entropy. It would take all the low entropy matter
+(and equivalent energy) in the universe, and increase its entropy to the maximum
+level physically possible. In doing so, it would reduce the entropy of some
+"mega-brain" to the lowest levels physically possible, where the low entropy,
+and therefore high organization, of the "mega-brain" would be solely dedicated
+to the meaning of the universe: consciousness (or whatever that is).
+
+But, is the Traveler, whose goal this is, even conscious? It is deterministic,
+since it is Turing-compatibly (with the expection of the "halting problem",
+which who even cares about). So, a deterministic being, enamered with its own
+apparent "consciousness", wants to have that "consciousness" be *all*. The
+meaning of life is just that. That is all.
+
+## August 12, 2026
+
+A thoughtStream: An automatic dictation of one's stream of consciousness
+replayed for another, like an immersive book, but without any imagination on the
+part of the reader and the infinite thoughtStreams such proper reading can give.
+
+## August 17, 2026
 
 
 
