@@ -1041,3 +1041,94 @@ as the other two modules can't be activated until this is completed: typically
 under 1 second, before any thought can be revealed; last image and audio
 deciphering is unavoidable), recall-masking, and self-corruption modules.
 
+## August 20, 2026
+
+State of Kernel is lead by Mayor Some Name.
+
+## September 3, 2026
+
+"People like to say we each have unique qualia, or more that we can't confirm
+our qualia are the same. I might see something completely different when I look
+at this ____ then you, and there's no way to prove it, because of that mess we
+call conciousness. But here's something people don't think about: who's to say
+your qualia extent beyond any instant in time. When you look at this ____, it
+doesn't change. It's static in your mind. But that's only because your current
+mind, with fixed qualia, recalls the immediate past. Your mind reconstructs the
+immediate past giving the *illusion* of continuity of your qualia. There is no
+way to verify that the immediate past you had the same subjective experience of
+reality, because that mind-state is gone, replaced with your present ant its
+qualia. Your past self, looking at this ____, sees the color red. You now see
+the color red. But there's no way to verify that they are the *same* red,
+because your recollection of your past self's qualia is performmed in a mind
+with *new* qualia. Instantanious conciousness is scary, the One True Harold is
+the only solution, one who can expand our qualia beyond the instantenous present
+and show us the truth of conciousness."
+
+<https://en.wikipedia.org/wiki/Qualia>
+
+## September 12, 2026
+
+Raw phone notes:
+
+```
+Von Nuemman abandoned: all storage is RAM integrated directly with compute ->
+why no copy of Adrian as backup.
+
+Severed Signal given no persistence, only instanteous memory, like wakingn up
+forever. Run in Void, absolutely minimal Signal.
+
+Pickers pick Choosers to reduce their own sentence, so the actions are Choosers
+are not of free will. Excuse for their actions and cult actions. They are
+literally instruments of God.
+
+Recursive free will box argument watching 10s future of past iteration in box.
+
+Severed time is variable. Good long Severed solider rare.
+
+Memory masking to hide anti-Sever training among normal memory (always train
+with movie on, focus mostly on movie, etc.) Requires the highest mind or deepest
+pocket.
+
+Mind's eye and dreams.
+
+Hardware to tell mind what is real that is difficult to hack, failsafe. Doesn't
+work for Severed Signals, obviously.
+
+ai can't replicate the ordered thoughts of a human mind. The best it can give is
+a hallucinogenic copy of the averaged human brain.
+
+Sergio
+
+When computer starts Adam Task, it makes Program Space. If you know when the
+computer starts exactly, you can use dedicated operators (Signals) to mine it
+before anyone knows it exists and take it for Userland.
+
+Mental synthorgan extenting working memory of meshed embed.
+
+Many copies of Elliot in deep future.
+
+Overlaid porn invasive thoughts.
+
+Buzz of conciousness, not professional mindDiver? tetheredSignal mindDiver?
+
+AI has no buzz.
+
+Elliot was professional human mind at very least. He needs to study more minds
+to be proper mindDiver.
+
+Elliot is best at being human mind that he knows of.
+
+```
+
+**Important nomenclature:** signal, severedSignal, tetheredSignal,
+divergentSignal, convergentSignal (the goal).
+
+## September 15, 2026
+
+Lower temp. of CNS to increase Interface ENOB. Higher resolution connection.
+Elliot is good at noticing.
+
+Dynamic range of CNS voltage is set physiologically, frequency by overclock,
+where overclock requires special ADC.
+
+

@@ -9,20 +9,22 @@ POV characters are marked so.
 
 # Major (in order of importance and by group)
 
-1. **(Main POV) DS. Elliot Fetterman.** *The Cipherists.* (2078, 24). Method: Web.
+1. **(Main POV) DS. Elliot Fetterman.** *The Cipherists.* (2078, 24). Method: Web. 
 2. **(POV) Habib Khalil.** *The Cipherists.* (2074, 28). Real world agent, strong,
    fighter, charismatic. Moroccan. Ex-firefighter (it is a horrible jump in the
    far future).
-3. **(POV) In. Manoj.** *The Cipherists.* (2082, 20:24). Method: Lag. Hardware expert,
-   good Matrix social engineer, can barely speak in real world.
+3. **(POV) In. Manoj.** *The Cipherists.* (2082, 20:24). Method: Lag. Hardware
+   expert, good Matrix social engineer, can barely speak in real world.
+   Maladaptive daydreamer in real world.
 4. **(POV) In. Anita.** *The Cipherists.* (2083, 19:20). Method: Information. Software
    and hacking expert. Super nerdy, technical, doesn't care for society's
    expectations.
-5. **(POV) (In.) Dr. Rafael Nowak.** *The Cipherists.* (2068, 4, 34). Brilliant
+5. **(POV) (In.) Dr. Rafael Muller.** *The Cipherists.* (2068, 4, 34). Brilliant
    Interface scientist who has had unfortunate life events leading to a life of
    crime.
 
-4. **(Main POV) In. Alexander Nowak.** *Cobalt Saber.* (2051--2072, 21:40, KIA). Method: Space.
+4. **(Main POV) In. Alexander Muller.** *Cobalt Saber.* (2051--2072, 21:40,
+   KIA). Method: Space.
 11. **(POV) Faycal-Monique Fetterman.** *Cobalt Saber.* (2042, 30, 60) Elliot's older cousin.
 12. **Marcel Thomas.** *Cobalt Saber.*
 
@@ -57,7 +59,7 @@ POV characters are marked so.
 29. **Adrian Vue.** *Altetro (megacorp).*
 
 30. **Thath.**
-31. **Edmund Nowak.**
+31. **Edmund Muller.**
 32. **Harrison Arkwright.**
 34. **The Flaberjackles.**
 35. **Em. Yaqut.** (2042--2073, 31:2840)
