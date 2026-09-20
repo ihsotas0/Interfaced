@@ -10,7 +10,7 @@
 
 <!-- Characters: Elliot, Manoj, Habib, Anita-->
 <!-- Location: kern-marez-0934 -->
-<!-- Date: December 1, 2103 -->
+<!-- Date: December 1, 2100 -->
 
 The server room Elliot Fetterman overlooked was molten, dry air perturbed by the
 heat, no light other than the muted red glow of silicon. The entire array was
@@ -31,7 +31,7 @@ boundless waking dreams.
 
 One, he leisurely strolled through, awaiting something. It was the infinite bar
 of some grand interior, one so indistinguishable from reality only a trained
-mind could tell it was fake --- a hallucination created by the Interface deep in
+mind could tell it was fake -- a hallucination created by the Interface deep in
 his body. The ceiling was high, with intricate chandeliers shining brightly down
 onto the dark wooden interior, where an empty bar stretched endlessly into a
 distant white fog. Leather couches dotted the space to his left, the pattern
@@ -64,33 +64,31 @@ human. He was a professional human mind, after all. Some subliminal *buzz* gave
 it away, something AI could never replicate.
 
 The mouthfeel of new food eaten by a reviewer; the pounding heart of the
-legendary Alexander Muller in a fierce firefight in Program Space --- a
-recording from the past replayed on broadcast; and an all but pornographic
-experience, pounded his mind. The mental copies from the experienced reality of
-four people, in whole or in part, filled him completely, occupying more focus
-then either of his Signals. He had a suspicion the emulated thoughts of the
-reviewer were not human. The *buzz*, the natural noise a human mind makes, or
-whatever one might call it, was uncannily faked. Piecewise and digital.
+legendary Alexander Muller in a fierce firefight in Program Space -- a recording
+from the Data War replayed on broadcast; and an all but pornographic experience,
+pounded his mind. The mental copies from the experienced reality of four people,
+in whole or in part, filled him completely, occupying more focus then either of
+his Signals. He had a suspicion the emulated thoughts of the reviewer were not
+human. The *buzz*, the natural noise a human mind makes, or whatever one might
+call it, was uncannily faked. Piecewise and digital.
 
 *This Gestalt can't possibly be that good, come on. Really?* he thought, the
-slushing of all too appetizing food spiking simulated taste buds. His thoughts
+slushing of all too appetizing mush spiking simulated taste buds. His thoughts
 on each thoughtStream overlapped into a confusing mess.
 
 Elliot was catatonic. His eyes moving across the server room by no impulse of
 his own creation. But, somehow, despite the thunder of four thoughtStreams,
-vivid experience of the Matrix, glassy-eyed observation of reality --- and, of
-course, loud music playing on his vintage over earbud --- the doubleSignal
+vivid experience of the Matrix, glassy-eyed observation of reality -- and, of
+course, loud rock music playing over his vintage earbuds -- the doubleSignal
 Elliot miraculously managed to split himself again. A stray image of his own
 creation squeezed out and into his mind's eye.
-
-* * *
 
 He caught a glimpse of himself. Through all the noise. His projection hovered
 just beyond the acrylic window looking back at his body, perfectly still despite
 the sweltering heat. A blank face with thick eyebrows and, mostly prominently,
 round orange-tinted glasses looked back at him. His messy brown hair fell down
 over his forehead and framed his gaunt, angular face. He was pale and
-acne-scarred, a few days dark stubble.
+pockmarked, a few days dark stubble.
 
 *Pitiful. Look at yourself. Can't even keep your jaw closed.*
 
@@ -100,9 +98,15 @@ acne-scarred, a few days dark stubble.
 
 *Nah... Don't bother me. Lemme rest, just a few more minutes.*
 
-*What a joke. You can't even control one muscle. Come on, not even for me?*
+*Look at that. Your lips aren't even touching. What a doubleSignal you are.*
 
-The projection blushed, batting long eye-lashes at himself.
+He made not response before he continued to talk down on himself.
+
+*What a joke.* It squinted, frowned disapprovingly. *You can't even control one
+muscle. Come on, not even for me?*
+
+The projection blushed, batting long eye-lashes at himself. The change in
+expression was incoherent, only a vague image.
 
 He heard a noise beside him come from the dingy room, but paid it no attention,
 continuing to dissolve his brain a little longer.
@@ -110,182 +114,227 @@ continuing to dissolve his brain a little longer.
 *Never for you. You're the joke, ya know. Let me be. That's what normal people
 do, don't they. They let themselves be, just exist.*
 
-*You're no normal person---*
+*You're no normal person--* Drool flew out of his gaping mouth as a hand hit
+him hard on the back of the head. He slammed face-first into the window, an
+unconscious chuckle escaping his still-entranced lips, his obnoxious tinted
+glasses sliding up through his hair to reveal two pools of light brown for eyes,
+now only an afterimage fading from his floating introspection. The projection
+crumbled to pieces right in front of his eyes.
 
-Drool flew out of his gaping mouth as a hand hit him hard on the back of the
-head. He slammed face-first into the window, an unconscious chuckle escaping his
-still-entranced lips, his obnoxious tinted glasses sliding up through his messy
-brown hair to reveal a set of large brown eyes and ever-so-slightly receding
-hairline, now only an afterimage fading from his floating introspection. The
-projection crumbled to pieces right in front of his eyes.
+"Turn it off! Help me," Habib Khalil commanded from behind. Brusque, only mildly
+annoyed.
 
-"Turn it off! Help me," Habib commanded from behind. Brusque, monotone. His tone
-held no disappointment or disapproval.
+All four thoughtStreams ended at the distraction. Only two minutes had passed
+since he decided to take a load off, but hours of content still managed to pass
+through his mind. His focus immediately returned to the real, to Fractilia, like
+current flowing through a short circuit. A ten-ninety split between Fractilia
+and the real, respectively. He stumbled, almost falling to the carpeted floor of
+the surreal bar, before regaining himself and continuing his stroll, now only a
+fading dream to his consciousness. He reset his glasses, turned his music down,
+twisted elegantly, put his back against the window, and looked down at the large
+Moroccan man in the hole with a great smirk.
 
-In an instant, all four thoughtStreams ended. Only two minutes had passed since
-he decided to take a load off. His focus immediately returned to the real, to
-Fractilia, like current flowing through a short circuit. A fifty-fifty split. He
-stumbled, almost falling to the carpeted floor of the surreal bar, before
-regaining himself and continuing his stroll. He reset his glasses, twisted
-elegantly, put his back against the window, and looked down at the large man
-with a great smirk.
-
-Habib was muscular, taller then Elliot by a good few inches. The deep dark
-around his eyes softened his gaze. His lean face was clean-shaven and his hair
+Habib was muscular, taller then Elliot by at least a foot. The deep dark around
+his grey eyes softened his gaze. His lean face was clean-shaven and his hair
 well groomed. He wore a sweat-soaked white tank top and jeans, with cheap
 worn-down sneakers. His contorted face stared right at Elliot, struggling to
 carry a bundle of wires up through a hole in the corner of the room.
 
 Elliot stared right back. Habib widened his eyes, briefly stopping his effort.
 
-After an awkward second, Elliot slid off the ledge and scrambled to grab the
-cables with both arms. Habib turned around to pull the cables through the
-makeshift tarp *airlock* between the server and maintenance room, lifting them
-off the ground. Elliot readied himself to pull the end into the room. The bundle
-of cables felt like a chain of bowling balls.
+"Yeah, sorry," Elliot said. Habib had already started to turn around and moved
+down to pull the cables through the makeshift tarp *airlock* between
+`kern-marez-0934` and the maintenance room, lifting them off the rock they were
+caught on.
 
-"On three. One, two, three..." Habib pulled hard with Elliot. Both grunting with
-effort. The cables moved an inch.
+Elliot slid off the squat ledge and scrambled to grab the cables with both arms,
+readying himself to pull the end into the room. The bundle of cables felt like a
+chain of bowling balls.
 
-"Again, one, two, three..." The cable moved another inch. Elliot solidified his
+"On three. One, two, three--" Habib pulled hard with Elliot. Both grunting with
+effort, Habib providing most of the force. The cables moved an inch.
+
+"Again, one, two, three--" The cables moved another inch. Elliot solidified his
 stance and moved closer, bracing against the sides of the hole. "Pull harder!"
 Habib let out, exacerbated. Elliot frowned.
 
-"One, two, three..." The cable moved a few inches. Manoj's neuralModem, the
-connect point, was a few more feet away. Elliot continued to pull, letting the
-end of the bundle pass him as he held the cables over the lip of the hole. Both
-men pulled the bundle through the hole.
+"One, two, three--" This time, the cables moved a few inches, as both found
+their rhythm. Elliot continued to pull, letting the end of the cables pass him
+as he held the cables over the lip of the hole. Each heave pulled the cables a
+bit further into the dark room. Each inch brought the cables closer to their
+designation. He turned to see their progress.
 
-Elliot looked back, saw the cables nearly at their designated ports on the giant
-neuralModem, and let go.
+A mass of haphazardly connected devices festered in the center of the room. Thin
+red cables split off from it connecting to the two monoSignals, Manoj and Anita.
+Manoj laid, unconscious to the real, elongated by his thin frame in a cushioned
+reclining chair. A cultured steak sat half-eaten on his lap. The tens of
+unorganized wires protruding from his wrist, connecting to the central
+neuralModem, resembled red muscle fibers. He wore an oversized pattern T-shirt
+and shorts.
 
-"Hey! We got it!" Elliot turned back around to look down at Habib, his hands on
+The other, Anita, was similarly connected. She laid in an ice bath, covered by a
+towel, on the other side of the small room from Manoj. Her tangled, wet hair
+hung off the edge of the tube. The red cables came out of the water at the base
+of the tub, twisting towards the shared, multi-user nerualModem. Both siblings
+had silky black hair and smooth brown skin; they were strikingly similar in
+appearance.
+
+He continued to pull, now looking at the back of Habib's sweaty neck, seeing how
+his jaw moved at each utterance. A minute more of struggle.
+
+"Hey! It's up!" Elliot turned back around to look down at Habib, his hands on
 his knees. Habib let go of the cables, put his hands on his hips, and leaned
 back in the tunnel, awkwardly avoiding the jagged walls. He gave an open mouthed
 smile to Elliot, breathing heavily, before climbing up into the room. Elliot
-gave him a hand and pulled him over the lip.
+grabbed his forearm to pull him up, patting him on the back as he vaulted out.
 
-Both of them looked back at the other two people in the room, panting. Manoj
-laid unconscious to the real, elongated by his thin frame, in a cushioned
-reclining chair. A cultured steak sat half-eaten on his lap. His arm was plugged
-in from his wrist to his neuralModem. The tens of unorganized wires protruding
-from his wrist resembled red muscle fibers. He wore an oversized pattern T-shirt
-and shorts. The other, Anita, was connected to her own smaller neuralModem by a
-similar set of wires. She laid in an ice bath, covered by a towel, on the other
-side of the small room. Her tangled, wet hair hung off the edge of the tube.
-Elliot walked over to grab the cables and plug them into Manoj's neuralModem.
-Habib greedily drunk some water, the heat of the server having drained him.
+Habib cracked his back. "Phew! Looks good, let's wrap up and go." He tapped a
+nonexistent watch. Elliot made a thumbs up, starting to shift his focus away
+from the real.
 
-*Got the cables ready. Plug in now?* he thought, transmitting it to Manoj over
-an old, secure protocol, circumventing their public Matrix connection.
+Elliot walked over to grab the cables and plug them into the neuralModem. Habib
+picked up and greedily drunk water from a container on the floor, drained by the
+server's heat.
 
-*One sec... yeah. Ready. Go on target... now!* Manoj responded. Elliot carefully
-plugged each cable into Manoj's neuralModem, watching as the lights turn green.
-At the same exact time, once the last cable was set, he gestured and simply
-teleported into hearing range of the two figures, ending his directionless walk.
+*Got the cables ready. Plug in now?* he thought, transmitting it to Anita over
+an old, secure protocol, circumventing a public Matrix connection.
+
+*One sec... yeah. Ready. Go on target... now!* she responded. Elliot carefully
+plugged each cable into the neuralModem, watching as each light turned green in
+step.
+
+Fractilia opened up in his mind, like a vivid daydream, making him dissociate
+from the real. A seventy-thirty split. He closed his eyes for a second to help
+focus during the transfer in mental effort. He gestured, in Fractilia, and all
+of space warped around him. He stepped through it, into hearing range of two
+figures, ending his directionless walk one billion trillion miles away from any
+other connected human Signal's avatar.
 
 In the real, Manoj was a nothing but a scrawny teenager, with long black hair
-and dark skin, just like Anita. Both of the siblings look strikingly similar. In
-Fractilia, his appearance was truly random. His avatar was generated with no
-user input as to avoid bias in creating anonymity. Elliot's avatar was just as
-random.
+and dark skin, just like Anita. In Fractilia, his appearance was truly random.
+His avatar was generated with no user input as to avoid bias in creating
+anonymity. Elliot's avatar was just as random.
 
-"...and just like that you beat him! No, I don't believe it," the stranger
-across from Manoj exclaimed. Elliot walked up next to the two seated avatars.
+Elliot closer to the two seated avatars. "...and just like that you beat him! I
+know Emulation isn't the easiest, but come on! I don't believe it,"
+the stranger across from Manoj exclaimed.
 
 "It's true. First round, he dropped like a fly when it happened," Manoj
 responded, taking a calculated glance back at Elliot as if to do a double-take.
-The stranger laughed. "Well, if it isn't Marcellus! What's up?"
+The stranger laughed. "Well, if it isn't *him*--Ciel! Come, sit!"
 
-"Ella, how nice to see you," practiced, mute, disinterested. The headless
-bartender phased into existence next to Elliot and handed him a glass of whiskey
+"Vinez, how nice to see you." Practiced, mute, disinterested. The headless
+bartender phased into existence next to *Ciel* and handed him a glass of whiskey
 at the smallest gesture. Another flick of the wrist and it phased out of
 existence. "May I?"
 
-Adrian waved him to sit quickly, attention still on Manoj. Elliot sat on the
-plush leather couch next to the stranger, deliberately away from Manoj. In the
-real, he pulled his coat off its hanger by the door and dusted it off.
-Underneath, he wore a white collar shirt with a dark red tie. His dark pants
-matched his boots. Habib wiped his face with a wet towel and put on his own
-leather jacket.
+Adrian waved him to sit quickly, attention still on *Vinez*. *Ciel* sat on the
+plush leather couch next to the stranger, deliberately away from *Vinez*. In the
+real, he pulled his coat off its hanger by the door and dusted it off before
+putting it on. He set its collar up. Underneath, he wore a white collar shirt
+with a bright red tie. His dark pants matched his boots. Habib wiped his face
+with a wet towel and put on his own leather jacket.
 
-The stranger barely looked over to greet Elliot, still laughing, still amazed by
-whatever story Manoj told him. "Hey, nice to meet you. You must know Ella?" A
-minimal interaction.
+The stranger barely looked over to greet *Ciel*, still amazed by whatever story
+Manoj told him. "Was he drunk? High? How could he miss it?" Another boisterous
+laugh.
 
-"Yeah, we've fought Emulation a few times. She called me here, said she needed
-me to prove something, that it was *important*."
+"Why don't you ask him?" A grin from *Vinez*, directed at *Ciel*. Manoj's mouth
+twiched ever-so-slightly in the real. He unconsciously shifted around in his
+chair, not totally paralyzed like the overclocked Anita.
 
-Elliot walked over to check on Anita's IV drip, then checked her temperature,
-pulse, and other vitals with a small analog device attached to one of the red
-wires leaving her wrist, which was submerged on her right. All were in the
-normal range for a low overclock, and so he put the device back on the table
-next to the porcelain tub, full of half-eaten food, overclocking drugs, and
-various tools. The tub and reclining chair the two monoSignals used were dragged
-down here a month ago, along with all the other provisions, through various
-secluded entrances.
+Now, the stranger looked over at *Ciel*, his alien avatar eyes blooming. "No
+way! You fought her, that was you! Wow!" He laughed again. *Asshole,* Elliot
+thought.
 
-The heavy tub was especially difficult to move, not to mention the large
-icemaker in the corner of the room Habib now pressed for ice. He wrapped it in
-his towel and put it on the back of his neck, sighing with relief.
+"She called me here, said she needed me to *prove* something, that it was
+*important*." Every word, every tone was planned. The group of four, who called
+themselves the *Cipherists*, had been preparing this hack for the last few
+weeks. It all rode on getting Adrian, the stranger, to connect to Anita's
+*unlisted* Emulation Userland. Something a Cipher user, like most human Signals
+on the Matrix, would never do without fully trusting the owners.
 
-"Adrian Vue here thinks I'm lying," Manoj's avatar grins at Adrian across the
-ornate table between their couches. Adrian may hide his reactions well, but its
-clear he'd blush if stuck in his Host.
+Elliot walked over to check on Anita. She was at a somewhat dangerous overclock.
+*Hopefully Rafael's on his way back soon, her ice is almost melted,* he thought,
+transmitting only a vague impression of it to Anita. Rafael's last text was
+simply `omw`. In quick succession he checked her IV drip, temperature, pulse,
+and other vitals with a small analog device attached to one of the red wires at
+the base of her tub, winding underwater from her submerged wrist. All were in
+the normal range, and so he put the device back on plastic stool at the foot of
+the tub, full of various cartridges, overclocking drugs, and tools.
 
-"Adrian Vue? Altetro Vue?" Elliot glances from Adrian to Ella and back to
-Adrian.
+<!-- The tub and reclining chair the two monoSignals used were dragged down here a
+month ago, along with all the other provisions, through various secluded
+entrances. The heavy tub was especially difficult to move, not to mention the
+large icemaker in the corner of the room Habib now pressed for ice. He wrapped
+it in his towel and put it on the back of his neck, sighing with relief. -->
 
-"Yep, its true," he said, proud and arrogant. *Perfect,* Elliot thought. He had
-to be giddy, irrational, impulsive for the next part to work.
+Habib wet a towel, placed it on his neck, and wiped his face with his hand. The
+light from the server room left his red outlined shadow on Manoj's now side
+sleeping form.
+
+<!-- "Adrian Vue here thinks I'm lying," *Vinez*'s female avater grinned at Adrian.
+*She* put her drink down on the ornate table in a silky motion. Adrian may hide
+his reactions well, but its clear he'd blush if stuck in his Host. -->
+
+Manoj's female avatar smiled at *Ciel*, then pointed at Adrian, glass in hand.
+"Adrian here thinks the trick I pulled yesterday didn't happen."
+
+*Ciel* grunted and looked at Adrian. He acted as if he had no idea the now
+mentioned Adrian was, in fact, Adrian Vue, heir to the Altetro fortune.
+
+"Yeah. A stupid mistake. It wasn't my best performance, I admit."
+
+"Is there a recording? I *need* to see the fight," Adrian blurted out. *Vinez*
+put up a finger and closed his eyes. The next instant, a 3D video surrounded all
+three Signals, nearly engulfing the bar in white light, lest its slight
+transparency.
 
 Habib coughed loudly near the maintenance room's door and spat something on the
-floor. Elliot adjusted Anita's head position and stood to walk over. It was
-difficult, but not impossible, to talk in the real and Matrix at the same time.
-He gave Habib a thumbs up and they both walked through the bulkhead-like door,
-into the red lit hallway. The door closed with an airtight squeal, locking them
-out.
+floor. Elliot adjusted Anita's head position and stood to walk over. He gave
+Habib another thumbs up and they both walked through the bulkhead-like door,
+into the red lit hallway. Talking with most of his focus in Fractilia was not
+impossible for him, but the difficulty made it a hassle. The door closed with an
+airtight squeal, locking them out.
 
-"
+*Elliot, fifteen minutes to get to the Vue Estate... clock started... I have
+capture Userland set... access expires in three hours... local signalSpace
+setup... all pseudoSignal deanonymization tools ready... cipherSignal tracking
+program ready... everything is GO,* thought Anita to Elliot and Manoj. Habib
+preferred to disable his Interface, only connecting it to a neuralModem when
+absolutely necessary. A quick conformation came from Elliot and Manoj's minds.
 
+Elliot's neuralModem was smaller, wrapped around his wrist like electrical tap,
+connected to Kernel's mesh network. He gave up a localSpace and increase
+fidelity in favor of wireless convince. Anita, overclocked and residing in her
+secure localSpace, needed a large device. Manoj enjoyed the increased fidelity
+-- although with neuralModems as advanced as they were, the improvements were
+small. Manoj and Anita were connected by rare pre-War hardlines installed in the
+maintenance room. Harder to trace.
 
+As a doubleSignal, Elliot didn't care much about fidelity. His focus was often
+to divided to notice any imperfections in the simulation.
 
+"Is there a higher resolution recording?" Adrian complained, embarressed [fuck
+my stupid chud dialogue writing skills]. Elliot didn't notice anything wrong. To
+the seventy percent of his mind immersed in Fractilia, it was a perfect
+recreation of yesterday's Emulation fight.
 
+Large white blocks float around the three seated figures, their leather couches
+floated above a grand grided surface. The similarly textured blocks intersect
+and merge with the surface, moving slowly in an out, creating variable but
+consistent cover for the two contestants below. The sky around them is 
 
-
-
-
-
-Elliot's portable neuralModem connected to Kernel's mesh network. The
-monoSignals used hardlines built into the maintenance room before the War.
-
-
-
-
-
-
-
-
-
-
-
-Habib comment
-
-
-Rafael comes to say something, he was just outside doing something? He mentions
-Anita?
-
-
-
-
-
-
-<!-- Slip into waking dream.
+"This is all I've got, sorry," *Vinez* blushes at Adrian. A little tension never
+hurts rash decisions. Adrian, the naive teenage son of Felix Vue, quickly averts
+his gaze and nods.
 
 
-Red lines from Anita's wrist. -->
 
----
+
+
+
+
 
 <!-- Scene: -->
 <!-- Characters: -->

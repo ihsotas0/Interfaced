@@ -24,34 +24,48 @@ spun up, the Severed Signal reveals the truth about the scale and value of the
 Adam Task's fee, inciting the Cipherists to their next big heist. The biggest
 heist in history.**
 
-Clusters in kern-marez-0934 predate war and destruction of hardlines, so Manoj
-could 
+Clusters in kern-marez-0934 predate war and destruction of hardlines, so
+Cipherists could use less detectable hardlines to the Matrix. Global wireless
+systems allowed for easier localization of users on the Matrix. After the
+operation, they planned to scuttle everything and run.
 
 The Cipherists want to extract information using Severed Signal enhanced
 interrogation on their private server. Manoj keeps Adrian occupied in Matrix,
 after weeks of building a relationship with him (he is master of Matrix social
-engineering, but terrible in real world). Elliot joins Manoj in Matrix and
-Habib/Rafael in real to monitor all parts of the Signal heist.
+engineering, but terrible in real world). He builds up a story of himself as a
+great Emulation fighter, and Elliot as a opponent. Elliot joins Manoj in Matrix
+and Habib/Rafael in real to monitor all parts of the Signal heist, and ensure he
+can trick the real Adrian into thinking he isn't Marno in the real
+(doubleSignals are very rare and valuable for this kind of trickery).
 
-The original plan is for Manoj to convince Adrian to use QuickCrypt (a clone of
-CryptRoom, a standard Userland extension for encrypted communication) on a
-Userland server without a CryptRoom, as it is more "convenient" than moving to a
-Userland server with one. Once in the QuickCrypt hack, Adrian's Cipher Signal
-can be analyzed (over time, generating a pseudoSignal fingerprint) beyond just a
-Still Signal copy (a single state), and hopefully be traced back to his real
-Signal with additional information, by Anita. This requires significant
-overclocking not allowed on the Userland server Adrian is on, so Anita is
-confined to a overclock friendly hidden Userland server for hackers (Crow's Den?
-Free Hub?). To find and copy his real Signal (which resides on the
-non-overclocked Cipher), the Host also most be analyzed too, in a similar
-manner.
+The original plan is for Manoj to convince Adrian to move to a private Emulation
+game server run by Anita, with the justification being that Marno doesn't want
+any cheating, with Anita (by anonym) being a third-party supplier. Once in the
+Emulation game spectator area, Adrian's Cipher Signal can be analyzed (over
+time, generating a pseudoSignal fingerprint) beyond just a Still Signal copy (a
+single state), and hopefully be traced back to his real Signal with additional
+information, by Anita. This requires significant overclocking not allowed on the
+Userland server Adrian is on, so Anita is confined to a overclock friendly
+hidden Userland server for hackers (in the 90s sense of the word), where the
+fake private Emulation server is hosted. To find and copy his real Signal (which
+resides on the non-overclocked Cipher), the Host also most be analyzed too, in a
+similar manner.
 
-Habib, Rafael, and Elliot infiltrate Adrian's penthouse to access his neural
-modem and send the Host pseudoSignal data to Anita. Once the Adrian's real
-Signal is located by fingerprinting, Manoj will find its non-overclocked user,
-and run a separate, trivial man-in-the-middle memory-read hack to copy their
-Still Signal from Userland. Adrian needs to be in QuickCrypt for 5 minutes, then
-he can leave and he only needs to be occupied by Elliot until they escape the
+Habib and Elliot infiltrate Adrian's penthouse to access his neural modem and
+send the Host pseudoSignal data to Anita. Once the Adrian's real Signal is
+located by fingerprinting, Anita will find its non-overclocked user, and run a
+separate, trivial man-in-the-middle memory-read hack to copy their Still Signal
+from Userland. Adrian needs to be in the Emulation during this so notifications
+of tempering of his Signal can't be blocked by custom Userland settings
+
+
+
+[update below when needed]
+
+
+
+, then he
+can leave and he only needs to be occupied by Elliot until they escape the
 penthouse and Manoj finds the real Signal before the avatar's Signal is replaced
 with another online Cipher user's after Adrian disconnects. That copy is then to
 be moved to the Cipherists private non-Userland server on a tapped

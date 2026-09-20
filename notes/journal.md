@@ -1131,4 +1131,25 @@ Elliot is good at noticing.
 Dynamic range of CNS voltage is set physiologically, frequency by overclock,
 where overclock requires special ADC.
 
+Start with: American State (big, mundi) + New Eastern Bloc (big) + Middle
+Markets (small). Alex timeline (2070), Data War.
+
+End with: American State (small) + New Eastern Bloc (small) + Middle Markets
+(big, mundi). Elliot timeline (2100).
+
+Alex resurected in late chapter to fight Elliot, who wants too end
+tetheredSignal Hosts and upload everyone as convergentSignals. *The
+Convergence*. Alex confronts Mundi in fascist ITP in South America. Elliot
+confronts Mundi in the form of Middle Markets Jordan Hayes.
+
+## September 20, 2026
+
+No ads in the city, because zombie people
+Child host detached rentable companion. Host detached rentable companion with CP guy from Faycal story. Signal can look and watch eyes of their body and quickly go to return (in ideal cases only, which are rare).
+Plastic table
+Pocked face
+Small ledge
+
+
+
 
