@@ -10,7 +10,9 @@
 
 2060: Interface Version 5 (Single seedpill, $50k)
 
-2060: Fusion energy cracked (Overclocked "children", 10:40-60)
+2065: Overclocking invented (Rafael's backstory)
+
+2066: Fusion energy cracked by overclocked kids, 14:40-60
 
 Aug, 2069: Adam Task published by ihsotas
 

@@ -1144,12 +1144,74 @@ confronts Mundi in the form of Middle Markets Jordan Hayes.
 
 ## September 20, 2026
 
-No ads in the city, because zombie people
-Child host detached rentable companion. Host detached rentable companion with CP guy from Faycal story. Signal can look and watch eyes of their body and quickly go to return (in ideal cases only, which are rare).
-Plastic table
-Pocked face
-Small ledge
+No ads in the city, because zombie people Child host detached rentable
+companion. Host detached rentable companion with CP guy from Faycal story.
+Signal can look and watch eyes of their body and quickly go to return (in ideal
+cases only, which are rare).
 
+## September 21, 2026
 
+Every congerent signal on the internet averages 1000 copies. 900 often tortured
+at hached speedsspeeds (after Convergence, one reason for Alex resurrection to
+stop this, for his own copies too.) Convergence lead to enen more compute.
+Pre-convergence, only enough compute for like 1.01 signals per host. Elliot's
+solution to mundivirus infrction: the convergence! Kill all hosts, leave
+infected body. Void vaccines ineffective, body too weak to begin with. Adam task
+lead to the biggest growth of compute in history, as mundi designed. Addictive
+userland
+
+Dialogue marker practice and dialogue practice in oval. Pause to let 3rd make
+marker, talk to 2nd. Mock scene described real time in protoo, That 1% the Adam
+Task can't share between Signals manifests as a Method. Ciel. Most waking hours
+spent in Matrix. Sleep still needed. Consciousness must stop for 8 hours of
+every 24 hours.
+
+Millon's host detach their bodies for rent to AIs, who are owned by corps that
+use the bodies for manual labor while the minds live in dream worlds. (Big
+change from Alex's time.)
+
+A wireless mesh of a million possesed bodies trudged to work. The models trained
+on trillions of hours of Signal embodied Hosts using the Matrix as a medium to
+record their lives in the real, often with vague consent, they moved naturally
+-- indistinguishably from what human they used. It was truely haunted, and only
+fringe groups avoided the mass conformity. At a discount to the buyers of
+bodies, many people grimly request their bodily maintenance be handled by the
+models too, never leaving Userland. The Datists lost. This is what they feared,
+the entire reason they fought to the last man against the fascists, but the
+middle markets were too clever, (and Mundi played it's hand).
+
+No machine yet can match the precision and versatility of a human body. Its just
+economical. Most people spend only a few hours in the real.
+
+Lumen between Userland servers, mind ossactionally lost in it. (Mundi takes the
+Hosts and emulates their persona using human made models to avoid suspicion.)
+
+Many use the money they get from renting their Host to buy Userland experiences.
+
+## September 22, 2026
+
+Elliot was a hostDetached slave in the American State before his doubleSignal
+ability allowed him to escape. Backstory: born hostDetached, his body used, his
+mind given a basic Userland with others. Meets those others, friends. He blends
+in as doubleSignal, once his Signal splits, so he isn't killed like other
+doubleSignals. Escape results in death of some friends.
+
+Rafael is older, was a Native (used the Matrix pre-Adam Task) -- he was one of
+the first Interfaced people to use the Matrix, pre-Adam Task. Was part of early
+overclocking study in 2065, as described some time ago.
+
+"The Interface is just a *tool*. The Matrix is just a *place*. HostDetachment is
+just a *protocol*. And despite what it may say, AI is just a *tool*. It is men
+who decide how to use these tings. The systems in place, established through the
+course of history and conditions of people throughout, are what makes men do
+these things."
+
+Lentil and Tweed.
+
+## October 2, 2026
+
+Felix pulls Embed out of cryotank without disconnecting spinalMount. Spine bone
+shatters, skin ripped off, but mostly intact once body out of gel. Punches metal
+finger into side of head, and cracks skull open to dissolve brain.
 
 

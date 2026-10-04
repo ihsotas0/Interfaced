@@ -18,39 +18,43 @@ sunken down into the ground, his view obscured by the reinforced metal framing
 of a thick acrylic window, tilted overlooking the expanse. Each node flickered,
 and the whole valley of computers faded into the dark fog of the background.
 
-He sat with one leg propped up on the windowsill while the other swung in an
-idle motion, his loosely worn black boots occasionally scraping the rough
-concrete wall, nearly touching the rough concrete floor. The maintenance room
-was dim, warmly lit by a few scattered lanterns and the red glow cast by the
-server, which left a fuzzy impression of Elliot on the far side of the room. It
-was silent, there, in that room. Thick acoustic insulation blocked the
-suffocating whirl of coolant. But his mind was not silent. It never was. No even
-in what should have been a moment of peace before his work begun. The twice
-embodied doubleSignal gazed absentmindedly at the heat, for he was lost in
-boundless waking dreams.
+He sat with one leg propped up on a ledge, while the other swung in an idle
+motion. His loosely worn black boots occasionally scraped the rough concrete
+wall, nearly touching the rough concrete floor. The maintenance room was dim,
+warmly lit by a few scattered lanterns and the red glow cast by the server,
+which left a fuzzy impression of Elliot on the far side of the room. It was
+silent, there, in that room. Thick acoustic insulation blocked the suffocating
+whirl of coolant. But his mind was not. It never was. No even in what should
+have been a moment of peace before his work begun. He fought, climbed out of the
+stinking flesh-trough, but always found his mind stuck right where it was. The
+twice embodied doubleSignal gazed absentmindedly at the heat, for he was lost in
+waking dreams.
 
-One, he leisurely strolled through, awaiting something. It was the infinite bar
-of some grand interior, one so indistinguishable from reality only a trained
-mind could tell it was fake -- a hallucination created by the Interface deep in
-his body. The ceiling was high, with intricate chandeliers shining brightly down
-onto the dark wooden interior, where an empty bar stretched endlessly into a
-distant white fog. Leather couches dotted the space to his left, the pattern
-repeating every ten meters. Two figures sit in the distance. The dark wooden bar
+### DO NOT EDIT OVER THIS BARRIER ###
+
+He leisurely strolled through one of the dreams, focus stuck elsewhere. It was
+the infinite bar of some grand interior, one so indistinguishable from reality
+only a trained mind could tell it was fake -- a hallucination created by the
+Interface deep in his body. The ceiling was high, with intricate chandeliers
+shining brightly down onto the dark wooden interior, where an empty bar
+stretched endlessly into a distant white fog. Leather couches dotted the space
+to his left, the pattern repeating every ten meters. The dark wooden bar
 stretched to his right, a headless bartender combing every dozen stools, each
 iteration cleaning a glass. All of space seemed to curve to some vanishing point
-he could not point out. Elliot was both real and unreal in that moment,
-simultaneously able to experience both the Matrix and the real with one mind. He
-was connected to Fractalia, a Userland owned and operated by the Altetro
-corporation, but only a little piece of his mind resided there, in his Signal:
-what could be called his copy, although many would consider it not *his* at all.
+he could not point out. [fix_fractal] Elliot was both real and unreal in that
+moment, simultaneously able to experience both the Matrix and the real with one
+mind. He was connected to Fractalia, a Userland owned and operated by the
+Altetro corporation, but only a little piece of his mind resided there, in his
+Signal -- his digital copy, what many would no consider *his* at all.
 
-Elliot considered himself a professional human mind. *At the very least, I'm a
-pretty good human mind*, he would often think to himself. A comforting mantra.
-He thought he was above what he subjected himself too. His mind, split between
+Elliot considered himself a professional human mind. *At the very least, I'm
+very good at being a human mind*, he would often think to himself. A comforting
+mantra. He thought he was above what he subjected himself too. But he wasn't. No
+one was, even though everyone thought they were. His mind, split between
 Fractilia and the experience formed from his body's sensation of the dingy
-maintenance room abutting `kern-marez-0934`, was stuck emulating a rancid set of
-thoughtStreams, one translated human. He played four at once, all saturating his
-mind, filling him with useless trivia he would forget in microseconds.
+maintenance room abutting `kern-marez-0934`, was stuck receiving a rancid set of
+thoughtStreams telepathically. He played three at once, all saturating his mind,
+filling him with useless trivia he would forget in microseconds.
 
 *New Userland server listing available now at Freehub, including groundbreaking
 restaurant Gestalt, with the highest resolution steaks... Cipher fryrate is a
@@ -58,81 +62,85 @@ record low of one in ten million, thanks to improvements in Userland security...
 Local Embedded labor strikes ended by force, two cyrotanks shutdown, Embeds
 dead... Tachi-Odyne--Altetro deal to be announced tomorrow...* buzzed the live
 autophony of a trained voice-to-thoughtStream reporter making a TV broadcast.
-She read slow and transmitted only her internal voice, inefficient for anyone
-overclocked or Embedded, who thought at superhuman speeds. He knew she was a
-human. He was a professional human mind, after all. Some subliminal *buzz* gave
-it away, something AI could never replicate.
+She read slow and transmitted only her internal voice. He knew she was a human.
+He was a professional human mind, after all. Some subliminal *buzz* gave it
+away, something an artificialSignal could never replicate.
 
-The mouthfeel of new food eaten by a reviewer; the pounding heart of the
-legendary Alexander Muller in a fierce firefight in Program Space -- a recording
-from the Data War replayed on broadcast; and an all but pornographic experience,
-pounded his mind. The mental copies from the experienced reality of four people,
-in whole or in part, filled him completely, occupying more focus then either of
-his Signals. He had a suspicion the emulated thoughts of the reviewer were not
-human. The *buzz*, the natural noise a human mind makes, or whatever one might
-call it, was uncannily faked. Piecewise and digital.
+[Fix]
 
-*This Gestalt can't possibly be that good, come on. Really?* he thought, the
-slushing of all too appetizing mush spiking simulated taste buds. His thoughts
-on each thoughtStream overlapped into a confusing mess.
+The pounding heart of the legendary Alexander Muller in a fierce firefight in
+Program Space -- a recording from the Data War replayed on broadcast
 
-Elliot was catatonic. His eyes moving across the server room by no impulse of
-his own creation. But, somehow, despite the thunder of four thoughtStreams,
-vivid experience of the Matrix, glassy-eyed observation of reality -- and, of
-course, loud rock music playing over his vintage earbuds -- the doubleSignal
-Elliot miraculously managed to split himself again. A stray image of his own
-creation squeezed out and into his mind's eye.
+The mouthfeel of new food eaten by a reviewer jostled for space in his
+attention; slushing of an all too appetizing mush spiked simulated taste buds.
+The *buzz*, the natural noise a human mind makes, or whatever one might call it,
+was uncannily faked. Piecewise and digital.
+
+
+; and an all
+but pornographic experience, pounded his mind. The mental copies from the
+experienced reality of three people, in whole or in part, filled him completely,
+occupying more focus then either of his Signals. He had a suspicion the emulated
+thoughts of the reviewer were not human. 
+
+[Fix]
+
+He was catatonic, for lack of a better term. Completely enamored by the three
+thoughtStreams and Fractalia. His eyes moved across the server room by no
+impulse of his own creation. But, somehow, [fix] despite the thunder of three
+thoughtStreams, vivid experience of the Matrix, glassy-eyed observation of
+reality -- and, of course, loud rock music playing over his vintage earbuds --
+the doubleSignal Elliot miraculously managed a thought.
 
 He caught a glimpse of himself. Through all the noise. His projection hovered
 just beyond the acrylic window looking back at his body, perfectly still despite
-the sweltering heat. A blank face with thick eyebrows and, mostly prominently,
-round orange-tinted glasses looked back at him. His messy brown hair fell down
-over his forehead and framed his gaunt, angular face. He was pale and
-pockmarked, a few days dark stubble.
+the sweltering heat. It was a perfect copy. He looked through it and saw himself
+sitting on the ledge. A blank expression -- with eyes far too large for his
+gaunt, angular face -- looked back at him. His thick brown hair was tousled.
+Pale and pockmarked, he left himself a few days dark stubble.
 
-*Pitiful. Look at yourself. Can't even keep your jaw closed.*
+*How incredible!* The projection squints its eyes, taking a closer look. *Hmm. I
+can't see anything. Elliot, what is this? A cavity? No, it's big. It's really
+big. A grand pool of nothing. Wow. I should've guessed. There's nothing, it's
+just, vast, empty. Can I even say it's vast? What a doubleSignal you are.*
 
-*Oh, give me a break. Can't I let my focus go just this once.*
+*Give me a break.*
 
-*Clench your jaw! Right now! Do it!*
+*I see it! Oh, now it all makes sense. You're a slave! Then and now, a slave!
+Always a slave! Slave! Slave! Slave!*
 
-*Nah... Don't bother me. Lemme rest, just a few more minutes.*
+It continued to chant. Elliot's image of himself, looking at his own projection
+beyond the window, did not react. His body made no expression.
 
-*Look at that. Your lips aren't even touching. What a doubleSignal you are.*
+*Stink of the masses. Limbs dragging, trudging to sell themselves to the highest
+bidder. You are nothing without them, you are nothing like them, so you say. Oh,
+but that isn't true, is it?* The projection smiled.
 
-He made not response before he continued to talk down on himself.
-
-*What a joke.* It squinted, frowned disapprovingly. *You can't even control one
-muscle. Come on, not even for me?*
-
-The projection blushed, batting long eye-lashes at himself. The change in
-expression was incoherent, only a vague image.
+Elliot's image furrowed its brow at the insult. His body remained
+expressionless.
 
 He heard a noise beside him come from the dingy room, but paid it no attention,
 continuing to dissolve his brain a little longer.
 
-*Never for you. You're the joke, ya know. Let me be. That's what normal people
-do, don't they. They let themselves be, just exist.*
-
-*You're no normal person--* Drool flew out of his gaping mouth as a hand hit
-him hard on the back of the head. He slammed face-first into the window, an
-unconscious chuckle escaping his still-entranced lips, his obnoxious tinted
-glasses sliding up through his hair to reveal two pools of light brown for eyes,
-now only an afterimage fading from his floating introspection. The projection
-crumbled to pieces right in front of his eyes.
+*You're no freeman--* Drool flew out of his gaping mouth as a hand hit him hard
+on the back of the head. He slammed face-first into the window, an unconscious
+chuckle escaping his still-entranced lips, his obnoxious tinted glasses sliding
+up through his hair to reveal two pools of light brown for eyes, now only an
+afterimage fading from his floating introspection. The projection crumbled to
+pieces right in front of his eyes.
 
 "Turn it off! Help me," Habib Khalil commanded from behind. Brusque, only mildly
-annoyed.
+annoyed. [improve_habib_desc]
 
-All four thoughtStreams ended at the distraction. Only two minutes had passed
+All three thoughtStreams ended at the distraction. Only two minutes had passed
 since he decided to take a load off, but hours of content still managed to pass
-through his mind. His focus immediately returned to the real, to Fractilia, like
-current flowing through a short circuit. A ten-ninety split between Fractilia
-and the real, respectively. He stumbled, almost falling to the carpeted floor of
-the surreal bar, before regaining himself and continuing his stroll, now only a
-fading dream to his consciousness. He reset his glasses, turned his music down,
-twisted elegantly, put his back against the window, and looked down at the large
-Moroccan man in the hole with a great smirk.
+through his mind. [FIX]His focus immediately returned to the real, to Fractilia,
+like current flowing through a short circuit. A ten-ninety split between
+Fractilia and the real, respectively. He stumbled, almost falling to the
+carpeted floor of the surreal bar, before regaining himself and continuing his
+stroll, now only a fading dream to his consciousness. He reset his glasses,
+turned his music down, twisted elegantly, put his back against the window, and
+looked down at the large Moroccan man in the hole with a great smirk.
 
 Habib was muscular, taller then Elliot by at least a foot. The deep dark around
 his grey eyes softened his gaze. His lean face was clean-shaven and his hair
@@ -142,10 +150,10 @@ carry a bundle of wires up through a hole in the corner of the room.
 
 Elliot stared right back. Habib widened his eyes, briefly stopping his effort.
 
-"Yeah, sorry," Elliot said. Habib had already started to turn around and moved
-down to pull the cables through the makeshift tarp *airlock* between
-`kern-marez-0934` and the maintenance room, lifting them off the rock they were
-caught on.
+[sarcastic_remark]"Yeah, sorry," Elliot said. Habib had already started to turn
+around and moved down to pull the cables through the makeshift tarp *airlock*
+between `kern-marez-0934` and the maintenance room, lifting them off the rock
+they were caught on.
 
 Elliot slid off the squat ledge and scrambled to grab the cables with both arms,
 readying himself to pull the end into the room. The bundle of cables felt like a
@@ -216,8 +224,8 @@ His avatar was generated with no user input as to avoid bias in creating
 anonymity. Elliot's avatar was just as random.
 
 Elliot closer to the two seated avatars. "...and just like that you beat him! I
-know Emulation isn't the easiest, but come on! I don't believe it,"
-the stranger across from Manoj exclaimed.
+know Emulation isn't the easiest, but come on! I don't believe it," the stranger
+across from Manoj exclaimed.
 
 "It's true. First round, he dropped like a fly when it happened," Manoj
 responded, taking a calculated glance back at Elliot as if to do a double-take.
@@ -231,9 +239,9 @@ existence. "May I?"
 Adrian waved him to sit quickly, attention still on *Vinez*. *Ciel* sat on the
 plush leather couch next to the stranger, deliberately away from *Vinez*. In the
 real, he pulled his coat off its hanger by the door and dusted it off before
-putting it on. He set its collar up. Underneath, he wore a white collar shirt
-with a bright red tie. His dark pants matched his boots. Habib wiped his face
-with a wet towel and put on his own leather jacket.
+putting it on. He set its collar up. Underneath, he wore a loose, white collar
+shirt with a bright red tie. His dark pants matched his boots. Habib wiped his
+face with a wet towel and put on his own leather jacket.
 
 The stranger barely looked over to greet *Ciel*, still amazed by whatever story
 Manoj told him. "Was he drunk? High? How could he miss it?" Another boisterous
@@ -249,10 +257,10 @@ thought.
 
 "She called me here, said she needed me to *prove* something, that it was
 *important*." Every word, every tone was planned. The group of four, who called
-themselves the *Cipherists*, had been preparing this hack for the last few
-weeks. It all rode on getting Adrian, the stranger, to connect to Anita's
-*unlisted* Emulation Userland. Something a Cipher user, like most human Signals
-on the Matrix, would never do without fully trusting the owners.
+themselves the *Cipherists*, had been preparing this hack for a week. It all
+rode on getting Adrian, the stranger, to connect to Anita's *unlisted* Emulation
+Userland. Something a Cipher user, like most human Signals on the Matrix, would
+never do without fully trusting the owners.
 
 Elliot walked over to check on Anita. She was at a somewhat dangerous overclock.
 *Hopefully Rafael's on his way back soon, her ice is almost melted,* he thought,
@@ -294,7 +302,7 @@ Habib coughed loudly near the maintenance room's door and spat something on the
 floor. Elliot adjusted Anita's head position and stood to walk over. He gave
 Habib another thumbs up and they both walked through the bulkhead-like door,
 into the red lit hallway. Talking with most of his focus in Fractilia was not
-impossible for him, but the difficulty made it a hassle. The door closed with an
+impossible, but the difficulty made it a hassle. The door closed with an
 airtight squeal, locking them out.
 
 *Elliot, fifteen minutes to get to the Vue Estate... clock started... I have
