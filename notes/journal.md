@@ -1206,7 +1206,7 @@ who decide how to use these tings. The systems in place, established through the
 course of history and conditions of people throughout, are what makes men do
 these things."
 
-Lentil and Tweed.
+Lentil and Tweed. Flaberjackles.
 
 ## October 2, 2026
 
@@ -1214,4 +1214,33 @@ Felix pulls Embed out of cryotank without disconnecting spinalMount. Spine bone
 shatters, skin ripped off, but mostly intact once body out of gel. Punches metal
 finger into side of head, and cracks skull open to dissolve brain.
 
+## October 6, 2026
 
+1:2 Host overclock doesn't equal 1:2 Signal overclock. The Signal only needs to
+avoid divergence by referencing the Host. The Host only gets 1 in 100 "frames"
+of Signal to converge it. Your body is completely off, so you don't feel that
+"autonomous" control over the Host a doubleSignal primairly in the Matrix would
+feel. Your Host is comatose and paralyzed, practically speaking. Your Signal
+becomes your conscious experience, your Host is just something the Signal looks
+at every few hundred steps to avoid divergence.
+
+## Octoboer 10, 2026
+
+Blue-collar work and service work replaced by hostDetached labor. White-collar
+work replaced by artificialSignal and Embedded labor.
+
+The Signal given less attention by a doubleSignal feels autonomous. Like when
+you do a routine action and your hands seem to move on their own. Now, apply
+this to the rest of your body.
+
+Felix and Rafael talk about convergence, Felix kills Embedded person, Rafael is
+the traitor who lets Elliot and Rafael in, and they kill Adrian incidently.
+Rafael is an Interfaceist (Interface scientist).
+
+"It's junk, an infection, we need to move on."
+
+## October 11, 2026
+
+Experimental hostDetached soliders during Alexander's time. Entire hostDetached
+standing army's in Elliots. The Datists main concern was hostDetached labor and
+Embedded labor being tools for hyperexploitation.
