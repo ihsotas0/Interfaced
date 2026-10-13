@@ -43,7 +43,7 @@ and doubleSignals with *DS.* POV characters are marked so.
 
 
 
-5. **(POV) (In.) Dr. Rafael Muller.** *The Cipherists.* (2052, 4, 34). Brilliant
+5. **(POV) (In.) Dr. Rafael Nowak.** *The Cipherists.* (2052, 4, 34). Brilliant
    Interface scientist who has had unfortunate life events leading to a life of
    crime.
 
@@ -54,7 +54,7 @@ and doubleSignals with *DS.* POV characters are marked so.
 
 
 
-4. **(Main POV) In. Alexander Muller.** *Cobalt Saber.* (2051--2072, 21:40,
+4. **(Main POV) In. Alexander Nowak.** *Cobalt Saber.* (2051--2072, 21:40,
    KIA). Method: Space.
 11. **(POV) Faycal-Monique Fetterman.** *Cobalt Saber.* (2042, 30, 60) Elliot's older cousin.
 12. **Marcel Thomas.** *Cobalt Saber.*

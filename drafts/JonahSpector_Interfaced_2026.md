@@ -30,60 +30,54 @@ stinking flesh-trough, but always found his mind stuck right where it was. The
 twice embodied doubleSignal gazed absentmindedly at the heat, for he was lost in
 waking dreams.
 
-### DO NOT EDIT OVER THIS BARRIER ###
-
-He leisurely strolled through one of the dreams, focus stuck elsewhere. It was
-the infinite bar of some grand interior, one so indistinguishable from reality
-only a trained mind could tell it was fake -- a hallucination created by the
+He strolled through one of the dreams, focus stuck elsewhere. It was the
+infinite bar of some grand interior, one so indistinguishable from reality only
+a trained mind could tell it was fake -- a hallucination created by the
 Interface deep in his body. The ceiling was high, with intricate chandeliers
 shining brightly down onto the dark wooden interior, where an empty bar
 stretched endlessly into a distant white fog. Leather couches dotted the space
-to his left, the pattern repeating every ten meters. The dark wooden bar
-stretched to his right, a headless bartender combing every dozen stools, each
-iteration cleaning a glass. All of space seemed to curve to some vanishing point
-he could not point out. [fix_fractal] Elliot was both real and unreal in that
+to his left, the pattern repeating at an ever increasing frequency. The dark
+wooden bar stretched to his right, a headless bartender combing every dozen
+stools, each iteration cleaning a glass. Hyperbolic space curved to some
+vanishing point he could not see. Elliot was both real and unreal in that
 moment, simultaneously able to experience both the Matrix and the real with one
 mind. He was connected to Fractalia, a Userland owned and operated by the
 Altetro corporation, but only a little piece of his mind resided there, in his
-Signal -- his digital copy, what many would no consider *his* at all.
+Signal -- his digital copy.
 
 Elliot considered himself a professional human mind. *At the very least, I'm
 very good at being a human mind*, he would often think to himself. A comforting
-mantra. He thought he was above what he subjected himself too. But he wasn't. No
-one was, even though everyone thought they were. His mind, split between
-Fractilia and the experience formed from his body's sensation of the dingy
-maintenance room abutting `kern-marez-0934`, was stuck receiving a rancid set of
-thoughtStreams telepathically. He played three at once, all saturating his mind,
-filling him with useless trivia he would forget in microseconds.
+mantra. Following this, he thought himself above what he subjected his mind too.
+But he wasn't. No one was, even though everyone thought they were. His mind,
+split between Fractilia and the experience formed from his body's sensation of
+the dingy maintenance room abutting `kern-marez-0934`, was stuck receiving a
+rancid set of thoughtStreams telepathically. He played three at once, all
+saturating his mind, filling him with useless trivia he would forget in
+microseconds.
 
 *New Userland server listing available now at Freehub, including groundbreaking
 restaurant Gestalt, with the highest resolution steaks... Cipher fryrate is a
 record low of one in ten million, thanks to improvements in Userland security...
 Local Embedded labor strikes ended by force, two cyrotanks shutdown, Embeds
 dead... Tachi-Odyne--Altetro deal to be announced tomorrow...* buzzed the live
-autophony of a trained voice-to-thoughtStream reporter making a TV broadcast.
-She read slow and transmitted only her internal voice. He knew she was a human.
-He was a professional human mind, after all. Some subliminal *buzz* gave it
-away, something an artificialSignal could never replicate.
+autophony of a trained voice-to-thoughtStream reporter. She read slow and
+transmitted only her internal voice. He knew she was a human. He was a
+professional human mind, after all. Some subliminal *buzz* gave it away,
+something an artificialSignal could never replicate. Sidelining the reporter,
+the pounding heart of the legendary Alexander Nowak in a fierce firefight -- a
+recording from the Data War replayed on broadcast. Alexander's scalp tingled as
+bullets ripped overhead. Elliot's mind mirrored the recorded experience, the
+adrenaline, but not what Alexander saw. He heard commands transmitted to and
+from Alexander, as if he spoke and heard them himself, registering them with
+unearned confidence. The mouthfeel of new food eaten by a reviewer jostled for
+space in his attention; slushing of an all too appetizing mush spiked simulated
+taste buds. The *buzz*, the natural noise a human mind makes, or whatever one
+might call it, was uncannily faked. Piecewise and digital. *Surely an
+artificialSignal, this one*, he thought. The mental copies from the experienced
+reality of three people, in whole or in part, filled him completely, occupying
+more focus then either of his Signals.
 
-[Fix]
-
-The pounding heart of the legendary Alexander Muller in a fierce firefight in
-Program Space -- a recording from the Data War replayed on broadcast
-
-The mouthfeel of new food eaten by a reviewer jostled for space in his
-attention; slushing of an all too appetizing mush spiked simulated taste buds.
-The *buzz*, the natural noise a human mind makes, or whatever one might call it,
-was uncannily faked. Piecewise and digital.
-
-
-; and an all
-but pornographic experience, pounded his mind. The mental copies from the
-experienced reality of three people, in whole or in part, filled him completely,
-occupying more focus then either of his Signals. He had a suspicion the emulated
-thoughts of the reviewer were not human. 
-
-[Fix]
+### DO NOT EDIT OVER THIS BARRIER ###
 
 He was catatonic, for lack of a better term. Completely enamored by the three
 thoughtStreams and Fractalia. His eyes moved across the server room by no
